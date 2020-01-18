@@ -1,3 +1,11 @@
+"""
+Prompt the user for two words and for two numbers.
+
+If the user makes a mistake (e.g. putting in a word where a number is expected), give them useful feedback and a chance to fix it.
+
+Write a function that takes those inputs as parameters. Your function should loop through all of the numbers from 1 through 100. For each number, if it is divisible by the user’s first number, you should print the user’s first word; if it is divisible by the user’s second number, you should print the user’s second word; if it is divisible by both of the user’s numbers, you should print both words; and if it is not divisible by either, you should print the number itself.
+"""
+
 def get_input():
     while True:
         try:
@@ -33,5 +41,5 @@ def print_num(inputs):
             print(i)
 
 if __name__ == "__main__":
-    output = get_input()
-    print_num(output)
+    user_input = get_input()
+    print_num(user_input)
