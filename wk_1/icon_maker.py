@@ -12,6 +12,8 @@ Purpose: Create a program in python that uses looping and basic data structures 
 5. Post your code on your github account
 """
 
+
+
 # create data structure in list form
 lists = [
     [0,0,0,0,1,0,0,0,0], # row 1
@@ -27,23 +29,33 @@ lists = [
 ]
 
 def line_break():
-    """
-    Helper function to create line breaks
-    """
+    """Helper function to create line breaks"""
     print('\n\n' + '-'*50 + '\n')
 
-def parse_char(char):
+def parse_char(char,invert=False):
+    """Return binary characters depending on the input
+    
+    Keyword arguments:
+    char -- input character that is streamed into the function
+    invert -- boolean to indicate whether or not to invert returned binary symbols
     """
-    Return binary characters depending on the input
-    """
-    if char == 0:
-        return '.'
-    elif char == 1:
-        return '@'
+    if invert == False:
+        if char == 0:
+            return '.'
+        elif char == 1:
+            return '@'
+    else:
+        if char == 0:
+            return '@'
+        elif char == 1:
+            return '.'
+
 
 def print_lists(lists):
-    """
-    Print the contents of the list sans newline
+    """Print a concatenated list of lists sans newline
+
+    Keyword arguments:
+    lists -- input data, expects a list of lists data structure
     """
 
     print('Solution #1: Basic Display using a counter')
@@ -59,12 +71,39 @@ def print_lists(lists):
 
     print('Solution #2: Basic Display using join()')
     for l in lists:
-        temp_list = []
+        temp_list = list()
         for i in l:
             temp_list.append(parse_char(i))
         print(''.join(temp_list))
 
+def print_lists_with_scale(lists, scale=1, invert=False):
+    """Print the contents of the list to n-times scale
 
+    Keyword arguments:
+    lists -- input data, expects a list of lists data structure
+    scale -- scale of the printed icon
+    invert -- boolean to invert the binary symbols
+    """
+
+    for l in lists:
+        temp_list = list()
+        for i in l:
+            temp_list.append(parse_char(i,invert)*scale)
+        for i in range(scale):
+            print(''.join(temp_list))
 
 if __name__ == "__main__":
+    print('Solution for challenge #1:\n')
     print_lists(lists)    
+
+    line_break()
+
+    print('Solution for challenge #2:\n')
+
+    print('Solution with 3x scale')
+    print_lists_with_scale(lists, 3)
+
+    line_break()
+
+    print('Solution with 10x scale and invert symbols')
+    print_lists_with_scale(lists, 10, invert=True)
