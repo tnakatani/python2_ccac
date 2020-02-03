@@ -15,3 +15,7 @@ for l in (reversed(lists) if flip == True else lists)
 ## Passing function arguments to nested functions
 
 Rather than typing each argument down to the nested function, is there a way to pass these arguments without explicitly typing them?  Is ```kwargs``` the solution for this.
+
+## Streaming vs Reading Entire File
+
+Consider a situation where the input file is much larger.  How could this code be refactored to stream the incoming data rather than reading it.
