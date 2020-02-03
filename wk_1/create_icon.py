@@ -86,7 +86,7 @@ def create_icon(lists, scale=1, invert=False, flip=False):
             temp = list()
             for i in l:
                 temp.append(parse_char(i,invert)*scale)
-            for i in temp:
+            for i in range(scale):
                 f.write(''.join(temp) + '\n')
 
 if __name__ == '__main__':
