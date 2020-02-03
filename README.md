@@ -3,9 +3,9 @@
 ## Course Outline
 [Session Calendar and Session Guides]('https://technologyrediscovery.net/python/cit129_courseCalendar_sp20.html)
 
-| Weeks | Topics |
-| --- | --- |
-| 1 | Modularization Looping | [wk_1 assignment](https://github.com/tnakatani/python2_ccac/tree/master/wk_1)|
+| Weeks | Topics | |
+| --- | --- | --- |
+| 1 | Modularization Looping | [wk_1 assignment](https://github.com/tnakatani/python2_ccac/tree/master/wk_1) |
 | 2 | Looping Dictionaries | |
 | 3 | File I/O & Exceptions | |
 | 4 | git (branching, merging, conflicts, pull requests) | |
