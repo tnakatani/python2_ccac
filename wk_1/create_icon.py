@@ -34,10 +34,6 @@ lists = [
     [0,0,0,1,1,1,1,0,0,0]  # row 10
 ]
 
-def line_break():
-    """Helper function to create line breaks"""
-    print('\n' + '-'*50 + '\n')
-
 def parse_char(char, invert=False):
     """Return symbols depending on the binary input
     
