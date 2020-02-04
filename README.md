@@ -3,7 +3,7 @@
 ## Course Outline
 [Session Calendar and Session Guides]('https://technologyrediscovery.net/python/cit129_courseCalendar_sp20.html)
 
-| Weeks | Topics | |
+| Weeks | Topics | Assignments + Notes|
 | --- | --- | --- |
 | 1 | Modularization Looping | [wk_1 assignment](https://github.com/tnakatani/python2_ccac/tree/master/wk_1) |
 | 2 | Looping Dictionaries | |
