@@ -6,12 +6,6 @@ How to create a more dynamic function where the passed argument will flip the sy
 
 Reference: [create_icon.py, line 37](https://github.com/tnakatani/python2_ccac/blob/master/wk_1/create_icon.py#L37)
 
-## Passing function arguments to nested functions
-
-Rather than typing each argument down to the nested function, is there a way to pass these arguments without explicitly typing them?  Is ```kwargs``` the solution for this.
-
-Reference: [create_icon.py, line 37](https://github.com/tnakatani/python2_ccac/blob/master/wk_1/create_icon.py#L37)
-
 ## Streaming vs Reading Entire File
 
-Consider a situation where the input file is much larger.  How could this code be refactored to stream the incoming data rather than reading it?
+Consider a situation where the input file is much larger.  How could this code be refactored to stream incoming data rather than reading it?  Note to self: consider putting the list-of-lists in a separate text file, or just as a simple block of 10x10 binary numbers.
