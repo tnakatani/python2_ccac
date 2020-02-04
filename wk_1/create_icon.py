@@ -54,7 +54,9 @@ def parse_char(char, invert=False):
 def flip_list(lists, flip):
     """Return list as-is or in reversed order
     
-    Keyword arguments: Inherited from create_icon
+    Keyword arguments:
+    lists  -- input data to process, expects a list of lists
+    flip   -- boolean to flip icon 180 degrees
     """
     if flip == True:
         return reversed(lists)
@@ -63,7 +65,10 @@ def flip_list(lists, flip):
 def create_file_name(scale=1, invert=False, flip=False):
     """Helper function to dynamically create a file name
     
-    Keyword arguments: Inherited from create_icon
+    Keyword arguments:
+    scale  -- scale of the printed icon
+    invert -- boolean to invert the binary symbols
+    flip   -- boolean to flip icon 180 degrees
     """
     return ('icon_scaled_x' 
         + str(scale) 
