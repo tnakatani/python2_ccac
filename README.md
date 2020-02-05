@@ -15,6 +15,7 @@
 | 8 | OOP (classes, methods, etc) | |
 | 9 | Web Scraping using ```Beautiful Soup 4``` | |
 | 10 | Project on Web Scraping | |
+| ** | BREAK | |
 | 11 | OS Interaction using ```os``` | |
 | 12 | Database Interaction (PostgreSQL, SQLite) | |
 | 13 | Django web serving | |
