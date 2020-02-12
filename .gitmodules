@@ -1,0 +1,9 @@
+[submodule "other_repos/dat129_ccac"]
+	path = other_repos/dat129_ccac
+	url = https://github.com/zachary-trozenski/dat129_ccac.git
+[submodule "other_repos/cit129_ccac"]
+	path = other_repos/cit129_ccac
+	url = https://github.com/joelwhiteman/cit129_ccac.git
+[submodule "other_repos/N3python2"]
+	path = other_repos/N3python2
+	url = https://github.com/ccacNMorris/N3python2.git
