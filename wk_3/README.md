@@ -14,3 +14,13 @@ Merge operation is, "grab changes from anotehr branch, and integrate into my own
 2. Run ```git merge [branch or commit name]``` 
 3. Best scenario: changes are synchronized, and new commit will automatically be added to file history.
   - if conflicts exists, a merge operation will appear
+
+## Fetch / Merge / Pull
+
+```git fetch``` retrieves all commits on a given branch from a remote repo and those changes will be stored in the remote tracking branch named by default ```[remote_repo_name]/[branch_name]```.
+
+A remote tracking is special, because we never manually change with the remote tracking branch -- it's a local branch designed to synchronize with the remote, allowing for a controlled merge into any other specified branch.
+
+A ```git pull``` automatically updates the remote tracking branch AND merges those changes into your current branch without asking.
+
+Best practice: Get in the habit of separately running ```git fetch``` and ```git pull```.
