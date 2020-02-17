@@ -41,7 +41,7 @@ CARNAHAN ROAD WENZELL AVENUE (TIP)      | Carnahan Road Bridge                  
 SMALLMAN STREET RECONSTRUCTION          | 5012                                    | Strip District             | 2,730,000.0
 CHARLES ANDERSON BRIDGE (TIP)           | Charles Anderson Bridge                 | Central Oakland            | 2,709,000.0
 FACILITY IMPROVEMENTS - CITY FACILITIES | City-County Building                    | Central Business District  | 2,455,845.0
-                                        | Public Works 4th Division Main Building | Knoxville                  | 2,000,000.0
+N/A                                     | Public Works 4th Division Main Building | Knoxville                  | 2,000,000.0
 EAST CARSON STREET                      | 7490                                    | South Side Flats           | 2,000,000.0
 POOL REHABILITATION                     | Riverview                               | Perry North                | 1,600,000.0
  
