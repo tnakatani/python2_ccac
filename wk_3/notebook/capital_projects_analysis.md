@@ -21,7 +21,7 @@ max      | 15,065,798.0
 name                                                                                 | task_description                            | budget sum
 --- | --- | ---
 STREET RESURFACING                                                                   | Street Resurfacing City Wide                | 15,065,798.0
-                                                                                     | BITUMINOUS PAVING PROGRAM                   | 14,570,890.0
+N/A                                                                                  | BITUMINOUS PAVING PROGRAM                   | 14,570,890.0
 LED STREETLIGHT UPGRADE                                                              | CITYWIDE LED LIGHTING UPGRADE               | 14,000,000.0
 SMALLMAN STREET RECONSTRUCTION                                                       | Smallman Street Reconstruction              | 11,900,000.0
 ADVANCED TRANSPORTATION AND CONGESTION MANAGEMENT TECHNOLOGIES DEVELOPMENT (ATCMTD)  | ATCMTD - SMART SIGNALS                      | 11,306,977.5
