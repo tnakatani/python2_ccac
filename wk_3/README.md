@@ -1,26 +1,12 @@
-# On Git
+# Week 3 Project
 
-## 3 Regions in a Git Repo
+## Prompt
+> Explore the city of Pittsburg's capital projects on the WPRDC and answer a question by processing the dataset as a CSV
 
-1. Working Directory - The only human-viewable component of git
-2. Staging Area - Add files to this individually with ```git add [file]``` or, in root directory ```git add .```
-3. Index - Where commited files are stored in a tree structure
+## Output
 
-## Merging
-
-Merge operation is, "grab changes from anotehr branch, and integrate into my own branch"
-
-1. Checkout the branch in which you wish to merge your changes
-2. Run ```git merge [branch or commit name]``` 
-3. Best scenario: changes are synchronized, and new commit will automatically be added to file history.
-  - if conflicts exists, a merge operation will appear
-
-## Fetch / Merge / Pull
-
-```git fetch``` retrieves all commits on a given branch from a remote repo and those changes will be stored in the remote tracking branch named by default ```[remote_repo_name]/[branch_name]```.
-
-A remote tracking is special, because we never manually change with the remote tracking branch -- it's a local branch designed to synchronize with the remote, allowing for a controlled merge into any other specified branch.
-
-A ```git pull``` automatically updates the remote tracking branch AND merges those changes into your current branch without asking.
-
-Best practice: Get in the habit of separately running ```git fetch``` and ```git pull```.
+| File | Description |
+| --- | --- |
+| [`capital_projects_analysis.md`](https://github.com/tnakatani/python2_ccac/blob/master/wk_3/capital_projects_analysis.md) | Summary of findings from the analysis |
+| [`notebook/Week 3 Project - Pittsburgh Capital Projects Analysis.ipynb`](https://github.com/tnakatani/python2_ccac/blob/master/wk_3/notebook/Week%203%20Project%20-%20Pittsburgh%20Capital%20Projects%20Analysis.ipynb) | Jupyter notebook documenting the analysis |
+| [`scripts/capital_project.py`](https://github.com/tnakatani/python2_ccac/blob/master/wk_3/scripts/capital_projects.py) | Attempt to parse through the Capital Projects dataset with vanilla Python (rather than using Pandas) and output multiple CSV files with value counts of specified columns.|
