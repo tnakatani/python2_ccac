@@ -1,7 +1,7 @@
 # Week 3 Project
 
 ## Prompt
-> Explore the city of Pittsburg's capital projects on the WPRDC and answer a question by processing the dataset as a CSV
+> Explore the city of Pittsburgh's capital projects on the WPRDC and answer a question by processing the dataset as a CSV
 
 ## Output
 
