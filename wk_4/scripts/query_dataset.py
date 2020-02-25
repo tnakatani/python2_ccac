@@ -58,7 +58,7 @@ def create_null_table(dataset, specification, output):
                     if item not in null_table:
                         null_table[item] = 0
 
-        json.dump(null_table, o)
+        json.dump(null_table, o, indent=4)
         log_output_path(output)
 
 ############################################################
@@ -153,13 +153,13 @@ def query_dataset(dataset, specification, output):
         log_specifications(specification)
         log_count(matched_count)
         log_output_path(output)
-        json.dump(matched_rows,o)
+        json.dump(matched_rows,o,indent=4)
 
 if __name__ == '__main__':
     dataset = '../data/pgh_capital_projects.csv'
     specification = './specifications/specifications.json'
-    null_table_output = '../output/null_table.json'
-    query_output = '../output/query_output.json'
+    null_table_output = './output/null_table.json'
+    query_output = './output/query_output.json'
 
     log_status('return frequency table of null values for each key')
     create_null_table(dataset, specification, null_table_output)
