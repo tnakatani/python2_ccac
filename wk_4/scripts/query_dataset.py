@@ -157,7 +157,7 @@ def query_dataset(dataset, specification, output):
 
 if __name__ == '__main__':
     dataset = '../data/pgh_capital_projects.csv'
-    specification = './search_criteria.json'
+    specification = './specifications/specifications.json'
     null_table_output = '../output/null_table.json'
     query_output = '../output/query_output.json'
 
