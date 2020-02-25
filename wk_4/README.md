@@ -9,7 +9,23 @@ Write python code that conforms to the following specs:
 
 Use the following JSON search criteria for your query.  The `specifications.json` file can be found in the [`./scripts/specification`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/scripts/specifications) directory
 ```JSON
-{"status": ["Completed"], "neighborhood":["Shadyside", "BROOKLINE", "carrick"], "fiscal_year": [2017,"2018"], "area": ["Facility Improvement"]}
+{
+   "status":[
+      "Completed"
+   ],
+   "neighborhood":[
+      "Shadyside",
+      "BROOKLINE",
+      "carrick"
+   ],
+   "fiscal_year":[
+      2017,
+      "2018"
+   ],
+   "area":[
+      "Facility Improvement"
+   ]
+}
 ```
 
 ### Search Notes:
