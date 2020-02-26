@@ -11,11 +11,25 @@
 Write python code that conforms to the following specs:
 
 ## Purpose
+
 > Implement search criteria defined in the JSON format for searching for capital projects in PGH dataset, outputting resulting projects into a file in JSON format
+
+## Program Requirement 1: Searching
+>  Write code that can read in a search criterion JSON file of your specification. You'll need to be prepared to share this specification with others in the class
+
+> Allow the user to specify search criteria for project fiscal year, start date, area, asset_type, and planning status
 
 ## JSON-encoded search criteria:
 
-Use the following JSON search criteria for your query.  The `specifications.json` file can be found in the [`./scripts/specification`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/scripts/specifications) directory
+Use the following JSON search criteria for your query.  The `specifications.json` file can be found in the [`./specification`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/scripts/specifications) directory:
+
+Instructions:
+- Each field can take multiple items
+- `fiscal_year` key accepts either integers or strings
+- `area` key requires an exact match string.  It can't fuzzy matching at the moment.
+- An empty string won't limit results by this criteria
+- Remember to use double-quotes for JSON files
+
 ```JSON
 {
    "status":[
@@ -36,13 +50,4 @@ Use the following JSON search criteria for your query.  The `specifications.json
 }
 ```
 
-### Search Notes:
-- For dates: We will throw out malformed dates that are not YYYY-MM-DD~~ (This requirement was removed due to lack of connecetion to the primary data set)
-- A blank value in any specified query for a column/field will disqualify that record from inclusion in the results
-- Empty string: do not limit results by this criteria at all
-- Note: the "planning_status" key in the search JSON corresponds to the field named "status" in the csv
 
-### Program Requirement 1: Searching
-Write code that can read in a search criterion JSON file of your specification. You'll need to be prepared to share this specification with others in the class
-
-Allow the user to specify search criteria for project fiscal year, start date, area, asset_type, and planning status
