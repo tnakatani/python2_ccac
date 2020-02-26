@@ -3,8 +3,8 @@
 | Directory  | Description  |
 |:--|:--|
 | [`data`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/data)  | Location of capital projects dataset  |
-| [`scripts`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/pandas)  | wk_4 assignment written in Python  |
-| [`pandas`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/scripts)  | wk_4 assignment written with Pandas  |
+| [`scripts`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/scripts)  | wk_4 assignment written in Python  |
+| [`pandas`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/pandas)  | wk_4 assignment written with Pandas  |
 
 ---
 
