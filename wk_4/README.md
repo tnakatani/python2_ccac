@@ -1,5 +1,13 @@
 # wk_4 Assignment
 
+| Directory  | Description  |
+|:--|:--|
+| [`data`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/data)  | Location of capital projects dataset  |
+| [`scripts`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/pandas)  | wk_4 assignment written in Python  |
+| [`pandas`](https://github.com/tnakatani/python2_ccac/tree/master/wk_4/scripts)  | wk_4 assignment written using Pandas  |
+
+---
+
 Write python code that conforms to the following specs:
 
 ## Purpose
