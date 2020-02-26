@@ -26,7 +26,7 @@ Use the following JSON search criteria for your query.  The `specifications.json
 Instructions:
 - Each field can take multiple items
 - `fiscal_year` key accepts either integers or strings
-- `area` key requires an exact match string.  It can't fuzzy matching at the moment.
+- `area` key requires an exact match string.  It can't do fuzzy matching at the moment.
 - An empty string won't limit results by this criteria
 - Remember to use double-quotes for JSON files
 
