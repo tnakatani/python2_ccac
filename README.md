@@ -1,7 +1,9 @@
 # python2_ccac
 
+
 ## Course Outline
-[Session Calendar and Session Guides]('https://technologyrediscovery.net/python/cit129_courseCalendar_sp20.html)
+
+[Session Calendar and Session Guides](https://technologyrediscovery.net/python/cit129_courseCalendar_sp20_fresh.html)
 
 | Weeks | Topics | Assignments + Notes|
 | --- | --- | --- |
