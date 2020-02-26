@@ -3,6 +3,7 @@
 ## Course Links
 
 [Python 2 Overview](https://technologyrediscovery.net/#python2)
+
 [Session Calendar and Session Guides](https://technologyrediscovery.net/python/cit129_courseCalendar_sp20_fresh.html)
 
 ## Course Outline
