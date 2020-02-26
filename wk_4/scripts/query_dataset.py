@@ -167,13 +167,3 @@ if __name__ == '__main__':
     log_status('return rows that meets the imported specifications')
     query_dataset(dataset, specification, query_output)
 
-    """ Pandas version"""
-    """
-    print('\nPandas version:')
-    df = pd.read_csv('data/pgh_capital_projects.csv')
-    
-    # return_null_table
-    print("\nReturn null table:")
-    print(df.isnull().sum())
-    """
-
