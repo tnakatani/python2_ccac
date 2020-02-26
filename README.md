@@ -1,9 +1,12 @@
 # python2_ccac
 
+## Course Links
+
+[Python 2 Overview](https://technologyrediscovery.net/#python2)
+[Session Calendar and Session Guides](https://technologyrediscovery.net/python/cit129_courseCalendar_sp20_fresh.html)
 
 ## Course Outline
 
-[Session Calendar and Session Guides](https://technologyrediscovery.net/python/cit129_courseCalendar_sp20_fresh.html)
 
 | Weeks | Topics | Assignments + Notes|
 | --- | --- | --- |
@@ -23,7 +26,7 @@
 | 13 | Django web serving | |
 | 14 | Project | |
 
-## Appendix 1 - Readiness Assessments (Completed)
+## Appendix 1 - Readiness Assessments
 
 [`challenge_1.py`](https://github.com/tnakatani/python2_ccac/blob/master/readiness_assessments/challenge_1.py) : solutions for Python 2 entrace challenge
 
