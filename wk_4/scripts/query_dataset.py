@@ -143,12 +143,12 @@ def query_dataset(dataset, specification, output):
                 # skip row if any of the specified fields are empty
                 if not row[spec]: # use implicit boolean
                     continue
-                # count and append to list if field values exist in row
-                elif fields_exist_in_row(row, specification):
-                    matched_count += 1
-                    matched_rows.append(row)
-                else: 
-                    continue
+            # count and append to list if field values exist in row
+            if fields_exist_in_row(row, specification):
+                matched_count += 1
+                matched_rows.append(row)
+            else: 
+                continue
 
         log_specifications(specification)
         log_count(matched_count)
