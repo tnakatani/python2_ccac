@@ -1,0 +1,51 @@
+{
+    "description": "里国隆* - 奄美の哭きうた (LP, Album)",
+    "format": "LP, Album",
+    "year": 1975,
+    "images": [
+        {
+            "uri": "https://img.discogs.com/-jvdpd7PNKyCmZASZxpsogNR0ic=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg",
+            "height": 601,
+            "width": 600,
+            "resource_url": "https://img.discogs.com/-jvdpd7PNKyCmZASZxpsogNR0ic=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg",
+            "type": "primary",
+            "uri150": "https://img.discogs.com/fd8Mz93JVkajOj2Za8UuoUcgtC8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg"
+        },
+        {
+            "uri": "https://img.discogs.com/Tsbj9i-1wKWQp-dl-Zrh4flUNWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-7396.jpeg.jpg",
+            "height": 600,
+            "width": 600,
+            "resource_url": "https://img.discogs.com/Tsbj9i-1wKWQp-dl-Zrh4flUNWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-7396.jpeg.jpg",
+            "type": "secondary",
+            "uri150": "https://img.discogs.com/lyGyoKgyYMM6hMItOStZc1vhdEk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-7396.jpeg.jpg"
+        },
+        {
+            "uri": "https://img.discogs.com/0VoSvjZBWccq2O6Y3S3jxVKioms=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-5973.jpeg.jpg",
+            "height": 603,
+            "width": 600,
+            "resource_url": "https://img.discogs.com/0VoSvjZBWccq2O6Y3S3jxVKioms=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-5973.jpeg.jpg",
+            "type": "secondary",
+            "uri150": "https://img.discogs.com/20PZRQXJLNJzJC8gxjVR2EvZgvQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-5973.jpeg.jpg"
+        },
+        {
+            "uri": "https://img.discogs.com/yU1XH6prfi0-isuZ-56Bqzympjs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-2713.jpeg.jpg",
+            "height": 606,
+            "width": 600,
+            "resource_url": "https://img.discogs.com/yU1XH6prfi0-isuZ-56Bqzympjs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-2713.jpeg.jpg",
+            "type": "secondary",
+            "uri150": "https://img.discogs.com/nFSgFDF1JBspWu53caymOzg0eh4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-2713.jpeg.jpg"
+        }
+    ],
+    "id": 10818587,
+    "stats": {
+        "community": {
+            "in_collection": 5,
+            "in_wantlist": 45
+        }
+    },
+    "catalog_number": "BH-1527",
+    "artist": "里国隆*",
+    "title": "奄美の哭きうた",
+    "resource_url": "https://api.discogs.com/releases/10818587",
+    "thumbnail": "https://img.discogs.com/fd8Mz93JVkajOj2Za8UuoUcgtC8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg"
+}
