@@ -15,7 +15,7 @@
 | 2 | Looping Dictionaries | [modularity_sheet](https://docs.google.com/spreadsheets/d/15bjvzMLQm0rJNOw1vRNpCY7XJTD2B6HvRHtv2xGqTRE/edit#gid=0) |
 | 3 | <s>File I/O & Exceptions</s> <br> Modularity + Merging | [PGH Capital Project notebook](https://github.com/tnakatani/python2_ccac/tree/master/wk_3/notebook) <br> [Project Summary](https://github.com/tnakatani/python2_ccac/blob/master/wk_3/capital_projects_analysis.md) |
 | 4 | Query spec building in JSON; advanced Git | [JSON-encoded search criteria](https://github.com/tnakatani/python2_ccac/tree/master/wk_4) |
-| 5 | APIs | [API modules](https://technologyrediscovery.net/python/mod-api.html) |
+| 5 | APIs | [API modules](https://technologyrediscovery.net/python/mod-api.html) <br> [Discogs API Project](https://github.com/tnakatani/python2_ccac/tree/wk_5/wk_5/api_project) |
 | 6 | APIs | |
 | 7 | API project | |
 | 8 | OOP (classes, methods, etc) | |
