@@ -33,5 +33,3 @@ The script outputs two files prefixed by the ```--seller``` argument passed when
 1. <discogs_merchant>_listings.csv - CSV file listing top 100 most expensive records by the merchant.
 2. <discogs_merchant>_top_listing.csv - JSON file containing metadata of the most expensive record listed by the merchant. 
 
-Notable Records:
-
