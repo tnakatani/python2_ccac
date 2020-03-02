@@ -1,0 +1,77 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "USD",
+        "formatted": "$4,000.00",
+        "value": 4000.0,
+        "curr_id": 1
+    },
+    "ships_from": "United States",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "USD",
+        "value": 4000.0
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/991481768",
+    "comments": "The product images are of our copy for sale. Mild scuffing to LP surfaces, very light crackle underneath music, never overpowering music. Light moisture stains on both labels (product images are our copy for sale). Generic sleeve with hand written album title. Will ship with insurance. Serious offers will be considered.",
+    "seller": {
+        "username": "academyrecords",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "100.0",
+            "total": 5631,
+            "stars": 5.0
+        },
+        "uid": 1154865,
+        "url": "https://api.discogs.com/users/academyrecords",
+        "html_url": "https://www.discogs.com/user/academyrecords",
+        "shipping": "By placing an order you agree to our terms below.\r\n\r\nPlease ASK all question BEFORE placing an order. \r\nPlease make shipping inquiries BEFORE placing orders.\r\n\r\nWe accept Paypal  only.\r\n\r\nAll media visually graded unless stated otherwise.\r\n\r\nNo guarantees on additional downloadable content.\r\n\r\n******* NEW CHEAPER INTERNATIONAL SHIPPING RATES!!! Check your estimate below. *******\r\n\r\nShipping estimates for standard items:\r\n\r\nUSA:\r\n● 1 lb or less (approximately 1-3 CDs) : $3.99 \r\n● 1.1 lbs - 2 lbs (approximately 1 LP): $4.99\r\n● 2.1 lbs - 3 lbs: $5.99\r\n\r\nCanada:\r\n● 8 oz or less (approximately 1 CD): $8.99\r\n● 8 oz - 2 lbs (approximately 1 LP or 2-4 CDs): $12.99\r\n● 2.1 lbs - 3 lbs: $19.99\r\n● 3.1lbs - 4lbs:  $29.99\r\n\r\nAustralia, Japan, Hong Kong, South Korea, China (Australians, Discogs will add GST once shipping is added):\r\n● 8 oz or less (approximately 1 CD): $10.99 \r\n● 8 oz - 2 lbs (approximately 1 LP or 2-4 CDs): $16.99 \r\n● 2.1 lbs - 3 lbs: 25.99\r\n● 3.1lbs - 4lbs: $39.99\r\n\r\nEurope & Israel: \r\n● 8 oz or less (approximately 1 CD): 10.99\r\n● 8 oz - 2lbs (approximately 1 LP or 2-4 CDs): $17.99 \r\n● 2.1 lbs - 3 lbs: $26.99\r\n● 3.1lbs - 4lbs: $43.99\r\n\r\nREST OF WORLD:\r\n● 8 oz or less (approximately 1 CD): $10.99\r\n● 8 oz - 2lbs (approximately 1 LP or 2-4 CDs): $17.99 \r\n● 2.1 lbs - 3 lbs:  $27.99\r\n● 3.1lbs - 4lbs: $45.99\r\n\r\nNote: Double records, CD sets and box sets do not count as standard items.\r\n\r\nBuyers from Central and South America please write for shipping information.\r\n\r\n- Buyer pays for all shipping.\r\n- We ship using USPS Media Mail by default. \r\n- All shipments automatically come with USPS tracking, please check the USPS website to see if tracking is valid in your country. \r\n- We are happy to customize and combine shipping for multiple purchases or upgrade the shipping class. \r\n- Please inquire for customized shipping quotes.\r\n\r\nInternational buyers are responsible for all customs related charges and business.\r\nWe don't alter customs value for international orders.\r\n\r\nInternational buyers using freight forwarding companies based in the USA, will be required to pay for additional $3.00 signature confirmation. \r\nWe are not responsible for what happens to your item once your freight forwarding company signs for the package.\r\n\r\n\r\nWe do not remove jewel cases.\r\n\r\nIn Store Pick up & Payment:\r\nPick up is possible but must be pre-arranged.\r\nPlease write to us to give advanced notice of store pick ups and for payment information. We will confirm when an item is ready for you to collect.\r\nAdditional taxes apply for in-store payments. \r\n\r\nShipping is non refundable",
+        "id": 1154865,
+        "avatar_url": "https://img.discogs.com/BvSRRP92U-76w2FX2hsgNh_hZH0=/500x500/filters:strip_icc():format(jpeg):quality(40)/discogs-avatars/U-1154865-1502746446.jpeg.jpg",
+        "resource_url": "https://api.discogs.com/users/academyrecords",
+        "payment": "PayPal"
+    },
+    "sleeve_condition": "Generic",
+    "shipping_price": {},
+    "release": {
+        "description": "Bruce Springsteen - Greetings From Asbury Park, N.J. (LP, Album, TP, Pit)",
+        "format": "LP, Album, TP, Pit",
+        "year": 1973,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/K1DGvoDfBBof8McTSNi6QSX2tGw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14066533-1567189390-2055.jpeg.jpg",
+                "height": 600,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/K1DGvoDfBBof8McTSNi6QSX2tGw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14066533-1567189390-2055.jpeg.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/RhLW7MMJZxcKVb9Gc8mmEuF6o_Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14066533-1567189390-2055.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/SRp6xXoC1FRIrbz7rXUqIcuzAoE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14066533-1567189390-6095.jpeg.jpg",
+                "height": 600,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/SRp6xXoC1FRIrbz7rXUqIcuzAoE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14066533-1567189390-6095.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/lvOrURVTBmD0SujB1mHwgxRZa6A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14066533-1567189390-6095.jpeg.jpg"
+            }
+        ],
+        "id": 14066533,
+        "stats": {
+            "community": {
+                "in_collection": 2,
+                "in_wantlist": 18
+            }
+        },
+        "catalog_number": "PC 31903",
+        "artist": "Bruce Springsteen",
+        "title": "Greetings From Asbury Park, N.J.",
+        "resource_url": "https://api.discogs.com/releases/14066533",
+        "thumbnail": "https://img.discogs.com/RhLW7MMJZxcKVb9Gc8mmEuF6o_Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14066533-1567189390-2055.jpeg.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/991481768",
+    "audio": false,
+    "id": 991481768,
+    "condition": "Very Good (VG)",
+    "posted": "2019-08-30T11:48:24-07:00"
+}
