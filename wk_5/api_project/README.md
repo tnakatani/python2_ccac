@@ -14,10 +14,10 @@ Once you have data assembled that speaks to your research question, format the r
 
 ## Submission: Discogs API Search - What are the merchant's most valuable records?
 
-### ```discogs_api.py``` 
+### Scripts 1: ```discogs_api.py``` 
 `discogs_api.py` connects to the Discogs API to extract the most valuable records currently listed by a merchant.
 
-Below is an example of how to run the script: [^caveat]
+Below is an example of how to run the script:
 
 ```bash
 python discogs_api.py --seller <SELLER_NAME> --key <DISCOGS_API_KEY> --secret <DISCOGS_API_SECRET>
@@ -34,7 +34,16 @@ The script outputs two files prefixed by the ```--seller``` argument passed when
 1. <discogs_merchant>_listings.csv - CSV file listing top 100 most expensive records by the merchant.
 2. <discogs_merchant>_top_listing.csv - JSON file containing metadata of the most expensive record listed by the merchant. 
 
-[^caveat]: A Discogs API is required to run this script.  Users can get a Discogs API key + secret by following the instructions below:
 
-  [Discogs API Doc: Discogs auth flow](https://www.discogs.com/developers#page:authentication,header:authentication-discogs-auth-flow)
+_Note that a Discogs API is required to run this script.  Users can get a Discogs API key + secret by following the instructions on the Discogs page:_
+
+_[Discogs API Doc: Discogs auth flow](https://www.discogs.com/developers#page:authentication,header:authentication-discogs-auth-flow)_
+
+---
+
+### Script 2: ```merge_and_sort_listings.py```
+
+`merge_and_sort_listings.py` compiles all of the query data in the `output` directory and sorts them by the top 10 most expensive records grouped by currency.
+
+Results are stored in [`top_listings.csv`](output/top_listings.csv).
 
