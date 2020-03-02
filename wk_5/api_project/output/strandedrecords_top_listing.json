@@ -1,0 +1,205 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "USD",
+        "formatted": "$750.00",
+        "value": 750.0,
+        "curr_id": 1
+    },
+    "ships_from": "United States",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "USD",
+        "value": 750.0
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/827186093",
+    "comments": "Contents of box (book + records) are flawless. Box itself has a seam split in the lower left corner and some wear to the edges.",
+    "seller": {
+        "username": "strandedrecords",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "99.7",
+            "total": 3952,
+            "stars": 4.5
+        },
+        "uid": 1841432,
+        "url": "https://api.discogs.com/users/strandedrecords",
+        "html_url": "https://www.discogs.com/user/strandedrecords",
+        "shipping": "Shipped from US. Buyer pays for shipping.\r\n\r\nDomestic postage: $5 for standard LP, $2 each additional item. \r\nCanada postage: $20 for standard LP. Additional items vary based on weight.\r\nRest of World postage: $25 for standard LP. Additional items vary based on weight.\r\n\r\nCalifornia residents pay 7.25% sales tax.\r\nSan Francisco County residents pay additional 1.25% sales tax.\r\n\r\nAll sales are final.",
+        "id": 1841432,
+        "avatar_url": "https://img.discogs.com/EFX2yJKV5iXtLDZgnehiZbMuzrE=/500x500/filters:strip_icc():format(jpeg):quality(40)/discogs-avatars/U-1841432-1502756079.jpeg.jpg",
+        "resource_url": "https://api.discogs.com/users/strandedrecords",
+        "payment": "PayPal"
+    },
+    "sleeve_condition": "Very Good (VG)",
+    "shipping_price": {},
+    "release": {
+        "description": "Various - Futura: Poesia Sonora (Box + 7xLP, Comp)",
+        "format": "Box + 7xLP, Comp",
+        "year": 1978,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/D85mBFx1qkLHPjkN4v1LLX8sfJo=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1158531789.jpeg.jpg",
+                "height": 240,
+                "width": 240,
+                "resource_url": "https://img.discogs.com/D85mBFx1qkLHPjkN4v1LLX8sfJo=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1158531789.jpeg.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/cxJ1b96ltswy1AcSJI9SrrjcYlI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1158531789.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/dHWSggPsq1CZMpMtnpD_HaSY60w=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582851-8630.jpeg.jpg",
+                "height": 465,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/dHWSggPsq1CZMpMtnpD_HaSY60w=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582851-8630.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/GlJMwh1EUvwEy_MT9MJRd5KajN8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582851-8630.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/4cK77CMSvFmkb2SOsBJ6ZRHVPMQ=/fit-in/600x329/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582816-9972.jpeg.jpg",
+                "height": 329,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/4cK77CMSvFmkb2SOsBJ6ZRHVPMQ=/fit-in/600x329/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582816-9972.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/5j1u4gf6MTMxjWf1U6ngg-aPukM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582816-9972.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/9n4rC_qW5Cu_On7FbxT9Lt6XP38=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582028-2363.jpeg.jpg",
+                "height": 610,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/9n4rC_qW5Cu_On7FbxT9Lt6XP38=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582028-2363.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/ohInDjD_4zBESVDjTRFdQPvtwak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582028-2363.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/y3CXP_jCbMTNSVllWfQQDrXfnqw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582026-8976.jpeg.jpg",
+                "height": 601,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/y3CXP_jCbMTNSVllWfQQDrXfnqw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582026-8976.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/IHw4beUi-9sV8jlMlGchZdhYF78=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582026-8976.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/eo1spgldFGPtrhDh03rtCOkqPuc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582956-2050.jpeg.jpg",
+                "height": 602,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/eo1spgldFGPtrhDh03rtCOkqPuc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582956-2050.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/uV53kggIx2IdvJGqK9uWo9MaSJ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582956-2050.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/2nqOSybVg4gXQ8TxWBKER9d4u1c=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582988-3816.jpeg.jpg",
+                "height": 608,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/2nqOSybVg4gXQ8TxWBKER9d4u1c=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582988-3816.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/wwFBuerCysvHCi8qP3uvmjhwv2o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582988-3816.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/fpQ6EAfkhkTkEFIVXyiQBH2WTaY=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582106-7382.jpeg.jpg",
+                "height": 605,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/fpQ6EAfkhkTkEFIVXyiQBH2WTaY=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582106-7382.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/tuDf5aaFMZ4jtGt5kqUTwXaShls=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582106-7382.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/HA3EAjx0cO1hmGZuAjHAvR7u-xE=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582109-1790.jpeg.jpg",
+                "height": 610,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/HA3EAjx0cO1hmGZuAjHAvR7u-xE=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582109-1790.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/loWW53MLRZWGJsxZ_ANmgbnqJRc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582109-1790.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/i4gGCcTs7pgyGHh0FjgmokwSSUg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582353-6201.jpeg.jpg",
+                "height": 596,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/i4gGCcTs7pgyGHh0FjgmokwSSUg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582353-6201.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/yRze0SjgRj-PjZz96Jzj9p4ZTCI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582353-6201.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/AF8ih_LfgWdJvxcR4CsZr2UrZNQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582231-8264.jpeg.jpg",
+                "height": 607,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/AF8ih_LfgWdJvxcR4CsZr2UrZNQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582231-8264.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/Rw2q45R0cCJbDed9BkDshLRgC1s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582231-8264.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/xniqs1Q8GMsPsCRbSQzDPECkR_w=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582591-6147.jpeg.jpg",
+                "height": 608,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/xniqs1Q8GMsPsCRbSQzDPECkR_w=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582591-6147.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/msXvQSHrRjyO72Fe_XdzDIt_gcg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582591-6147.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/qjOrgWr2bMFchj3gQWlN8yVVO4g=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582628-2940.jpeg.jpg",
+                "height": 612,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/qjOrgWr2bMFchj3gQWlN8yVVO4g=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582628-2940.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/03EMMKD0XZy0EbXp-0lMc3-VGIo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582628-2940.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/8P8Afm4ArK0VBWDX1ro_YG_iO04=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582668-4712.jpeg.jpg",
+                "height": 603,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/8P8Afm4ArK0VBWDX1ro_YG_iO04=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582668-4712.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/0rg7K01FVknTN4N5bCVqp7N-SMs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582668-4712.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/yw44e9o1fJhHf7WJ7ZSVO0ZcJHU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582704-3704.jpeg.jpg",
+                "height": 608,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/yw44e9o1fJhHf7WJ7ZSVO0ZcJHU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582704-3704.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/La__ii8nNLDAYjQ16t5FyZu_k00=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582704-3704.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/U9AYSvfDZMYuTiNanaMmsg733_M=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582738-8026.jpeg.jpg",
+                "height": 607,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/U9AYSvfDZMYuTiNanaMmsg733_M=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582738-8026.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/wOI062DjHa2X3Fc0cNOL9HttTdY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582738-8026.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/vWxg8uAJrf81DrUwTodA4PfOFuw=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582773-3529.jpeg.jpg",
+                "height": 607,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/vWxg8uAJrf81DrUwTodA4PfOFuw=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1531582773-3529.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/y-f_bGZD1pCg83gfKi9K1D30ols=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1531582773-3529.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/RSG1UEwoFD07gc45l297oMUC7ns=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1125663788.jpeg.jpg",
+                "height": 350,
+                "width": 350,
+                "resource_url": "https://img.discogs.com/RSG1UEwoFD07gc45l297oMUC7ns=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470800-1125663788.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/gxjxq7ZCvXre-SEwSRO2Zgqnowo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1125663788.jpeg.jpg"
+            }
+        ],
+        "id": 470800,
+        "stats": {
+            "community": {
+                "in_collection": 31,
+                "in_wantlist": 283
+            }
+        },
+        "catalog_number": "5204-001",
+        "artist": "Various",
+        "title": "Futura: Poesia Sonora",
+        "resource_url": "https://api.discogs.com/releases/470800",
+        "thumbnail": "https://img.discogs.com/cxJ1b96ltswy1AcSJI9SrrjcYlI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470800-1158531789.jpeg.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/827186093",
+    "audio": false,
+    "id": 827186093,
+    "condition": "Very Good Plus (VG+)",
+    "posted": "2019-12-31T16:11:21-08:00"
+}

@@ -1,0 +1,77 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "USD",
+        "formatted": "$1,165.00",
+        "value": 1165.0,
+        "curr_id": 1
+    },
+    "ships_from": "United States",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "USD",
+        "value": 1165.0
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/467259801",
+    "comments": "on sale.",
+    "seller": {
+        "username": "stumpdrk",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "99.8",
+            "total": 14269,
+            "stars": 4.5
+        },
+        "uid": 623104,
+        "url": "https://api.discogs.com/users/stumpdrk",
+        "html_url": "https://www.discogs.com/user/stumpdrk",
+        "shipping": "pay by check or money order and your order will be around 2.9%+.3 less since we don't have to pay the paypal fees.\r\nif you are paying in a foreign currency or with a foreign paypal account and shipping to the u.s. through paypal, please let us know because there is a 1.5% conversion fee on foreign account orders even if sending to the u.s.\r\n\r\nmedia mail is the default rate charged for shipping in the u.s. unless you specify a different preference... rates just recently went up again so a standard vinyl is around $3.80 usually if under a pound and a gatefold or 180 may be around  $4.30 if over a pound and 7\"ers a little less around $3.30 as are also cds and tapes for how many ever you get of those three things, it'll stay at a flat rate of 3.30 unless it's a special heavier boxed set of tapes, cds or 7\"ers, those will be billed as if they were lps if not on sale... order at least two full priced mint lps and the rate drops to $3.50 flat rate up to how many ever you want ($3.50 total... not per album). if you want any other shipping option, please notify in a message on your order right after ordering or in the comments on the order. some states also started requiring tax to be collected regardless of origin. paypal fee charged on the tax collection amount will also be added in.\r\n\r\nworldwide checked by order and weight. if you want a quote, please let us know exactly what you want in a list of items instead of asking something like, \"how much is three records to my country?\" all records and packaging weighs differently and the rates change drastically every pound so everything needs to be weighed to give an accurate quote. the new usps postal rates have everything from 8oz to 2lbs under the same rate. discogs has a new shipping label printer so rates have gotten a lot lower... shipping one lp to canada is usually around 14.25usd and can sometimes fit three standard lps in the pack under the same rate if not too heavy. most countries are around 19usd for the same. best to ask for a quote first if you are unsure or unwilling to pay the high cost of shipping to foreign countries. under 8oz sometimes fits 3 standard tapes, 7\"ers or cds if not too heavy and that rate is usually around 9.50usd for canada and 11.5usd for other countries but varies by country and items purchased. australia now also has 10% tax by the country added in also by discogs automatically.\r\n\r\nall vinyl comes in polybags unless it needs to be removed to fit under the next shipping rate change... mint is sealed or straight from distro and untouched... near mint is usually still in the shrink and only played a few times in the shop... never use the download cards so they are active... if not, the label will usually send you a new code.\r\n\r\norders usually shipped out everyday but postal holidays and sundays... orders placed and paid for by 3pm e.s.t. on weekdays are usually shipped out that day... after 3 on fridays may get shipped on saturday but sometimes not until monday. international orders may go out the next business day also if there is a time constraint.\r\n\r\norders not paid for without notice are cancelled after four days and are given negative feedback automatically by discogs... it is fine if you let us know ahead of time if payment will be late but if no contact is made, the item is relisted and returned to the shop by the fifth day usually... if it was an honest mistake and you thought a payment was made but didn't go through, don't flip out when you get the cancellation notice, just ask to be reinvoiced and we'll gladly do it.\r\n\r\nplease make sure your shipping addresses match between paypal and here and are correct to avoid shipments from being delayed. we always double check and if different between the two, will contact for up to four days through discogs, then by emails provided. be careful here because some sellers on this site auto-ship to discogs or to paypal address even if completely different.\r\n\r\nif your record receives a little corner bump or minor crease during shipping due to poor handling by the postal service, realize it happens. refunds and returns are not welcome for minor blemishes caused by the post. please buy and order things from your local shop if you are picky and need perfection... everyone should be supporting their local shop anyways and not buying things online. if you are worried about your package's safety in arriving, you should ask for insurance to be added so that problems in transit can be refunded and handled by the post. if your package is lost or stolen after delivered, a refund will not be issued and that is for you to take up with your local police in a report or with your local post. a tracking number for package identification is available so that if something happens the post can locate it. tracking numbers are not automatically sent since we address them by hand and self deliver them to the post, a simple extra step to make sure they are treated with care... but if you want one, just ask and we'll send you a link to your usps tracker after we get back from the post.\r\n\r\nif you decide to change mind on items on your order after paid trough paypal and results in a refund and is not of our fault, refund will be given minus the transaction fees that paypal no longer refunds.\r\n\r\nthanks everyone for your orders and keeping vinyl alive.\r\n\r\nlisten with an open mind.\r\nenjoy.\r\n\r\nlater.\r\n-drk",
+        "id": 623104,
+        "avatar_url": "https://secure.gravatar.com/avatar/02f6f787c2a36ef077ce2980bc04f7da?s=500&r=pg&d=mm",
+        "resource_url": "https://api.discogs.com/users/stumpdrk",
+        "payment": "Credit Card, Cashiers Check, Check, Discogs Payments, PayPal, Cash, Money Order"
+    },
+    "sleeve_condition": "Mint (M)",
+    "shipping_price": {},
+    "release": {
+        "description": "Michael Vidal - Dream Center (LP, Album)",
+        "format": "LP, Album",
+        "year": 0,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/y9nnVeemGbo3Zeh87YterH2ZChk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8733505-1498278381-9127.jpeg.jpg",
+                "height": 601,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/y9nnVeemGbo3Zeh87YterH2ZChk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8733505-1498278381-9127.jpeg.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/amdie8i9ggBAPGL169zxOokB8xA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8733505-1498278381-9127.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/gRpZUZmuVI7LNNxUBuiOpmt2ENs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8733505-1498278387-1561.jpeg.jpg",
+                "height": 600,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/gRpZUZmuVI7LNNxUBuiOpmt2ENs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8733505-1498278387-1561.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/puhqeubZaRDNvCod0UEKgtaua0I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8733505-1498278387-1561.jpeg.jpg"
+            }
+        ],
+        "id": 8733505,
+        "stats": {
+            "community": {
+                "in_collection": 13,
+                "in_wantlist": 2
+            }
+        },
+        "catalog_number": "C/S 014",
+        "artist": "Michael Vidal",
+        "title": "Dream Center",
+        "resource_url": "https://api.discogs.com/releases/8733505",
+        "thumbnail": "https://img.discogs.com/amdie8i9ggBAPGL169zxOokB8xA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8733505-1498278381-9127.jpeg.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/467259801",
+    "audio": false,
+    "id": 467259801,
+    "condition": "Mint (M)",
+    "posted": "2019-12-28T21:34:40-08:00"
+}
