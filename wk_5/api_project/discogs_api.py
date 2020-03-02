@@ -1,20 +1,14 @@
-import requests
+"""
+Discogs API Query Tool: Connect to Discogs API and pull merchant listing data
+"""
+
+import sys
 import json
 import csv
-import sys
 import argparse
 import logging
+import requests
 
-############################################################
-# Log Functions
-############################################################
-
-
-def log_specifications(specification):
-    print('\nquerying the following specifications:\n'.upper())
-    for spec, value in specification.items():
-        msg = f'{spec.upper()} : {str(value)}'
-        print(msg)
 
 ############################################################
 # API
@@ -22,7 +16,7 @@ def log_specifications(specification):
 
 
 def verify_seller_exists(api_content):
-    """ Check API response to see if seller exists. 
+    """ Check API response to see if seller exists.
         Aborts script if seller is not found.
     """
     if 'message' in api_content:
@@ -35,12 +29,12 @@ def get_seller_data(seller, api_key, api_secret):
     the seller's listing data.
 
     Args:
-        seller: Username of the seller 
+        seller: Username of the seller
         api_key: API key to access Discogs API
         api_secret: API secret to access Discogs API
 
     Returns:
-        content: Python 
+        content: Python
     """
     status, sort, sort_order = 'for sale', 'price', 'desc'
     api_query = f'https://api.discogs.com/users/{seller}' \
@@ -51,8 +45,8 @@ def get_seller_data(seller, api_key, api_secret):
         req = requests.get(api_query)
         content = json.loads(req.text)
         return content
-    except requests.exceptions.RequestException as e:
-        print(e)
+    except requests.exceptions.RequestException as error_msg:
+        print(error_msg)
         sys.exit(1)
 
 
@@ -64,8 +58,8 @@ def dump_top_listing(seller, seller_data):
         seller_data: Dictionary of seller's listings
     """
     output_path = f'./output/{seller}_top_listing.json'
-    with open(output_path, 'w') as o:
-        json.dump(seller_data['listings'][0], o, indent=4,
+    with open(output_path, 'w') as output:
+        json.dump(seller_data['listings'][0], output, indent=4,
                   ensure_ascii=False)
 
 
@@ -87,8 +81,8 @@ def dump_inventory_listings_to_csv(seller, seller_data):
         seller_data: Dictionary of seller's listings
     """
     output_path = f'./output/{seller}_listings.csv'
-    with open(output_path, 'w') as o:
-        writer = csv.writer(o)
+    with open(output_path, 'w') as output:
+        writer = csv.writer(output)
         write_header(writer)
         for item in seller_data['listings']:
             artist = item['release']['artist']
