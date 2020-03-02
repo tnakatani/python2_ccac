@@ -12,11 +12,12 @@ Engineer a python script that uses the requests library to make calls to an API 
 
 Once you have data assembled that speaks to your research question, format the results of your API inquiry in a format that is understandable by a non-pythonista and can be posted on our course website and on the walls of our classroom 1136! Graphs, charts, figures, tables, images--all of these are welcome and invited.
 
-## Submission: Discogs API Search - What are seller's most valuable records?
+## Submission: Discogs API Search - What are the merchant's most valuable records?
 
-This submission connects to the Discogs API to pull merchant data, transform the returned data and write CSV and JSON files for the merchant's most valuables and data content of the merchant's most valuable record.
+### ```discogs_api.py``` 
+`discogs_api.py` connects to the Discogs API to extract the most valuable records currently listed by a merchant.
 
-Users can use the script by running the ```discogs_api.py``` script:
+Below is an example of how to run the script: [^caveat]
 
 ```bash
 python discogs_api.py --seller <SELLER_NAME> --key <DISCOGS_API_KEY> --secret <DISCOGS_API_SECRET>
@@ -25,11 +26,15 @@ python discogs_api.py --seller <SELLER_NAME> --key <DISCOGS_API_KEY> --secret <D
 | Argument  | Description  | 
 |---|---|
 ```--seller``` | Discogs merchant's username to query
-```--key```    | Discogs API key
+```--key```    | Discogs API key 
 ```--secret``` | Discogs API secret
 
 The script outputs two files prefixed by the ```--seller``` argument passed when running the script:
 
 1. <discogs_merchant>_listings.csv - CSV file listing top 100 most expensive records by the merchant.
 2. <discogs_merchant>_top_listing.csv - JSON file containing metadata of the most expensive record listed by the merchant. 
+
+[^caveat]: A Discogs API is required to run this script.  Users can get a Discogs API key + secret by following the instructions below:
+
+  [Discogs API Doc: Discogs auth flow](https://www.discogs.com/developers#page:authentication,header:authentication-discogs-auth-flow)
 
