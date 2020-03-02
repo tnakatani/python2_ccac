@@ -13,4 +13,3 @@ if int(req.status_code) == 200:
 
     results = apiDict['Results'][0]['Notes']
     print(apiDict['Results'][0]['Notes'])
-
