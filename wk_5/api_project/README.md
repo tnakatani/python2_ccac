@@ -12,7 +12,7 @@ Engineer a python script that uses the requests library to make calls to an API 
 
 Once you have data assembled that speaks to your research question, format the results of your API inquiry in a format that is understandable by a non-pythonista and can be posted on our course website and on the walls of our classroom 1136! Graphs, charts, figures, tables, images--all of these are welcome and invited.
 
-## Submission: Discogs API Search - What are the seller's most valuable records?
+## Submission: Discogs API Search - What are seller's most valuable records?
 
 This submission connects to the Discogs API to pull merchant data, transform the returned data and write CSV and JSON files for the merchant's most valuables and data content of the merchant's most valuable record.
 
