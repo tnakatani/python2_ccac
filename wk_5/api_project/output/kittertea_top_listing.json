@@ -1,0 +1,93 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "USD",
+        "formatted": "$899.90",
+        "value": 899.9,
+        "curr_id": 1
+    },
+    "ships_from": "Japan",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "USD",
+        "value": 899.9
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/971480692",
+    "comments": "with obi and booklet.Sleeve has slight discolraotion,Vinyl is EX.almost NM",
+    "seller": {
+        "username": "kittertea",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "99.8",
+            "total": 7777,
+            "stars": 4.5
+        },
+        "uid": 1017538,
+        "url": "https://api.discogs.com/users/kittertea",
+        "html_url": "https://www.discogs.com/user/kittertea",
+        "shipping": "will take new year vacation from jan 1 to jan 5.will ship item after jan 5.\r\n[NOTE]\r\nWe never charge paypal fee. \r\nAll item SHIPS FROM JAPAN. Shipping after payment(Usually within 2 business days).Shipping costs: Paid by the buyer.*Double LP/12\",Gatefold sleeve, etc count as 2 items.\r\nThese country can NOT use registered SAL since Jan 2014\r\nAUSTRALIA, GREENLAND, DENMARK, GERMANY, NORWAY, HUNGARY, FINLAND, POLAND<br> \r\n................................................................................................................ \r\n\r\nREGISTERED AIRMAIL (SMALL PACKET :registered,Weight limit is 2kg)\r\n(2 weeks for delivery) \r\n\r\nUSA , Europe , UK , Oceania , Near and Middle East\r\nLPs/12\" $14 /  Each additional  $3/ CDs/7\"  $8.5/ Each additional $1.5  \r\nAsia , Guam , Midway\r\nLPs/12\"  $12/  Each additional  $3/ CDs/7\"  $7.5/ Each additional $1.5   \r\nAfrica , South America\r\nLPs/12\"  $17/  Each additional  $3 / CDs/7\" $9.5/ Each additional $1.5   \r\n\r\n................................................................................................................ \r\nSAL [Economy Air](SMALL PACKET :registered,Weight limit is 2kg) \r\n(Usually 5 weeks for delivery/USA buyers sometimes take 3-5 weeks)  \r\n*except in some areas.(example,South Korea,North korea,Taiwan, etc.) \r\n\r\nUSA , Europe , UK , Oceania , Near and Middle East\r\nLPs/12\" $10 /  Each additional  /  CDs/7\" / Each additional     \r\nAsia , Guam , Midway\r\nLPs/12\" $9 / Each additional / CDs/7\" / Each additional    \r\nAfrica , South America\r\nLPs/12\"  $11/ Each additional / CDs/7\" /Each additional     \r\n\r\nAVAILABLE FOR THE FOLLOWING COUNTRIES/AREA \r\n(Other countries/area is not available this service. ) \r\n \r\nASIA India / Pakistan / Indonesia / Palau / Wake / Philippines / Guam / Hong Kong / Singapore / Marshall / SriLanka / MalaysiaThailand / Micronesia / China / Midway / Bangladesh \r\nOCEANIA</strong< font>> \r\nNew Zealand \r\nNORTH/CENTRAL AMERICA USA / Canada / Saint Pierre et Miquelon / U.S. Virgin Islands / Puerto Rico / Mexico \r\nSOUTH AMERICA Argentina / Colombia / Chile / Brazil / Peru \r\nMIDDLE EAST United Arab Emirates / Kuwait / Saudi Arabia / Turkey / Bahrain \r\nEUROPE Iceland Serbia / Ireland / Tajikistan / Azerbaijan / Czech Republic / Armenia / Andorra / Turkmenistan / Italy / Ukraine / Uzbekistan / United Kingdom / Vatican City / Estonia / Austria / Netherlands / Belarus / Kazakhstan / Belgium / Kyrgyz / Northern Islands / Greece / Croatia / Portugal / Malta / Georgia / Monaco / San Marino / Moldova / Gibraltar / Montenegro / Switzerland / Latvia / Sweden / Lithuania / Liechtenstein / Slovakia / Luxembourg / Slovenia / Russian Federation \r\nAFRICA Algeria / Egypt / Kenya / Republic of South Africa\r\n\r\n\r\nEMS [including insured cost:EMS is fastest and safety AIR MAIL with tracking system] \r\n(7-10days for delivery /fast & safety shipping) \r\nPlease ask me. \r\n\r\n................................................................................................................ \r\n日本国内の方は定形外郵便、ゆうパック発送、銀行振り込みなど対応可能です。 \r\n",
+        "id": 1017538,
+        "avatar_url": "https://secure.gravatar.com/avatar/27c7786e28d343724e75451b3495b614?s=500&r=pg&d=mm",
+        "resource_url": "https://api.discogs.com/users/kittertea",
+        "payment": "PayPal"
+    },
+    "sleeve_condition": "Very Good Plus (VG+)",
+    "shipping_price": {},
+    "release": {
+        "description": "里国隆* - 奄美の哭きうた (LP, Album)",
+        "format": "LP, Album",
+        "year": 1975,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/-jvdpd7PNKyCmZASZxpsogNR0ic=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg",
+                "height": 601,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/-jvdpd7PNKyCmZASZxpsogNR0ic=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/fd8Mz93JVkajOj2Za8UuoUcgtC8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/Tsbj9i-1wKWQp-dl-Zrh4flUNWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-7396.jpeg.jpg",
+                "height": 600,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/Tsbj9i-1wKWQp-dl-Zrh4flUNWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-7396.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/lyGyoKgyYMM6hMItOStZc1vhdEk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-7396.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/0VoSvjZBWccq2O6Y3S3jxVKioms=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-5973.jpeg.jpg",
+                "height": 603,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/0VoSvjZBWccq2O6Y3S3jxVKioms=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-5973.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/20PZRQXJLNJzJC8gxjVR2EvZgvQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-5973.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/yU1XH6prfi0-isuZ-56Bqzympjs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-2713.jpeg.jpg",
+                "height": 606,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/yU1XH6prfi0-isuZ-56Bqzympjs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818587-1504927807-2713.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/nFSgFDF1JBspWu53caymOzg0eh4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-2713.jpeg.jpg"
+            }
+        ],
+        "id": 10818587,
+        "stats": {
+            "community": {
+                "in_collection": 5,
+                "in_wantlist": 45
+            }
+        },
+        "catalog_number": "BH-1527",
+        "artist": "里国隆*",
+        "title": "奄美の哭きうた",
+        "resource_url": "https://api.discogs.com/releases/10818587",
+        "thumbnail": "https://img.discogs.com/fd8Mz93JVkajOj2Za8UuoUcgtC8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10818587-1504927807-9093.jpeg.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/971480692",
+    "audio": false,
+    "id": 971480692,
+    "condition": "Very Good Plus (VG+)",
+    "posted": "2020-01-04T01:05:34-08:00"
+}

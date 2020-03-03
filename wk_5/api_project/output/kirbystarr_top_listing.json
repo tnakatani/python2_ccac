@@ -1,0 +1,85 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "USD",
+        "formatted": "$540.00",
+        "value": 540.0,
+        "curr_id": 1
+    },
+    "ships_from": "Japan",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "USD",
+        "value": 540.0
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/639426218",
+    "comments": "Showa (Ramones Edition) / no flexi, no insert.",
+    "seller": {
+        "username": "kirbystarr",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "99.9",
+            "total": 7572,
+            "stars": 4.5
+        },
+        "uid": 1417781,
+        "url": "https://api.discogs.com/users/kirbystarr",
+        "html_url": "https://www.discogs.com/user/kirbystarr",
+        "shipping": "[b]<PAYMENT METHOD>[/b]\r\nI accept PAYPAL only.\r\nPlease pay within 5 days after the auction has ended.\r\n\r\n[b]<SHIPPING & HANDLING COST>[/b]\r\nAll items are shipped from Japan.\r\nIn accordance with the rules of PayPal, I send all parcels to the address enrolled in PayPal.\r\nIf you want me to send the different address, please change the enrolled address in PayPal and then pay the money.\r\nUnless you agree with this, please don't bid for my items.\r\n\r\n\r\n[b]< To USA ,Canada and Australia > [/b]\r\n[b]*[/b]1LP \r\n- Registered Airmail (item will be delivered between 7days and 15days) : 14.00USD\r\n- EMS (item will be delivered between 5days and 8days) :  21.00USD\r\n\r\n[b]*[/b]2LP (2xLP count as 2LP) \r\n- Registered Airmail (item will be delivered between 7days and 15days) :  19.00USD\r\n- EMS (item will be delivered between 5days and 8days) : 26.00USD\r\n\r\n[b]*[/b]3LP\r\n- Registered Airmail (item will be delivered between 7days and 15days) :  24.00USD\r\n- EMS (item will be delivered between 5days and 8days) : 31.00USD\r\n\r\n[b]*[/b]1CD / 1 x 7inch\r\n- Registered Airmail (item will be delivered between 7days and 15days) :  8.00USD\r\n- EMS (item will be delivered between 5days and 8days) :19.00USD\r\n\r\n[b]*[/b]2CD / 2 x 7inch\r\n- Registered Airmail (item will be delivered between 7days and 15days) : 9.50USD\r\n- EMS (item will be delivered between 5days and 8days) : 19.00USD\r\n\r\n[b]*[/b]3CD / 3 x 7inch\r\n- Registered Airmail (item will be delivered between 7days and 15days) : 10.50USD\r\n- EMS (item will be delivered between 5days and 8days) : 19.00USD\r\n\r\n[b]< To UK ,Europe and Russia >[/b]\r\n*1LP\r\n- Registered Airmail (item will be delivered between 8days and 18days) : 14.00USD\r\n- EMS (item will be delivered between 5days and 8days) :23.00USD\r\n\r\n*2LP (2xLP count as 2LP)\r\n- Registered Airmail (item will be delivered between 8days and 18days) : 19.00USD\r\n- EMS (item will be delivered between 5days and 8days) : 28.50USD\r\n\r\n*3LP\r\n- Registered Airmail (item will be delivered between 8days and 18days) : 24.00USD\r\n- EMS (item will be delivered between 5days and 8days) : 34.00USD\r\n\r\n*1CD / 1 x 7inch\r\n- Registered Airmail (item will be delivered between 8days and 18days) : 8.00USD\r\n- EMS (item will be delivered between 5days and 8days) : 20.50USD\r\n\r\n*2CD / 2 x 7inch\r\n- Registered Airmail (item will be delivered between 8days and 18days) : 9.50USD\r\n- EMS (item will be delivered between 5days and 8days) : 20.50USD \r\n\r\n*3CD / 3 x 7inch\r\n- Registered Airmail (item will be delivered between 8days and 18days) : 10.50USD\r\n- EMS (item will be delivered between 5days and 8days) : 20.50USD \r\n\r\n[b]< To Asia >[/b]\r\n*1LP\r\n- Registered Airmail (item will be delivered between 6days and 12days) : 11.50USD\r\n- EMS (item will be delivered between 4days and 8days) :14.50USD\r\n\r\n*2LP (2xLP count as 2LP)\r\n- Registered Airmail (item will be delivered between 6days and 12days) : 15.50USD\r\n- EMS (item will be delivered between 4days and 8days) : 18.00USD\r\n\r\n*3LP\r\n- Registered Airmail (item will be delivered between 6days and 12days) : 19.00USD\r\n- EMS (item will be delivered between 4days and 8days) : 22.50USD\r\n\r\n*1CD / 1 x 7inch\r\n- Registered Airmail (item will be delivered between 6days and 12days) : 7.00USD\r\n- EMS (item will be delivered between 4days and 8days) : 13.00USD\r\n\r\n*2CD / 2 x 7inch\r\n- Registered Airmail (item will be delivered between 6days and 12days) : 8.50USD\r\n- EMS (item will be delivered between 4days and 8days) : 13.00USD \r\n\r\n*3CD / 3 x 7inch\r\n- Registered Airmail (item will be delivered between 6days and 12days) : 9.50USD\r\n- EMS (item will be delivered between 4days and 8days) : 13.50USD \r\n\r\n[b]< To South America >[/b]\r\n*1LP\r\n- Registered Airmail (item will be delivered between 10days and 20days) : 17.00USD\r\n- EMS (item will be delivered between 6days and 9days) :25.00USD\r\n\r\n*2LP (2xLP count as 2LP)\r\n- Registered Airmail (item will be delivered between 10days and 20days) : 23.50USD\r\n- EMS (item will be delivered between 6days and 9days) : 35.00USD\r\n\r\n*3LP\r\n- Registered Airmail (item will be delivered between 10days and 20days) : 29.50USD\r\n- EMS (item will be delivered between 6days and 9days) : 45.00USD\r\n\r\n*1CD / 1 x 7inch\r\n- Registered Airmail (item will be delivered between 10days and 20days) : 9.00USD\r\n- EMS (item will be delivered between 6days and 9days) : 22.00USD\r\n\r\n*2CD / 2 x 7inch\r\n- Registered Airmail (item will be delivered between 10days and 20days) : 11.00USD\r\n- EMS (item will be delivered between 6days and 9days) : 22.00USD \r\n\r\n*3CD / 3 x 7inch\r\n- Registered Airmail (item will be delivered between 10days and 20days) : 12.50USD\r\n- EMS (item will be delivered between 6days and 9days) : 22.00USD \r\n\r\n*Sometimes a package takes more than 1 month for a delivery for South America.\r\nPlease understand it before you buy.\r\n\r\n[b]<About Customs Declaration>[/b]\r\nI will gladly combine shipping on multiple purchases.\r\nI cannot be held responsible for customs/import fees that your country may require.\r\nPlease know your country's import information before bidding.\r\n\r\n[b]< 日本国内への発送> [/b]\r\n発送方法は\r\n- 特定記録付　定形外（規格外）\r\n- レターパック\r\n- ゆうパック\r\nにて発送いたします。\r\n\r\nご購入後のdiscogs内メッセージは日本語で出来ます。\r\nお支払いは\r\n- PayPal (USDでのお支払い)\r\n- 銀行振込（JNB、三井住友、ゆうちょ銀行からお選びください。日本円はその日の為替レートで計算します。）\r\nになります。\r\n不明な点がございましたら、ご質問ください。\r\n\r\n",
+        "id": 1417781,
+        "avatar_url": "https://secure.gravatar.com/avatar/e4adc31b7da5046e687490b8d6611ec9?s=500&r=pg&d=mm",
+        "resource_url": "https://api.discogs.com/users/kirbystarr",
+        "payment": "PayPal"
+    },
+    "sleeve_condition": "Very Good Plus (VG+)",
+    "shipping_price": {},
+    "release": {
+        "description": "The Gerogerigegege - Showa (Ramones Edition) (LP, Album, Ltd, Alt)",
+        "format": "LP, Album, Ltd, Alt",
+        "year": 1988,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/hu3wVZa6bIQCbYkZ-KABCC7mj7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1365450-1506450915-8506.png.jpg",
+                "height": 600,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/hu3wVZa6bIQCbYkZ-KABCC7mj7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1365450-1506450915-8506.png.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/pc42CjpRh_QR4LS_IhgTFJRGV2E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1365450-1506450915-8506.png.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/j26D5zFHUPune-A2t86RtzjhTX4=/fit-in/590x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1365450-1399046848-9731.jpeg.jpg",
+                "height": 435,
+                "width": 590,
+                "resource_url": "https://img.discogs.com/j26D5zFHUPune-A2t86RtzjhTX4=/fit-in/590x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1365450-1399046848-9731.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/oU_AKxmIGSRCHZqB0CHPbu-ab-A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1365450-1399046848-9731.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/xOtCPwgdKsxv6RkqSoysIIQUNfk=/fit-in/532x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1365450-1399046859-6285.jpeg.jpg",
+                "height": 450,
+                "width": 532,
+                "resource_url": "https://img.discogs.com/xOtCPwgdKsxv6RkqSoysIIQUNfk=/fit-in/532x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1365450-1399046859-6285.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/DmbtXloUjVnWxlfgIcuhyyT2R5I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1365450-1399046859-6285.jpeg.jpg"
+            }
+        ],
+        "id": 1365450,
+        "stats": {
+            "community": {
+                "in_collection": 9,
+                "in_wantlist": 320
+            }
+        },
+        "catalog_number": "VDR/LP010, VLP-010",
+        "artist": "The Gerogerigegege",
+        "title": "Showa (Ramones Edition)",
+        "resource_url": "https://api.discogs.com/releases/1365450",
+        "thumbnail": "https://img.discogs.com/pc42CjpRh_QR4LS_IhgTFJRGV2E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1365450-1506450915-8506.png.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/639426218",
+    "audio": false,
+    "id": 639426218,
+    "condition": "Very Good Plus (VG+)",
+    "posted": "2019-12-05T15:21:00-08:00"
+}
