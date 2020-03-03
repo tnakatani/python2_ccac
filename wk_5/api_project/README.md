@@ -45,5 +45,5 @@ _[Discogs API Doc: Discogs auth flow](https://www.discogs.com/developers#page:au
 
 `merge_and_sort_listings.py` compiles all of the query data in the `output` directory and sorts them by the top 10 most expensive records grouped by currency.
 
-Results are stored in [`top_listings.csv`](output/top_listings.csv).
+Results are stored in [`top_records.csv`](output/top_records.csv).
 
