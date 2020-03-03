@@ -94,7 +94,7 @@ def main():
         ['currency', 'price'],
         'currency'
     )
-    output_path = 'output/top_listings.csv'
+    output_path = 'output/top_records.csv'
     df_sorted_by_currency.to_csv(output_path, index=False)
     print(
         f'Record listings merged, sorted and compiled into {output_path}\n'
