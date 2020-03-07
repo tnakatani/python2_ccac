@@ -9,7 +9,6 @@ import argparse
 import logging
 import requests
 
-
 ############################################################
 # API
 ############################################################
@@ -59,7 +58,9 @@ def dump_top_listing(seller, seller_data):
     """
     output_path = f'./output/{seller}_top_listing.json'
     with open(output_path, 'w') as output:
-        json.dump(seller_data['listings'][0], output, indent=4,
+        json.dump(seller_data['listings'][0],
+                  output,
+                  indent=4,
                   ensure_ascii=False)
 
 

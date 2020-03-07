@@ -6,28 +6,34 @@ import os
 # Log Functions
 ############################################################
 
+
 def log_specifications(specification):
     print('\nquerying the following specifications:\n'.upper())
     for spec, value in specification.items():
         msg = f'{spec.upper()} : {str(value)}'
         print(msg)
 
+
 def log_count(match):
     msg = (f'\nquery matched {match} rows')
     print(msg.upper())
 
+
 def log_status(message):
-    div = "#"*80
+    div = "#" * 80
     msg = (f'\n{div}\n{message}\n{div}')
     print(msg.upper())
+
 
 def log_output_path(output):
     msg = f'\nOutput written to: '.upper() + output
     print(msg)
 
+
 ############################################################
 # Create Null Table
 ############################################################
+
 
 def create_null_table(dataset, specification, output):
     """Create a frequency table of null values for each dataset key
@@ -43,13 +49,13 @@ def create_null_table(dataset, specification, output):
         dataset = csv.DictReader(d)
         specification = json.load(s)
         header = dataset.fieldnames
-        null_table={}
+        null_table = {}
 
         # skip header
         next(dataset)
         for row in dataset:
             for item in header:
-                if not row[item]: # using 'implicit booleanness'
+                if not row[item]:  # using 'implicit booleanness'
                     if item in null_table:
                         null_table[item] += 1
                     else:
@@ -61,9 +67,11 @@ def create_null_table(dataset, specification, output):
         json.dump(null_table, o, indent=4)
         log_output_path(output)
 
+
 ############################################################
 # Query Dataset
 ############################################################
+
 
 def lowercase_list(l):
     """Transform list items to string type and convert to lowercase
@@ -72,6 +80,7 @@ def lowercase_list(l):
         l: List of specification values
     """
     return [str(i).lower() for i in l]
+
 
 def spec_is_empty(specification):
     """Check if specification value is empty
@@ -82,6 +91,7 @@ def spec_is_empty(specification):
     if len(specification) == 0:
         return True
     return False
+
 
 def fields_exist_in_row(row, specification):
     """Check if row contains field that matches specifications for each key
@@ -105,13 +115,14 @@ def fields_exist_in_row(row, specification):
     fiscal_years = lowercase_list(specification['fiscal_year'])
     areas = lowercase_list(specification['area'])
     if (row['status'].lower() in statuses or spec_is_empty(statuses)) \
-            and (row['neighborhood'].lower() in neighborhoods \
-                or spec_is_empty(statuses)) \
-            and (row['fiscal_year'].lower() in fiscal_years \
-                or spec_is_empty(fiscal_years)) \
-            and (row['area'].lower() in areas
-                or spec_is_empty(areas)): \
+        and (row['neighborhood'].lower() in neighborhoods
+            or spec_is_empty(statuses)) \
+        and (row['fiscal_year'].lower() in fiscal_years
+            or spec_is_empty(fiscal_years)) \
+        and (row['area'].lower() in areas
+            or spec_is_empty(areas)):
         return True
+
 
 def query_dataset(dataset, specification, output):
     """Query dataset based on specified fields
@@ -141,19 +152,20 @@ def query_dataset(dataset, specification, output):
             # in each row, loop through each specification
             for spec in specification:
                 # skip row if any of the specified fields are empty
-                if not row[spec]: # use implicit boolean
+                if not row[spec]:  # use implicit boolean
                     continue
             # count and append to list if field values exist in row
             if fields_exist_in_row(row, specification):
                 matched_count += 1
                 matched_rows.append(row)
-            else: 
+            else:
                 continue
 
         log_specifications(specification)
         log_count(matched_count)
         log_output_path(output)
-        json.dump(matched_rows,o,indent=4)
+        json.dump(matched_rows, o, indent=4)
+
 
 if __name__ == '__main__':
     dataset = '../data/pgh_capital_projects.csv'
@@ -166,4 +178,3 @@ if __name__ == '__main__':
 
     log_status('return rows that meets the imported specifications')
     query_dataset(dataset, specification, query_output)
-
