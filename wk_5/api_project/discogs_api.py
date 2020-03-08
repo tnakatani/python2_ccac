@@ -10,11 +10,18 @@ import logging
 import requests
 
 
-class NoAPIKeyOrSecretError(Exception):
+class MissingAPIKeyOrSecret(Exception):
     """Error logging for no input value"""
     def __init__(self, error_field):
-        super(NoAPIKeyOrSecretError, self).__init__()
-        self.msg = f'No API {error_field} provided. Aborting script.'
+        super(MissingAPIKeyOrSecret, self).__init__()
+        self.msg = f'Missing API {error_field}. Aborting script.'
+
+
+class InvalidAPIKeyOrSecret(Exception):
+    """Error logging for no input value"""
+    def __init__(self):
+        super(InvalidAPIKeyOrSecret, self).__init__()
+        self.msg = f'Invalid API key/secret. Aborting script.'
 
 
 class SellerDoesNotExistError(Exception):
@@ -52,19 +59,23 @@ class APICaller:
             + f'&key={self.key}&secret={self.secret}'
         self.api_query = api_query
 
-    def validate_api_key_and_secret(self):
+    def validate_request(self):
         """Check if provided API key and secret is valid"""
         logging.info('Verifying API key and secret')
         if self.key is None:
-            raise NoAPIKeyOrSecretError('key')
+            raise MissingAPIKeyOrSecret('key')
         if self.secret is None:
-            raise NoAPIKeyOrSecretError('secret')
+            raise MissingAPIKeyOrSecret('secret')
+        if self.api_response_status_code == 401:
+            raise InvalidAPIKeyOrSecret()
 
     def validate_seller(self):
         """ Check API response to see if seller exists.
             Aborts script if seller is not found.
         """
         logging.info('Verifying seller')
+        # print(self.api_response_status_code)
+        # print(self.api_response)
         if self.api_response_status_code == 404:
             raise SellerDoesNotExistError(self.seller)
 
@@ -73,16 +84,19 @@ class APICaller:
         seller, and then sets the seller's listing data and top listing record
         as class attributes.
         """
-        self.validate_api_key_and_secret()
         try:
             req = requests.get(self.api_query)
             self.api_response_status_code = req.status_code
             self.api_response = json.loads(req.text)
+            self.validate_request()
             self.validate_seller()
         except requests.exceptions.RequestException as error:
             logging.error(error)
             sys.exit()
-        except NoAPIKeyOrSecretError as err:
+        except MissingAPIKeyOrSecret as err:
+            logging.error(err.msg, exc_info=True)
+            sys.exit()
+        except InvalidAPIKeyOrSecret as err:
             logging.error(err.msg, exc_info=True)
             sys.exit()
         except SellerDoesNotExistError as err:
@@ -103,7 +117,6 @@ class APICaller:
         """
         output_path = f'./output/{self.seller}_top_listing.json'
         self.get_top_listing()
-        print(self.top_listing)
         with open(output_path, 'w') as output:
             json.dump(self.top_listing,
                       output,
@@ -148,13 +161,14 @@ def parse_args():
             most expensive records')
     parser.add_argument('--seller',
                         help='Discogs seller username to query',
-                        default='kittertea')
+                        default='black_snake_moan')
     parser.add_argument('--key',
                         help='Discogs API key',
                         default='kHMaTxVJxeCDNOuOJdqK')
     parser.add_argument('--secret',
                         help='Discogs API secret',
-                        default='ykrkhBryxPLbtCtVPcMKzovBOdHNPwkz')
+                        default='foobar')
+                        # default='ykrkhBryxPLbtCtVPcMKzovBOdHNPwkz')
     return parser.parse_args()
 
 
