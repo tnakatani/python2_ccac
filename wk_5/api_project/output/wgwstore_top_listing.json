@@ -1,0 +1,77 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "EUR",
+        "formatted": "€4,053.62",
+        "value": 4053.62,
+        "curr_id": 3
+    },
+    "ships_from": "Belgium",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "EUR",
+        "value": 4053.62
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/1074434821",
+    "comments": "[Buy 6 records and get the cheapest one for free + receive an extra record in the same style. Free shipping in Europe (EU) for orders above 125 Euro.  | extremely rare copy ... offers welcome | Stocknr: K1646 ]",
+    "seller": {
+        "username": "wgwstore",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "100.0",
+            "total": 17942,
+            "stars": 5.0
+        },
+        "uid": 255987,
+        "url": "https://api.discogs.com/users/wgwstore",
+        "html_url": "https://www.discogs.com/user/wgwstore",
+        "shipping": "ALL ORDERS THAT HAVE NOT BEEN RESPONDED ON AFTER 7 DAYS WILL BE CANCELLED WITHOUT NOTICE.\r\n\r\n*YOUR PLACED ORDER IS THE ORDER THAT IS GOING TO BE SHIPPED. EXTRA ORDERS SHOULD BE SUBMITTED SEPARATELY*\r\n\r\nWGW reserves the right for wrongly listed items, stock is huge so errors can occur! all orders will be double checked before getting shipped. Missing or damaged items will be reported immediately!\r\n\r\n*If you are unsatisfied with your purchase then do not become nasty/furious/whatever mood you might be in then but just drop me a line with your complaint and we will work something out. I do not give bad ratings and do not wish to receive them too so it is a quid pro quo thing, convinced you understand.*\r\n\r\n*WE DO NOT CHARGE PAYPAL FEES*\r\n\r\n*No Extra Discounts!*\r\n\r\n*We are NOT responsible for lost packages, we will do what we can to recover the packages but we will not resend anything or refund.\r\nIf You want to be 100% sure for your package ask for traceable sending.\r\nIt isn't useful for small packages, but if you buy more then 1 or 2 records it gets even very useful !!\r\n\r\nThe shipping prices for larger order are better. And it's traceable, so packages not getting lost. \r\n[b]Check the shipping prices below:[/b]\r\n\r\nBE (traceable) (BPost) till 2kg (till around 8 records) - 5.50 euro\r\n\r\n[b] - BE[/b]\r\nGLS - BE (traceable) (1 - 2 days) 2kg - 10kg (till around  40 records) - 7.50 euro\r\nGLS - BE (traceable) (1 - 2 days) 10kg - 20kg (till around  80 records) - 8.50 euro\r\nGLS - BE (traceable) (1 - 2 days) 20kg - 32kg (till around  120 records) - 9.50 euro\r\n \r\n[b] - Europe[/b]\r\nGLS (traceable): Zone I: DE, LUX, NL (1 - 2 days) Till 5kg (till around 20 records) - 7.41 euro\r\nGLS (traceable): Zone I: DE, LUX, NL (1 - 2 days) 5kg - 10kg (till around  40 records) - 10.00 euro\r\nGLS (traceable): Zone I: DE, LUX, NL (1 - 2 days) 10kg - 15kg (till around  60 records) - 12.00 euro\r\nGLS (traceable): Zone I: DE, LUX, NL (1 - 2 days) 15kg - 25kg (till around  100 records) - 14.00 euro\r\nGLS (traceable): Zone I: DE, LUX, NL (1 - 2 days) 25kg - 30kg (till around  120 records) - 14.50 euro\r\nGLS (traceable): Zone I: DE, LUX, NL (1 - 2 days) 30kg - 40kg (till around  160 records) - 21.31 euro\r\nGLS (traceable): Zone II: DK, FR, AT (2 - 3 days) Till 5kg (till around 20 records) - 10.70 euro\r\nGLS (traceable): Zone II: DK, FR, AT (2 - 3 days) 5kg - 10kg (till around  40 records) - 12.50 euro\r\nGLS (traceable): Zone II: DK, FR, AT (2 - 3 days) 10kg - 15kg (till around  60 records) - 12.00 euro\r\nGLS (traceable): Zone II: DK, FR, AT (2 - 3 days) 15kg - 25kg (till around  100 records) - 15.50 euro\r\nGLS (traceable): Zone II: DK, FR, AT (2 - 3 days) 25kg - 30kg (till around  120 records) - 19.50 euro\r\nGLS (traceable): Zone II: DK, FR, AT (2 - 3 days) 30kg - 40kg (till around  160 records) - 24.81 euro\r\nGLS (traceable): Zone III: UK, HU, IT, POL, SI, SV, CZ (3 - 6 days) Till 5kg (till around 20 records) - 16.10 euro\r\nGLS (traceable): Zone III: UK, HU, IT, POL, SI, SV, CZ (3 - 6 days) 5kg - 10kg (till around  40 records) - 18.00 euro\r\nGLS (traceable): Zone III: UK, HU, IT, POL, SI, SV, CZ (3 - 6 days) 10kg - 15kg (till around  60 records) - 20.00 euro\r\nGLS (traceable): Zone III: UK, HU, IT, POL, SI, SV, CZ (3 - 6 days) 15kg - 25kg (till around  100 records) - 22.00 euro\r\nGLS (traceable): Zone III: UK, HU, IT, POL, SI, SV, CZ (3 - 6 days) 25kg - 30kg (till around  120 records) - 25.00 euro\r\nGLS (traceable): Zone III: UK, HU, IT, POL, SI, SV, CZ (3 - 6 days) 30kg - 40kg (till around  160 records) - 32.50 euro\r\nGLS (traceable): Zone IV: FI, IR, RO, ES, SW (2 - 4 days) Till 5kg (till around 20 records) - 20.10 euro\r\nGLS (traceable): Zone IV: FI, IR, RO, ES, SW (2 - 4 days) 5kg - 10kg (till around 40 records) - 23.50 euro\r\nGLS (traceable): Zone IV: FI, IR, RO, ES, SW (2 - 4 days) 10kg - 15kg (till around 60 records) - 25.00 euro\r\nGLS (traceable): Zone IV: FI, IR, RO, ES, SW (2 - 4 days) 15kg - 25kg (till around 100 records) - 29.45 euro\r\nGLS (traceable): Zone IV: FI, IR, RO, ES, SW (2 - 4 days) 25kg - 30kg (till around 120 records) - 31.50 euro\r\nGLS (traceable): Zone IV: FI, IR, RO, ES, SW (2 - 4 days) 30kg - 40kg (till around 160 records) - 38.45 euro\r\nGLS (traceable): Zone V: BG, EE, LV, LT, NO, PT (3 - 6 days) Till 5kg (till around 20 records) - 25.90 euro\r\nGLS (traceable): Zone V: BG, EE, LV, LT, NO, PT (3 - 6 days) 5kg - 10kg (till around 40 records) - 29.00 euro\r\nGLS (traceable): Zone V: BG, EE, LV, LT, NO, PT (3 - 6 days) 10kg - 15kg (till around 60 records) - 30.30 euro\r\nGLS (traceable): Zone V: BG, EE, LV, LT, NO, PT (3 - 6 days) 15kg - 25kg (till around 100 records) - 34.61 euro\r\nGLS (traceable): Zone V: BG, EE, LV, LT, NO, PT (3 - 6 days) 25kg - 30kg (till around 120 records) - 40.15 euro\r\nGLS (traceable): Zone V: BG, EE, LV, LT, NO, PT (3 - 6 days) 30kg - 40kg (till around 160 records) - 51.25 euro\r\n\r\n[b] Prior Europe (No Tracking Nr.):[/b]\r\n1 12\" EUROPE - Air Mail: 7.00 EUR\r\n2 12\" EUROPE - Air Mail: 7.40 EUR\r\n3 12\" EUROPE - Air Mail: 8.99 EUR\r\n4 12\" EUROPE - Air Mail: 10.99 EUR\r\n5 12\" EUROPE - Air Mail: 12.99 EUR\r\n6 12\" EUROPE - Air Mail: 14.99 EUR\r\n7 12\" EUROPE - Air Mail: 16.99 EUR\r\n\r\n[b] BPOST Prior Rest Of The World (No Tracking Nr.):[/b]\r\n1 12\" USA/WORLD - Air Mail: 8.50 EUR\r\n2 12\" USA/WORLD - Air Mail: 8.90 EUR\r\n3 12\" USA/WORLD - Air Mail: 12.60 EUR\r\n4 12\" USA/WORLD - Air Mail: 16.25 EUR\r\n5 12\" USA/WORLD - Air Mail: 19.40 EUR\r\n6 12\" USA/WORLD - Air Mail: 22.00 EUR\r\n7 12\" USA/WORLD - Air Mail: 22.50 EUR\r\n\r\nIf you don't see a suitable shipping for yourself, just ask !!! \r\nAny other questions? don't hesitate to ask !!\r\n\r\nWE ACCEPT PAYPAL & BANK TRANSFERS.",
+        "id": 255987,
+        "avatar_url": "https://img.discogs.com/YePy2feHMh9zH0W3VflYgvR8hUA=/500x500/filters:strip_icc():format(jpeg):quality(40)/discogs-avatars/U-255987-1517407663.jpeg.jpg",
+        "resource_url": "https://api.discogs.com/users/wgwstore",
+        "payment": "Bank Transfer, PayPal"
+    },
+    "sleeve_condition": "Mint (M)",
+    "shipping_price": {},
+    "release": {
+        "description": "Pascal Comelade - 33 Bars (LP, Album, Ltd, Promo)",
+        "format": "LP, Album, Ltd, Promo",
+        "year": 1989,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/cXfCDk-FdPTbxyhIDY1o75TLZbs=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10983100-1507714094-9597.jpeg.jpg",
+                "height": 581,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/cXfCDk-FdPTbxyhIDY1o75TLZbs=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10983100-1507714094-9597.jpeg.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/WJITzBbUHfSkf5HsZSSDwTpq04A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10983100-1507714094-9597.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/JvYRgnMyYmhiYL0Lv8jgsmFJxo4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10983100-1507714094-6199.jpeg.jpg",
+                "height": 591,
+                "width": 600,
+                "resource_url": "https://img.discogs.com/JvYRgnMyYmhiYL0Lv8jgsmFJxo4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10983100-1507714094-6199.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/t2WjcGrHvNnLjMnUS05K4iIy6sw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10983100-1507714094-6199.jpeg.jpg"
+            }
+        ],
+        "id": 10983100,
+        "stats": {
+            "community": {
+                "in_collection": 1,
+                "in_wantlist": 26
+            }
+        },
+        "catalog_number": "EVA - 2011, 54014",
+        "artist": "Pascal Comelade",
+        "title": "33 Bars",
+        "resource_url": "https://api.discogs.com/releases/10983100",
+        "thumbnail": "https://img.discogs.com/WJITzBbUHfSkf5HsZSSDwTpq04A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10983100-1507714094-9597.jpeg.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/1074434821",
+    "audio": false,
+    "id": 1074434821,
+    "condition": "Mint (M)",
+    "posted": "2020-03-06T05:11:35-08:00"
+}
