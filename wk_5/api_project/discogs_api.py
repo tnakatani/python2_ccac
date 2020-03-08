@@ -163,12 +163,9 @@ def parse_args():
                         help='Discogs seller username to query',
                         default='black_snake_moan')
     parser.add_argument('--key',
-                        help='Discogs API key',
-                        default='kHMaTxVJxeCDNOuOJdqK')
+                        help='Discogs API key (required)')
     parser.add_argument('--secret',
-                        help='Discogs API secret',
-                        default='foobar')
-                        # default='ykrkhBryxPLbtCtVPcMKzovBOdHNPwkz')
+                        help='Discogs API secret (required)')
     return parser.parse_args()
 
 
