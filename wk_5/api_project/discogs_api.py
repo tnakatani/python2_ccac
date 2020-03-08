@@ -10,6 +10,21 @@ import logging
 import requests
 
 
+class NoAPIKeyOrSecretError(Exception):
+    """Error logging for no input value"""
+    def __init__(self, error_field):
+        super(NoAPIKeyOrSecretError, self).__init__()
+        self.msg = f'No API {error_field} provided. Aborting script.'
+
+
+class SellerDoesNotExistError(Exception):
+    """Error logging when Discogs seller does not exist"""
+    def __init__(self, seller):
+        super(SellerDoesNotExistError, self).__init__()
+        self.seller = seller
+        self.msg = f'Could not find seller "{seller}". Aborting script.'
+
+
 class APICaller:
     """Class to make API calls"""
     def __init__(self, seller, key, secret):
@@ -23,6 +38,7 @@ class APICaller:
         self.seller = seller
         self.key = key
         self.secret = secret
+        self.api_response_status_code = None
         self.api_response = None
         self.api_query = None
         self.top_listing = None
@@ -36,37 +52,47 @@ class APICaller:
             + f'&key={self.key}&secret={self.secret}'
         self.api_query = api_query
 
-    def get_seller_data(self):
-        """Makes an API call to Discogs, verifies the user exists, and returns
-        the seller's listing data.
+    def validate_api_key_and_secret(self):
+        """Check if provided API key and secret is valid"""
+        logging.info('Verifying API key and secret')
+        if self.key is None:
+            raise NoAPIKeyOrSecretError('key')
+        if self.secret is None:
+            raise NoAPIKeyOrSecretError('secret')
 
-        Returns:
-            content: JSON data as a Python dictionary
-        """
-        try:
-            req = requests.get(self.api_query)
-            self.api_response = json.loads(req.text)
-            return self.api_response
-        except requests.exceptions.RequestException as error_msg:
-            logging.error(error_msg)
-            sys.exit(1)
-
-    def get_top_listing(self):
-        """Get most expensive listing from API response"""
-        self.top_listing = self.api_response['listings'][0]
-
-    def verify_seller_exists(self):
+    def validate_seller(self):
         """ Check API response to see if seller exists.
             Aborts script if seller is not found.
         """
-        if 'message' in self.api_response:
-            logging.error('Could not find seller. Aborting script')
+        logging.info('Verifying seller')
+        if self.api_response_status_code == 404:
+            raise SellerDoesNotExistError(self.seller)
+
+    def get_seller_listings(self):
+        """Makes an API call to Discogs, validates API key/secret and
+        seller, and then sets the seller's listing data and top listing record
+        as class attributes.
+        """
+        self.validate_api_key_and_secret()
+        try:
+            req = requests.get(self.api_query)
+            self.api_response_status_code = req.status_code
+            self.api_response = json.loads(req.text)
+            self.validate_seller()
+        except requests.exceptions.RequestException as error:
+            logging.error(error)
+            sys.exit()
+        except NoAPIKeyOrSecretError as err:
+            logging.error(err.msg, exc_info=True)
+            sys.exit()
+        except SellerDoesNotExistError as err:
+            logging.error(err.msg, exc_info=True)
             sys.exit()
 
-    def show_top_listing(self):
-        """ Show most expensive record in seller's inventory"""
-        self.get_top_listing()
-        print(self.top_listing)
+    def get_top_listing(self):
+        """Get most expensive listing from API response"""
+        self.validate_seller()
+        self.top_listing = self.api_response['listings'][0]
 
     def dump_top_listing(self):
         """Dump most expensive record in seller's inventory into JSON file
@@ -76,20 +102,16 @@ class APICaller:
             seller_data: Dictionary of seller's listings
         """
         output_path = f'./output/{self.seller}_top_listing.json'
+        self.get_top_listing()
+        print(self.top_listing)
         with open(output_path, 'w') as output:
-            json.dump(self.top_listing, output, indent=4, ensure_ascii=False)
+            json.dump(self.top_listing,
+                      output,
+                      indent=4,
+                      ensure_ascii=False)
+        print(f'Top listing exported to {output_path}')
 
-    @staticmethod
-    def write_header(csv_writer):
-        """Write the header for the CSV output for the seller's listings
-
-        Args:
-            csv_writer: csv.writer() object
-        """
-        csv_headers = ['listings', 'title', 'price', 'currency', 'url']
-        csv_writer.writerow(csv_headers)
-
-    def dump_inventory_listings_to_csv(self):
+    def dump_listings_to_csv(self):
         """Dump seller's inventory into CSV file
 
         Args:
@@ -107,6 +129,17 @@ class APICaller:
                 currency = item['price']['currency']
                 url = item['uri']
                 writer.writerow([artist, title, price, currency, url])
+        print(f'Listings exported to {output_path}')
+
+    @staticmethod
+    def write_header(csv_writer):
+        """Write the header for the CSV output for the seller's listings
+
+        Args:
+            csv_writer: csv.writer() object
+        """
+        csv_headers = ['listings', 'title', 'price', 'currency', 'url']
+        csv_writer.writerow(csv_headers)
 
 
 def parse_args():
@@ -130,10 +163,9 @@ def main():
     args = parse_args()
     api = APICaller(args.seller, args.key, args.secret)
     api.create_api_query()
-    api.get_seller_data()
-    api.verify_seller_exists()
+    api.get_seller_listings()
     api.dump_top_listing()
-    api.dump_inventory_listings_to_csv()
+    api.dump_listings_to_csv()
 
 
 if __name__ == '__main__':
