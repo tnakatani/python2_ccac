@@ -1,0 +1,93 @@
+{
+    "status": "For Sale",
+    "original_price": {
+        "curr_abbr": "JPY",
+        "formatted": "¥660,000",
+        "value": 660000.0,
+        "curr_id": 6
+    },
+    "ships_from": "Japan",
+    "original_shipping_price": {},
+    "price": {
+        "currency": "JPY",
+        "value": 660000.0
+    },
+    "allow_offers": false,
+    "uri": "https://www.discogs.com/sell/item/1050914956",
+    "comments": "[[Shipping information] For Registered Airmail user.Please ask for shipping rates.] Still sealed!! but cover has some wrinkles, so stated Near Mint,",
+    "seller": {
+        "username": "recordshopshibuya",
+        "is_mp2020_seller": false,
+        "stats": {
+            "rating": "99.8",
+            "total": 2518,
+            "stars": 4.5
+        },
+        "uid": 4573761,
+        "url": "https://api.discogs.com/users/recordshopshibuya",
+        "html_url": "https://www.discogs.com/user/recordshopshibuya",
+        "shipping": "----------PLEASE NOTICE----------\r\nWe are unable to ship the products as gifts.\r\nWe state the full price of the products on the invoice.\r\nOverseas customers must comply with all laws and regulations of the country in which the orders are received. \r\nYou may be subject to import duties and taxes, which may be levied once the package reaches your country. \r\nIn this case, additional charges for customs clearance must be borne by you and we will not refund or compensate the charges in any case.\r\nThe charges will vary widely from country to country. \r\n(Please contact your local customs office for further information) \r\n\r\nWe can't deal with request for return about SEALED stock and BRAND NEW COPY for any reason.\r\n\r\nPayment international \"PAYPAL\" ONLY\r\n(We cancel if buyer don't pay in 7days automatically.)\r\n\r\n[Shipping information] \r\n\"Express Mail Service(EMS)\" \r\n(EMS is fastest and safety AIR MAIL with tracking system\r\n7-10days for delivery /fast & safety shipping)\r\nShipping & Handling Cost\r\n\r\n\"Registered Airmail\" \r\n(Cheap shipping with tracking system\r\n2-3 weeks for delivery)\r\nPlease ask\r\n\r\n\r\n【LP/12”】\r\n(Asia) \r\n￥1,820 for 1 record(12inch,LP) and ￥600 for each additional record(12inch,LP). \r\n(North America、Central America、Oceania、the Middle East ) \r\n￥2,540 for 1 record(12inch,LP) and ￥700 for each additional record(12inch,LP). \r\n(Europe) \r\n￥2,800 for 1 record(12inch,LP) and ￥750 for each additional record(12inch,LP). \r\n(Africa、South America) \r\n￥3,420 for 1 record(12inch,LP) and ￥1,300 for each additional record(12inch,LP).\r\nDouble album & gatefold counts as 2 LPs, triple album as 3 LPs and box sets are counted per LP.\r\n\r\n【7”】\r\n(Asia) \r\n￥1,680 for 1 EP(7inch) and ￥250 for each additional EP(7inch). \r\n(North America、Central America、Oceania、the Middle East ) \r\n￥2,360 for 1 EP(7inch) and ￥300 for each additional EP(7inch). \r\n(Europe) \r\n￥2,600 for 1 EP(7inch) and ￥350 for each additional EP(7inch). \r\n(Africa、South America) \r\n￥3,080 for 1 EP(7inch) and ￥500 for each additional EP(7inch).\r\n\r\nEMS Tracking and Tracing Service is not available in some areas of the world. \r\nPlease contact the postal administration in your country for more details.\r\n\r\nPlease email a question. \r\nBest Regards.",
+        "id": 4573761,
+        "avatar_url": "https://img.discogs.com/Aj3xCROt7ifK29xTzyCcJoZVjWU=/500x500/filters:strip_icc():format(jpeg):quality(40)/discogs-avatars/U-4573761-1581487566.jpeg.jpg",
+        "resource_url": "https://api.discogs.com/users/recordshopshibuya",
+        "payment": "PayPal"
+    },
+    "sleeve_condition": "Near Mint (NM or M-)",
+    "shipping_price": {},
+    "release": {
+        "description": "Ricardo Marrero & The Group - A Taste (LP, Album)",
+        "format": "LP, Album",
+        "year": 1976,
+        "images": [
+            {
+                "uri": "https://img.discogs.com/g7r0Ustz_NzIle3I_wawtLGeC7E=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1415122228-8842.jpeg.jpg",
+                "height": 452,
+                "width": 500,
+                "resource_url": "https://img.discogs.com/g7r0Ustz_NzIle3I_wawtLGeC7E=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1415122228-8842.jpeg.jpg",
+                "type": "primary",
+                "uri150": "https://img.discogs.com/cXWQEvr5nLUAdKP_lgWUiMUBKZQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1876671-1415122228-8842.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/qVa970PRb0cGlERx9AFa41uOqaU=/fit-in/389x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1544735789-2885.jpeg.jpg",
+                "height": 400,
+                "width": 389,
+                "resource_url": "https://img.discogs.com/qVa970PRb0cGlERx9AFa41uOqaU=/fit-in/389x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1544735789-2885.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/snzFNKwLdIDacWwkqPn_zrqRvQQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1876671-1544735789-2885.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/hIuPOMFOrUOim5nok4Z_DCYaMso=/fit-in/396x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1544735789-7350.jpeg.jpg",
+                "height": 400,
+                "width": 396,
+                "resource_url": "https://img.discogs.com/hIuPOMFOrUOim5nok4Z_DCYaMso=/fit-in/396x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1544735789-7350.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/K6S0gjZJaE45yrtpsBmotYCRL80=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1876671-1544735789-7350.jpeg.jpg"
+            },
+            {
+                "uri": "https://img.discogs.com/ZaJizh3wlRN_CC-4dHJdyCNfxp0=/fit-in/391x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1544735789-7522.jpeg.jpg",
+                "height": 400,
+                "width": 391,
+                "resource_url": "https://img.discogs.com/ZaJizh3wlRN_CC-4dHJdyCNfxp0=/fit-in/391x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876671-1544735789-7522.jpeg.jpg",
+                "type": "secondary",
+                "uri150": "https://img.discogs.com/I4eYwYYQCO-I6EPKL2SiKFum7wI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1876671-1544735789-7522.jpeg.jpg"
+            }
+        ],
+        "id": 1876671,
+        "stats": {
+            "community": {
+                "in_collection": 35,
+                "in_wantlist": 927
+            }
+        },
+        "catalog_number": "TSG-805, 805",
+        "artist": "Ricardo Marrero & The Group",
+        "title": "A Taste",
+        "resource_url": "https://api.discogs.com/releases/1876671",
+        "thumbnail": "https://img.discogs.com/cXWQEvr5nLUAdKP_lgWUiMUBKZQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1876671-1415122228-8842.jpeg.jpg"
+    },
+    "resource_url": "https://api.discogs.com/marketplace/listings/1050914956",
+    "audio": false,
+    "id": 1050914956,
+    "condition": "Mint (M)",
+    "posted": "2020-01-13T21:53:22-08:00"
+}

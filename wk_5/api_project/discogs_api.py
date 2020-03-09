@@ -45,9 +45,9 @@ class APICaller:
         self.seller = seller
         self.key = key
         self.secret = secret
-        self.api_response_status_code = None
-        self.api_response = None
         self.api_query = None
+        self.response_status_code = None
+        self.response = None
         self.top_listing = None
 
     def create_api_query(self):
@@ -60,23 +60,14 @@ class APICaller:
         self.api_query = api_query
 
     def validate_request(self):
-        """Check if provided API key and secret is valid"""
-        logging.info('Verifying API key and secret')
+        """Check if provided API key and secret are valid"""
         if self.key is None:
             raise MissingAPIKeyOrSecret('key')
         if self.secret is None:
             raise MissingAPIKeyOrSecret('secret')
-        if self.api_response_status_code == 401:
+        if self.response_status_code == 401:
             raise InvalidAPIKeyOrSecret()
-
-    def validate_seller(self):
-        """ Check API response to see if seller exists.
-            Aborts script if seller is not found.
-        """
-        logging.info('Verifying seller')
-        # print(self.api_response_status_code)
-        # print(self.api_response)
-        if self.api_response_status_code == 404:
+        if self.response_status_code == 404:
             raise SellerDoesNotExistError(self.seller)
 
     def get_seller_listings(self):
@@ -86,10 +77,9 @@ class APICaller:
         """
         try:
             req = requests.get(self.api_query)
-            self.api_response_status_code = req.status_code
-            self.api_response = json.loads(req.text)
+            self.response_status_code = req.status_code
+            self.response = json.loads(req.text)
             self.validate_request()
-            self.validate_seller()
         except requests.exceptions.RequestException as error:
             logging.error(error)
             sys.exit()
@@ -105,8 +95,7 @@ class APICaller:
 
     def get_top_listing(self):
         """Get most expensive listing from API response"""
-        self.validate_seller()
-        self.top_listing = self.api_response['listings'][0]
+        self.top_listing = self.response['listings'][0]
 
     def dump_top_listing(self):
         """Dump most expensive record in seller's inventory into JSON file
@@ -135,7 +124,7 @@ class APICaller:
         with open(output_path, 'w') as output:
             writer = csv.writer(output)
             self.write_header(writer)
-            for item in self.api_response['listings']:
+            for item in self.response['listings']:
                 artist = item['release']['artist']
                 title = item['release']['title']
                 price = item['price']['value']
