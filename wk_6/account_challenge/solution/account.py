@@ -65,6 +65,10 @@ class SavingsAccount(Account):
 
 # Create an instance of SavingsAccount
 yukihiro_account = SavingsAccount('Yukihiro Matsumoto', 15000000)
-print(yukihiro_account.interest_rate)
+
+# Try to print a private attribute (this will throw an error)
+# print(yukihiro_account.interest_rate)
+
+# Calculate interest gain
 print(yukihiro_account.calc_interest_gain())
 
