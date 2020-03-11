@@ -9,7 +9,7 @@
 
 ## Topic: OOP 101 - Classes
 
-PDF: https://github.com/tnakatani/python2_ccac/blob/master/wk_6/python2_class_handout.pdf
+PDF: https://github.com/tnakatani/python2_ccac/blob/master/wk_6/oop_101_classes.pdf
 
 ### Challenge 1
 
