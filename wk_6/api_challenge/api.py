@@ -1,3 +1,5 @@
+# Challenge: Try converting the following code into an API class
+
 import json
 import requests
 
@@ -33,7 +35,7 @@ def main():
     """Run the functions"""
     api_data = get_request(url)
     print(get_count(api_data))
-    dump_data(api_data)
+    dump_data_to_json(api_data)
 
 
 if __name__ == '__main__':
