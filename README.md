@@ -16,7 +16,7 @@
 | 3 | <s>File I/O & Exceptions</s> <br> Modularity + Merging | [PGH Capital Project notebook](https://github.com/tnakatani/python2_ccac/tree/master/wk_3/notebook) <br> [Project Summary](https://github.com/tnakatani/python2_ccac/blob/master/wk_3/capital_projects_analysis.md) |
 | 4 | Query spec building in JSON; advanced Git | [JSON-encoded search criteria](https://github.com/tnakatani/python2_ccac/tree/master/wk_4) |
 | 5 | APIs | [API modules](https://technologyrediscovery.net/python/mod-api.html) <br> [Discogs API Project](https://github.com/tnakatani/python2_ccac/tree/wk_5/wk_5/api_project) |
-| 6 | Peer Teaching | [Peer Teaching module](https://github.com/tnakatani/python2_ccac/tree/wk_5/wk_6) |
+| 6 | Peer Teaching | [Peer Tutorial - OOP 101: Classes](https://github.com/tnakatani/python2_ccac/tree/master/wk_6) |
 | 7 | API project | |
 | 8 | OOP (classes, methods, etc) | |
 | 9 | Web Scraping using ```Beautiful Soup 4``` | |
