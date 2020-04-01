@@ -26,7 +26,9 @@
 | 13 | Django web serving | |
 | 14 | Project | |
 
-## Appendix 1 - Readiness Assessments
+## Appendix
+
+### Readiness Assessments
 
 [`challenge_1.py`](https://github.com/tnakatani/python2_ccac/blob/master/readiness_assessments/challenge_1.py) : solutions for Python 2 entrace challenge
 
