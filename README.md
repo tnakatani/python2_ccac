@@ -17,11 +17,10 @@
 | 4 | Query spec building in JSON; advanced Git | [JSON-encoded search criteria](https://github.com/tnakatani/python2_ccac/tree/master/wk_4) |
 | 5 | APIs | [API modules](https://technologyrediscovery.net/python/mod-api.html) <br> [Discogs API Project](https://github.com/tnakatani/python2_ccac/tree/wk_5/wk_5/api_project) |
 | 6 | Peer Teaching | [Peer Tutorial - OOP 101: Classes](https://github.com/tnakatani/python2_ccac/tree/master/wk_6) |
-| 7 | API project | |
-| 8 | OOP (classes, methods, etc) | |
-| 9 | Web Scraping using ```Beautiful Soup 4``` | |
-| 10 | Project on Web Scraping | |
-| ** | BREAK | |
+| 7 | Break | |
+| 8 | Web Scraping using ```Beautiful Soup 4``` | [MoMa Scrape Project](https://github.com/tnakatani/python2_ccac/blob/moma_scrape/wk_8/moma_scrape/moma_scrape.ipynb) |
+| 9 | Scraping mini project sharing <br> Intro to Pandas Visualization | |
+| 10 | GUIs tkinter | |
 | 11 | OS Interaction using ```os``` | |
 | 12 | Database Interaction (PostgreSQL, SQLite) | |
 | 13 | Django web serving | |
