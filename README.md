@@ -1,5 +1,4 @@
 # python2_ccac
-
 ## Course Links
 
 [Python 2 Overview](https://technologyrediscovery.net/#python2)
@@ -19,12 +18,13 @@
 | 6 | Peer Teaching | [Peer Tutorial - OOP 101: Classes](https://github.com/tnakatani/python2_ccac/tree/master/wk_6) |
 | 7 | Break | |
 | 8 | Web Scraping using ```Beautiful Soup 4``` | [MoMa Scrape Project](https://github.com/tnakatani/python2_ccac/blob/master/wk_8/moma_scrape/moma_scrape.ipynb) |
-| 9 | Scraping mini project sharing <br> Intro to Pandas Visualization | |
-| 10 | GUIs tkinter | |
-| 11 | OS Interaction using ```os``` | |
-| 12 | Database Interaction (PostgreSQL, SQLite) | |
-| 13 | Django web serving | |
-| 14 | Project | |
+| 9 | Scraping mini project sharing | Continue working on moma_scrape project |
+| 10 | Intro to Pandas Visualization | |
+| 11 | GUIs tkinter | |
+| 12 | OS Interaction using ```os``` | |
+| 13 | Database Interaction (PostgreSQL, SQLite) | |
+| 14 | Django web serving | |
+|   | Project | |
 
 ## Appendix
 
