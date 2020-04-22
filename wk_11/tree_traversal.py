@@ -20,7 +20,7 @@ def parse_argument():
     )
     parser.add_argument('-d', '--directory',
                         help='directory to search',
-                        default='.')
+                        default='smokedfoods')
     parser.add_argument('-v', '--verbose',
                         help='prints each parsed filename and its extension',
                         default=False
@@ -88,21 +88,27 @@ def plot_frequency_table(freq_table, directory):
     ax.invert_yaxis()  # labels read top-to-bottom
     ax.set_xlabel('Counts')
     if directory:
-        ax.set_title(f'Most common filetypes in\n{directory}')
+        ax.set_title(f'Most common filetypes in\n{directory} directory')
     else:
         ax.set_title(f'Most common filetypes')
-    plt.savefig('filetype_freq_table.png')
+    # After plt.show() is called, the figure is erased.
+    # Save image prior to showing the plot.
+    save_plot_to_png(plt, directory)
     plt.show()
+
+
+def save_plot_to_png(plt, directory):
+    """Save frequency table plot to a PNG file"""
+    os.makedirs('./img', exist_ok=True)
+    plt.savefig(f'./img/filetype_freq_table_{directory}.png')
 
 
 def main():
     args = parse_argument()
-    dir_path = Path(args.directory).absolute()
-    print(dir_path)
     files = get_filenames_from_directory(args.directory)
     freq_table = create_frequency_table(files, verbose=args.verbose)
     sorted_table = sort_frequency_table(freq_table)
-    plot_frequency_table(sorted_table, directory=dir_path)
+    plot_frequency_table(sorted_table, directory=args.directory)
 
 
 if __name__ == '__main__':
