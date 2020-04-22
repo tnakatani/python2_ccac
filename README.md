@@ -20,8 +20,8 @@
 | 8 | Web Scraping using ```Beautiful Soup 4``` | [MoMa Scrape Project](https://github.com/tnakatani/python2_ccac/blob/master/wk_8/moma_scrape/moma_scrape.ipynb) |
 | 9 | Scraping mini project sharing | Continue working on moma_scrape project |
 | 10 | Intro to Pandas Visualization | [Allegheny Health Violations Exploration](https://github.com/tnakatani/python2_ccac/blob/master/wk_10/health_violations/allegheny_health_violation.ipynb) |
-| 11 | GUIs tkinter | |
-| 12 | OS Interaction using ```os``` | |
+| 11 | OS Interaction using ```os``` | [OS Tree Traversal assignment](https://github.com/tnakatani/python2_ccac/tree/master/wk_11) |
+| 12 | GUIs tkinter | |
 | 13 | Database Interaction (PostgreSQL, SQLite) | |
 | 14 | Django web serving | |
 |   | Project | |
