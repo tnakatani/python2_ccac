@@ -21,10 +21,9 @@
 | 9 | Scraping mini project sharing | Continue working on moma_scrape project |
 | 10 | Intro to Pandas Visualization | [Allegheny Health Violations Exploration](https://github.com/tnakatani/python2_ccac/blob/master/wk_10/health_violations/allegheny_health_violation.ipynb) |
 | 11 | OS Interaction using ```os``` | [OS Tree Traversal assignment](https://github.com/tnakatani/python2_ccac/tree/master/wk_11) |
-| 12 | GUIs tkinter | |
+| 12 | Regex & Matplotlib workshop<br>Final Project Specification | |
 | 13 | Database Interaction (PostgreSQL, SQLite) | |
-| 14 | Django web serving | |
-|   | Project | |
+| 14 | Final Project Presentation | |
 
 ## Appendix
 
