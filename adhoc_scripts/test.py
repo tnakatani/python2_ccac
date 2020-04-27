@@ -1,7 +1,7 @@
 import re
 
 
-def extract_jp_chars(utterance):
+def extract_jp_chars(text):
     """Extract all Japanese characters from a text
     """
     all_kanji = '一-熙'
@@ -17,7 +17,7 @@ def extract_jp_chars(utterance):
     # clean = re.compile(regex_pattern)
     # split = re.split(regex_pattern, utterance)
     jp = '([一-熙ぁ-んァ-ヶー！：／])'  #|([a-zA-Z])'
-    utt = utterance.replace(' ', '')
+    utt = text.replace(' ', '')
     sub = re.sub(jp, r' \1', utt)
     # findall = re.findall(regex_pattern, utterance)
     # print(split)
