@@ -1,0 +1,705 @@
+,manufacturer,count,frequency
+0,"braun ag, frankfurt, germany, est. 1921",41,0.018695850433196534
+1,"tiffany studios, new york, ny",34,0.015503875968992248
+2,"chemex corp., new york, ny",33,0.015047879616963064
+3,james prestini,31,0.014135886912904697
+4,"daum frères, nancy, france",25,0.011399908800729594
+5,"iittala glassworks, iittala, finland",25,0.011399908800729594
+6,"cristalleria nason e moretti, venezia-murano, italy",25,0.011399908800729594
+7,"gebrüder thonet, vienna, austria",24,0.01094391244870041
+8,"tupper corporation, farnumsville, ma",21,0.009575923392612859
+9,"herman miller, inc., zeeland, mi",20,0.009119927040583675
+10,"bruno danese, milan, italy",20,0.009119927040583675
+11,"nuno corporation, tokyo, japan",17,0.007751937984496124
+12,"arabia, wärtsilä ab, helsinki, finland",16,0.00729594163246694
+13,"knoll international, inc., new york, ny",16,0.00729594163246694
+14,"ibm, east fishkill, ny",16,0.00729594163246694
+15,"coors porcelain co., golden, co",15,0.006839945280437756
+16,"oy huonekalu-ja rakennustyötehdas ab, turku, finland",15,0.006839945280437756
+17,"kartell s.p.a., milan, italy",14,0.006383948928408573
+18,unknown,14,0.006383948928408573
+19,"knoll associates, new york, ny",14,0.006383948928408573
+20,"corning glass works, corning, ny",14,0.006383948928408573
+21,"rosenthal porzellan a.g., selb, germany",13,0.005927952576379389
+22,"ing. c. olivetti & c. s.p.a., ivrea, italy",13,0.005927952576379389
+23,"evans products co., molded plywood div., venice, ca",13,0.005927952576379389
+24,"nuutajärvi glass works, wärtsilä, finland",13,0.005927952576379389
+25,"ceramic japan co. ltd., aichi-ken, japan",13,0.005927952576379389
+26,"venini & co., murano, italy",13,0.005927952576379389
+27,"rfsu rehab, stockholm, sweden",12,0.005471956224350205
+28,"j.p. kayser sohn, cologne",12,0.005471956224350205
+29,"carrollton metal products company, carrollton, oh",12,0.005471956224350205
+30,"georg jensen sølvsmedie, copenhagen, denmark",11,0.005015959872321021
+31,"cassina, s.p.a., milan",11,0.005015959872321021
+32,"red lion table co., pennsylvania",11,0.005015959872321021
+33,"ab gustavsberg fabriker, sweden",11,0.005015959872321021
+34,"vereinigte lausitzer glaswerke a.g., weisswasser, germany",11,0.005015959872321021
+35,"orrefors, sweden",10,0.004559963520291838
+36,"cyrus clark co., inc., new york, ny",10,0.004559963520291838
+37,"j. & l. lobmeyr, vienna",10,0.004559963520291838
+38,"the isokon furniture company, london",10,0.004559963520291838
+39,"bang & olufsen, struer, denmark",10,0.004559963520291838
+40,"the aluminum cooking utensil co., new york, ny",10,0.004559963520291838
+41,"dresdner werkstätten für handwerkskunst, dresden",9,0.004103967168262654
+42,"bauhaus metal workshop, germany",9,0.004103967168262654
+43,"akari associates, long island city, new york",9,0.004103967168262654
+44,"n.v. koninklijke nederlandse glasfabriek, leerdam, the netherlands",9,0.004103967168262654
+45,"moss rose manufacturing co., philadelphia, pa",9,0.004103967168262654
+46,"brionvega s.p.a., italy",9,0.004103967168262654
+47,"grasoli-werk gebr. grah, solingen, germany",9,0.004103967168262654
+48,"ekco products co., chicago, il",9,0.004103967168262654
+49,"arteluce s.a., milan",9,0.004103967168262654
+50,"danese s.r.l., italy",9,0.004103967168262654
+51,unknown german manufacturer,9,0.004103967168262654
+52,"berliner metallgewerbe joseph müller, germany",8,0.00364797081623347
+53,"morris & co., london",8,0.00364797081623347
+54,"alias spa, bergamo, italy",8,0.00364797081623347
+55,ed rossbach,8,0.00364797081623347
+56,"officina alessi, italy",8,0.00364797081623347
+57,"deutsche werkstätten für handwerkskunst, germany",8,0.00364797081623347
+58,"staatliche porzellan-manufaktur, berlin (now konigliche porzellan-manufaktur)",8,0.00364797081623347
+59,"xo, france",8,0.00364797081623347
+60,"concept inc., st. petersburg, fl",8,0.00364797081623347
+61,"stelton a/s, copenhagen, denmark",7,0.0031919744642042863
+62,"droog design, the netherlands",7,0.0031919744642042863
+63,"kosta glasbruk, sweden",7,0.0031919744642042863
+64,"herman miller furniture co., zeeland, mi",7,0.0031919744642042863
+65,"casigliani s.p.a., pisa",7,0.0031919744642042863
+66,"knoll textiles, new york, ny",7,0.0031919744642042863
+67,"salviati & c., venice, italy",7,0.0031919744642042863
+68,"american steel & wire co., worcester, ma",7,0.0031919744642042863
+69,"artemide s.p.a., milan, italy",7,0.0031919744642042863
+70,"blenko glass co., inc., milton, wv",7,0.0031919744642042863
+71,"bauhaus weaving workshops, weimar",6,0.0027359781121751026
+72,"cappellini s.p.a., milan, italy",6,0.0027359781121751026
+73,"matsushita electrical industrial company, osaka",6,0.0027359781121751026
+74,"cadoro jewels, new york, ny",6,0.0027359781121751026
+75,"international silver co., meriden, ct",6,0.0027359781121751026
+76,"e. bakalowitz & söhne, vienna",6,0.0027359781121751026
+77,"tri-state plastic molding co., henderson, ky",6,0.0027359781121751026
+78,anni albers,6,0.0027359781121751026
+79,"riedel crystal, kufstein, austria",6,0.0027359781121751026
+80,"hemco plastics div. of bryant electrical co., bridgeport, ct",6,0.0027359781121751026
+81,"apple, inc.",6,0.0027359781121751026
+82,"synthetic industries, chattanooga, tn",6,0.0027359781121751026
+83,"manufactured by tupper corporation, farnumsville, ma",6,0.0027359781121751026
+84,"richard süssmuth glashütte, immenhausen, germany",6,0.0027359781121751026
+85,"torben örskov & co. a/s, copenhagen",6,0.0027359781121751026
+86,"fuso gomu ind. co., ltd., tokyo",6,0.0027359781121751026
+87,"progetti, italy",5,0.002279981760145919
+88,"ingo maurer gmbh, germany",5,0.002279981760145919
+89,"the general fireproofing co., youngstown, oh",5,0.002279981760145919
+90,"habitat, inc., new york, ny",5,0.002279981760145919
+91,"azucena s.r.l., milan",5,0.002279981760145919
+92,"jenaer glaswerk schott & gen., mainz, germany",5,0.002279981760145919
+93,"lobmeyr, kamenický šenov, czechoslovakia",5,0.002279981760145919
+94,flos s.p.a.,5,0.002279981760145919
+95,"zanotta s.p.a., italy",5,0.002279981760145919
+96,"oluce, milan, italy",5,0.002279981760145919
+97,"tiroler glashütte, claus joseph riedel k.g., kufstein/tirol, austria",5,0.002279981760145919
+98,"revere copper and brass, inc., rome, ny",5,0.002279981760145919
+99,"crayonne ltd., sudbury-on-thames, england",5,0.002279981760145919
+100,"kooperative förbundet (kf), stockholm",5,0.002279981760145919
+101,"sinclair radionics ltd., huntingdon, england",5,0.002279981760145919
+102,paul mayen,5,0.002279981760145919
+103,"workshop of gunta stölzl, zürich",5,0.002279981760145919
+104,fritz hansen,5,0.002279981760145919
+105,"symanka karbaum/scharf hagelbergerstr, berlin",5,0.002279981760145919
+106,"gerber legendary blades, portland, or",5,0.002279981760145919
+107,"gebrüder thonet a.g., germany",5,0.002279981760145919
+108,michael cohen,5,0.002279981760145919
+109,"robinson, lewis and rubin, inc., brooklyn, ny",5,0.002279981760145919
+110,"compagnie des cristalleries de baccarat, paris, france",5,0.002279981760145919
+111,"international business machines corp., armonk, ny",5,0.002279981760145919
+112,"louis poulsen & co., copenhagen, denmark",5,0.002279981760145919
+113,"seguso s.r.l., murano, italy",5,0.002279981760145919
+114,"designum, the netherlands",5,0.002279981760145919
+115,"dorothy liebes textiles inc., new york, ny",5,0.002279981760145919
+116,"carlo moretti, s.n.c., venice",5,0.002279981760145919
+117,unknown american manufacturer,5,0.002279981760145919
+118,"brian davis & co., pty ltd., victoria, australia",4,0.001823985408116735
+119,"aluminum company of america, pittsburgh, pennsylvania",4,0.001823985408116735
+120,"denominator company, inc., new york, ny",4,0.001823985408116735
+121,"sabattini argenteria s.p.a., como, italy",4,0.001823985408116735
+122,"toray industries, inc., tokyo",4,0.001823985408116735
+123,"svenskt tenn, stockholm",4,0.001823985408116735
+124,"manufactured by n.v. keramische industrie fris, edam, the netherlands",4,0.001823985408116735
+125,"langbein, giftwares div., brooklyn, ny",4,0.001823985408116735
+126,sheila hicks,4,0.001823985408116735
+127,kristian schneider,4,0.001823985408116735
+128,"terraillon s.r.l., italy",4,0.001823985408116735
+129,"metropolitan wire goods corp, brooklyn, ny",4,0.001823985408116735
+130,"manufactured by heifetz mfg. co., new york, ny",4,0.001823985408116735
+131,"synaptics incorporated, san jose, ca",4,0.001823985408116735
+132,"porzellanfabrik, arzberg, germany",4,0.001823985408116735
+133,"peter danko and associates inc., clinton, md",4,0.001823985408116735
+134,"the afternoon company, omaha, nebraska",4,0.001823985408116735
+135,"ateliers jean prouvé, nancy, france",4,0.001823985408116735
+136,"manhattan wire goods co., inc., usa",4,0.001823985408116735
+137,"rome manufacturing co., div. of revere copper and brass, inc., rome, ny",4,0.001823985408116735
+138,"j. & j. kohn, vienna",4,0.001823985408116735
+139,"prophylactic brush co., prolon div., florence, ma",4,0.001823985408116735
+140,"yamaha corporation, hamamatsu, japan",4,0.001823985408116735
+141,"eggers, wi",4,0.001823985408116735
+142,kitaoji rosanjin,4,0.001823985408116735
+143,"manufactured by artek-pascoe, inc., new york, ny",4,0.001823985408116735
+144,"werkstätte carl auböck, vienna",4,0.001823985408116735
+145,"the watertown manufacturing co., watertown, ct",4,0.001823985408116735
+146,"lomonosov porcelain factory, leningrad (now st. petersburg)",4,0.001823985408116735
+147,"intel corporation, santa clara, ca",4,0.001823985408116735
+148,"hessische metallwerke (now mono gmbh), germany",4,0.001823985408116735
+149,"leif wessman associates, inc., new york, ny",3,0.0013679890560875513
+150,"rothschild plastics corp., philadelphia, pa",3,0.0013679890560875513
+151,"baltensweilder, ebikon, switzerland",3,0.0013679890560875513
+152,"agfa-gevaert ag, munich",3,0.0013679890560875513
+153,"bonniers international, japan",3,0.0013679890560875513
+154,"the hobart manufacturing company, troy, ohio, established 1897",3,0.0013679890560875513
+155,"chase brass & copper co., waterbury, ct",3,0.0013679890560875513
+156,"firma karl mathsson, varnamo, sweden",3,0.0013679890560875513
+157,"raichle boot co. ltd., switzerland",3,0.0013679890560875513
+158,"west bend aluminum co., wisconsin",3,0.0013679890560875513
+159,"riihimäen lasi oy, riihimäki, finland",3,0.0013679890560875513
+160,"geomet inc., new york, ny",3,0.0013679890560875513
+161,"kensington, inc., new kensington, pa",3,0.0013679890560875513
+162,"a. michelsen silversmith, denmark",3,0.0013679890560875513
+163,"wiener werkstätte, vienna",3,0.0013679890560875513
+164,"printex corporation of america, ossining, ny",3,0.0013679890560875513
+165,"marrell studios, san francisco, ca",3,0.0013679890560875513
+166,"kromex sales co., cleveland, oh",3,0.0013679890560875513
+167,"j.g. furniture co., brooklyn, ny",3,0.0013679890560875513
+168,"frz-metallwarenfabrik, zuzenhausen, germany",3,0.0013679890560875513
+169,"old hall works tableware, bloxwich, u.k.",3,0.0013679890560875513
+170,john scofield,3,0.0013679890560875513
+171,"cleto munari, venice",3,0.0013679890560875513
+172,"castleton china co., new castle, pa",3,0.0013679890560875513
+173,"nixalite of america, east moline, il",3,0.0013679890560875513
+174,"dunbar furniture manufacturing corp., berne, in",3,0.0013679890560875513
+175,"lehrwerkstatte fur glasinstrumentmacher, grossherzogliche sächische fachschule, germany",3,0.0013679890560875513
+176,"erco leuchten kg, germany",3,0.0013679890560875513
+177,"gedy s.p.a., milan",3,0.0013679890560875513
+178,"daum, france",3,0.0013679890560875513
+179,emile gallé,3,0.0013679890560875513
+180,"san castings corp., brewster, ny",3,0.0013679890560875513
+181,"anonima castelli, bologna, italy",3,0.0013679890560875513
+182,"lenox, inc., trenton, nj",3,0.0013679890560875513
+183,"northampton cutlery company, northampton, ma",3,0.0013679890560875513
+184,unknown czechoslovakian manufacturer,3,0.0013679890560875513
+185,"i.p. lunds, denmark",3,0.0013679890560875513
+186,rathcon inc.,3,0.0013679890560875513
+187,"la société f.s.d., france",3,0.0013679890560875513
+188,"aizawa, japan",3,0.0013679890560875513
+189,"at&t bell laboratories, murray hill, nj",3,0.0013679890560875513
+190,"red wing pottery, mn",3,0.0013679890560875513
+191,"eimer & amend, new york, ny",3,0.0013679890560875513
+192,"alberto bazzini, milan, italy",3,0.0013679890560875513
+193,"campana objetos, são paulo, brazil",3,0.0013679890560875513
+194,"industrie formenti italia, milan",3,0.0013679890560875513
+195,"goods, amsterdam, the netherlands",3,0.0013679890560875513
+196,"alessi fratelli s.p.a., crusinallo, italy",3,0.0013679890560875513
+197,"rudolph de harak industrial design, inc., new york, ny",3,0.0013679890560875513
+198,"owo, montfort-l'amaury, france",3,0.0013679890560875513
+199,"amac plastic products corp., sausalito, california",3,0.0013679890560875513
+200,"aram designs ltd., london",3,0.0013679890560875513
+201,"style, milan",3,0.0013679890560875513
+202,unknown japanese manufacturer,3,0.0013679890560875513
+203,"tecno s.p.a., milan",3,0.0013679890560875513
+204,"plastic productions co., redwood city, ca",3,0.0013679890560875513
+205,"olivetti underwood corporation, new york, ny",3,0.0013679890560875513
+206,"grand bleu, inc., japan",3,0.0013679890560875513
+207,"sigg, switzerland",3,0.0013679890560875513
+208,"g.a. van de groenekan, de bilt, the netherlands",3,0.0013679890560875513
+209,"gavina, italy",3,0.0013679890560875513
+210,"schwintzer & gräff, berlin",3,0.0013679890560875513
+211,"thonet frères, paris, france",3,0.0013679890560875513
+212,"g. b. plast, bologna, italy",3,0.0013679890560875513
+213,"necchi, s.p.a., pavia, italy",3,0.0013679890560875513
+214,paul chaleff,3,0.0013679890560875513
+215,"western electric, new york, ny",3,0.0013679890560875513
+216,"the knoll group, new york, ny",3,0.0013679890560875513
+217,seneca glass co.,3,0.0013679890560875513
+218,"head ski co., timonium, md",3,0.0013679890560875513
+219,"simpson sports, torrance, ca",3,0.0013679890560875513
+220,"driade s.p.a., italy",3,0.0013679890560875513
+221,"focus belysning, denmark",3,0.0013679890560875513
+222,"the yale & towne mfg. co., stamford, ct",3,0.0013679890560875513
+223,"manufactured by knoll associates, new york, ny",3,0.0013679890560875513
+224,"tiffany glass & decorating co., new york, ny",3,0.0013679890560875513
+225,"desny, paris",3,0.0013679890560875513
+226,"baker furniture, inc., grand rapids, mi",3,0.0013679890560875513
+227,bauhaus sculpture workshop,2,0.0009119927040583675
+228,"van keppel-green, usa",2,0.0009119927040583675
+229,"andrew maclaren ltd., england",2,0.0009119927040583675
+230,"riverside china, riverside, ca",2,0.0009119927040583675
+231,"the hallicrafters co., chicago, il",2,0.0009119927040583675
+232,magis spa,2,0.0009119927040583675
+233,"kbl corporation, boston, ma",2,0.0009119927040583675
+234,"oxo international, new york, ny",2,0.0009119927040583675
+235,"bear archery company, grayling, mi",2,0.0009119927040583675
+236,"widdicomb furniture co., new york, ny",2,0.0009119927040583675
+237,fratelli grivel (now grivel s.r.l.),2,0.0009119927040583675
+238,css/winfield,2,0.0009119927040583675
+239,bryce brothers co. for the four seasons,2,0.0009119927040583675
+240,guilford art company,2,0.0009119927040583675
+241,"articoli plastici elettrici, italy",2,0.0009119927040583675
+242,jane dickerman,2,0.0009119927040583675
+243,"rosenthal ag, germany",2,0.0009119927040583675
+244,"warehouse point co., warehouse point, ct",2,0.0009119927040583675
+245,"j.h. thorp & co., inc., new york, ny",2,0.0009119927040583675
+246,"aoshima shoten co., ltd., japan",2,0.0009119927040583675
+247,"ibm corporation, new york, ny",2,0.0009119927040583675
+248,"hall china co., east liverpool, oh",2,0.0009119927040583675
+249,"robert murphy's sons co., ayer, ma",2,0.0009119927040583675
+250,"lalance & grosjean mfg. co., woodhaven, ny",2,0.0009119927040583675
+251,"creative playthings, princeton, new jersey",2,0.0009119927040583675
+252,deirdre burnett,2,0.0009119927040583675
+253,"gebrüder junghans ag, schramberg, germany, est. 1861",2,0.0009119927040583675
+254,"franz schneider brakel gmbh & co., germany",2,0.0009119927040583675
+255,"tyke corporation, chicago, il",2,0.0009119927040583675
+256,"alfi, wertheim, germany",2,0.0009119927040583675
+257,arturo sandoval,2,0.0009119927040583675
+258,"württembergische metallwarenfabrik, geislingen, germany",2,0.0009119927040583675
+259,"vereinigte werkstätten für kunst im handwerk, munich",2,0.0009119927040583675
+260,"kimura glass co. ltd., tokyo",2,0.0009119927040583675
+261,"manufactured by knoll textiles, new york, ny",2,0.0009119927040583675
+262,"siemens & halske a.g., munich, germany",2,0.0009119927040583675
+263,lanier graham,2,0.0009119927040583675
+264,"gnt automatic a/s, soeborg, denmark",2,0.0009119927040583675
+265,"reinhold merkelbach, grenzhausen, germany",2,0.0009119927040583675
+266,"rubycliff ltd., england",2,0.0009119927040583675
+267,"gense, sweden",2,0.0009119927040583675
+268,"amefa alpeldoornse, apeldoorne, the netherlands",2,0.0009119927040583675
+269,"inoue pleats co., ltd., fukui, japan",2,0.0009119927040583675
+270,"gertrud natzler, otto natzler",2,0.0009119927040583675
+271,"polar ware company, sheboygan, wi",2,0.0009119927040583675
+272,"cini & nils, milan",2,0.0009119927040583675
+273,"hallen company, houston, tx",2,0.0009119927040583675
+274,"tendo co., ltd., tokyo, japan",2,0.0009119927040583675
+275,"heuer-leonidas s.a., bienne, switzerland",2,0.0009119927040583675
+276,"klise manufacturing co., grand rapids, mi",2,0.0009119927040583675
+277,"segno srl, milan",2,0.0009119927040583675
+278,swedlow aeroplastics corp.,2,0.0009119927040583675
+279,"italjet s.p.a., bologna",2,0.0009119927040583675
+280,"richard schultz design, palm, pa",2,0.0009119927040583675
+281,"scientific optics ltd., england",2,0.0009119927040583675
+282,"bob evans designs, inc., usa",2,0.0009119927040583675
+283,"texas instruments, inc., dallas, tx",2,0.0009119927040583675
+284,"manufactured by nessen studio, inc. (now nessen lamps, inc.), new york",2,0.0009119927040583675
+285,"manufactured by ralph o. smith co., los angeles, ca",2,0.0009119927040583675
+286,"poul jeppesen, denmark",2,0.0009119927040583675
+287,"figli di amedeo cassina, meda, italy",2,0.0009119927040583675
+288,"goodell co., antrim, nh",2,0.0009119927040583675
+289,"helit, ulm, germany",2,0.0009119927040583675
+290,"william hutton & sons, sheffield, england",2,0.0009119927040583675
+291,"hats incredible, inc., braintree, ma",2,0.0009119927040583675
+292,unknown mexican manufacturer,2,0.0009119927040583675
+293,"vistosi, italy",2,0.0009119927040583675
+294,"jaguar ltd., coventry, england",2,0.0009119927040583675
+295,"grid systems corp., mountain view, ca",2,0.0009119927040583675
+296,"giro sport design, inc., a division of bell sports, inc.",2,0.0009119927040583675
+297,"konrad könig, munich",2,0.0009119927040583675
+298,junichi arai,2,0.0009119927040583675
+299,"ferrari s.p.a., maranello, italy",2,0.0009119927040583675
+300,"ljungberg's textile ab, for knoll associates, new york, ny",2,0.0009119927040583675
+301,"alessi s.p.a., italy",2,0.0009119927040583675
+302,"design frame inc., new york, ny",2,0.0009119927040583675
+303,"nessen studio, inc. (now nessen lamps, inc.), new york",2,0.0009119927040583675
+304,"diehl manufacturing co., elizabeth, nj",2,0.0009119927040583675
+305,"kandya, england",2,0.0009119927040583675
+306,"radius gmbh, germany",2,0.0009119927040583675
+307,"manufactured by mutual sunset lamp mfg. co., new york, ny",2,0.0009119927040583675
+308,"haagsche plateelbakkerig rozenburg, the hague",2,0.0009119927040583675
+309,"vittorio necchi, pavia, italy",2,0.0009119927040583675
+310,"shop of samuel gragg, furniture warehouse, boston, ma",2,0.0009119927040583675
+311,"väsby möbel-& inredningsfabrik, upplands väsby near stockholm, sweden",2,0.0009119927040583675
+312,"nybro, sweden",2,0.0009119927040583675
+313,"poggi, italy",2,0.0009119927040583675
+314,tapio wirkkala,2,0.0009119927040583675
+315,leopoldo menegatti,2,0.0009119927040583675
+316,unknown italian manufacturer,2,0.0009119927040583675
+317,"steuben glass works, corning, ny",2,0.0009119927040583675
+318,"sculpture house, new york, ny",2,0.0009119927040583675
+319,"edelzinn e. hueck, lüdenscheid, austria",2,0.0009119927040583675
+320,"j.a. henckels zwillingswerk ag, solingen, west germany (now germany)",2,0.0009119927040583675
+321,"owo (now xo), brie-comte-robert, france",2,0.0009119927040583675
+322,"shinseo kogyo co., tokyo",2,0.0009119927040583675
+323,"wärtsilä-koncernen ab, notsjö glasbruk, finland",2,0.0009119927040583675
+324,"brunschwig & fils, new york, ny",2,0.0009119927040583675
+325,"emilio lagostina, s.p.a., italy",2,0.0009119927040583675
+326,"italora s.p.a., milan, italy",2,0.0009119927040583675
+327,"libbey glass company division, owens-illinois co., toledo, oh",2,0.0009119927040583675
+328,nancy guay giesberger,2,0.0009119927040583675
+329,"mardigian corp., detroit, mi",2,0.0009119927040583675
+330,"think outside, inc., carlsbad, ca",2,0.0009119927040583675
+331,"vortice elettrosociali, s.p.a., italy",2,0.0009119927040583675
+332,"rietveld's workshop, utrecht",2,0.0009119927040583675
+333,"veglia borletti, milan",2,0.0009119927040583675
+334,"tiffany furnaces, corona, ny",2,0.0009119927040583675
+335,"vitra-fehlbaum gmbh, weil-am-rhein, west germany (now germany)",2,0.0009119927040583675
+336,"askon tehtaat oy, lahti, finland",2,0.0009119927040583675
+337,"wohnbedarf ag, zürich",2,0.0009119927040583675
+338,"unknown british manufacturer, england",2,0.0009119927040583675
+339,"randall made knives, orlando, fl",2,0.0009119927040583675
+340,"the steubenville pottery company, steubenville, oh",2,0.0009119927040583675
+341,"john mascheroni furniture co., new york, ny",2,0.0009119927040583675
+342,"owens-illinois glass co., toledo, oh",2,0.0009119927040583675
+343,"bracciodiferro s.r.l., genoa, italy",2,0.0009119927040583675
+344,"swid powell, new york",2,0.0009119927040583675
+345,"j.a. henckels, solingen, germany",2,0.0009119927040583675
+346,"estler-regale g.m.b.h., berlin",2,0.0009119927040583675
+347,"sasaki, japan",2,0.0009119927040583675
+348,"poltronova, italy",2,0.0009119927040583675
+349,"zelco industries, inc.",2,0.0009119927040583675
+350,"wecolite co., new york, ny",2,0.0009119927040583675
+351,"gaf corporation, new york, ny",2,0.0009119927040583675
+352,gerard van de groenekan,2,0.0009119927040583675
+353,"bell laboratories, western electric, new york, ny",2,0.0009119927040583675
+354,"andré giraud & brousseau, limoges, france",2,0.0009119927040583675
+355,victorinox,2,0.0009119927040583675
+356,"lsi logic corporation, milpitas, ca",2,0.0009119927040583675
+357,"svenska artek, hedemora, sweden",2,0.0009119927040583675
+358,"karhula-iittala glassworks, iittala, finland",2,0.0009119927040583675
+359,"friho-sol, germany",2,0.0009119927040583675
+360,"w.r. case & sons cutlery co., bradford, pa",2,0.0009119927040583675
+361,dora jung,2,0.0009119927040583675
+362,"abstracta structures inc., new york, ny",2,0.0009119927040583675
+363,"g. schanzenbach, germany",2,0.0009119927040583675
+364,"stendig, inc., new york, ny",2,0.0009119927040583675
+365,"harry allen and associates, usa",2,0.0009119927040583675
+366,"harvill corp., los angeles, ca",2,0.0009119927040583675
+367,"jacob & josef kohn, vienna",2,0.0009119927040583675
+368,westfield manufacturing corp.,2,0.0009119927040583675
+369,"snaidero, italy",2,0.0009119927040583675
+370,"metal-lite products, inc., bay city, mi",2,0.0009119927040583675
+371,"elberel italiana, italy",2,0.0009119927040583675
+372,"h.p. designs, the netherlands",2,0.0009119927040583675
+373,"august sommer co., wurttemburg, germany",2,0.0009119927040583675
+374,"nakayamafuku company, ltd., osaka",2,0.0009119927040583675
+375,"heller, new york, ny",2,0.0009119927040583675
+376,"h. morris & co, glasgow, u.k. (later morris of glasgow)",2,0.0009119927040583675
+377,"iittala, new york, ny",2,0.0009119927040583675
+378,"mort n. marton designs, ny",2,0.0009119927040583675
+379,"mindset corporation, sunnyvale, ca",2,0.0009119927040583675
+380,anton rüegg,2,0.0009119927040583675
+381,"laverne originals, new york, ny",2,0.0009119927040583675
+382,"the subsidiary co.(division of artmongers and manufactory inc.), new york, ny",2,0.0009119927040583675
+383,"haussmann & haussmann, zurich",2,0.0009119927040583675
+384,"lorraine metal mfg. co., ny",2,0.0009119927040583675
+385,"deutsche werkstaetten gmbh, hellerau, germany",2,0.0009119927040583675
+386,"cravell, inc., long island, ny",2,0.0009119927040583675
+387,"koch creations, lynbrook, ny",2,0.0009119927040583675
+388,"h.h. de boer and son, bergum, the netherlands",2,0.0009119927040583675
+389,"hospitalsartikler a/s, solberg, denmark",2,0.0009119927040583675
+390,"amcor, ltd., tel aviv",2,0.0009119927040583675
+391,"metz & co., amsterdam",2,0.0009119927040583675
+392,"dynamic classics, ltd., usa",2,0.0009119927040583675
+393,"yamakawa rattan co., ltd., japan",2,0.0009119927040583675
+394,"msa, pittsburgh, pa",2,0.0009119927040583675
+395,"vacheron & constantin-le coultre watches, inc., switzerland",2,0.0009119927040583675
+396,unknown french manufacturer,2,0.0009119927040583675
+397,"mepalservice b.v. lochem (gld), the netherlands",2,0.0009119927040583675
+398,"ab gustavsberg, sweden",2,0.0009119927040583675
+399,"frantz hingelberg, aarhus, denmark",2,0.0009119927040583675
+400,"gottlieb hammes fahr, solingen-foche, germany",2,0.0009119927040583675
+401,"tigrett enterprises, chicago, il",2,0.0009119927040583675
+402,"elektroakusticni laboratorij, ljubljana, yugoslavia for iskra, kranj, yugoslavia",2,0.0009119927040583675
+403,"sterling china corp., wellsville, oh",2,0.0009119927040583675
+404,"kaplan/aronson, new york, ny",2,0.0009119927040583675
+405,"fabbriche elettrotecniche riunite, s.p.a. (now zerowatt, s.p.a.), italy",2,0.0009119927040583675
+406,"vitreria vistosi, murano, italy",2,0.0009119927040583675
+407,"superior toy and mfg., co., chicago, il",2,0.0009119927040583675
+408,"l'atelier de serge mouille, france",2,0.0009119927040583675
+409,"peter hamburger designs, new york, ny",2,0.0009119927040583675
+410,unknown netherlandish manufacturer,2,0.0009119927040583675
+411,"c & b italia, como, italy",2,0.0009119927040583675
+412,"danese, milan",2,0.0009119927040583675
+413,"manufactured by herman miller, inc., zeeland, mi",2,0.0009119927040583675
+414,"casa ribas seva, barcelona",1,0.00045599635202918376
+415,"fratelli borletti, s.p.a., milan",1,0.00045599635202918376
+416,"fopais franchini, milan",1,0.00045599635202918376
+417,"grossherzogliche sächische fachschule, germany",1,0.00045599635202918376
+418,"quezal art glass and decorating co., brooklyn, ny",1,0.00045599635202918376
+419,vitra international ag,1,0.00045599635202918376
+420,"m & m mfg. co., chicago, il",1,0.00045599635202918376
+421,"bieffeplast s.p.a., padua, italy",1,0.00045599635202918376
+422,"lohmann gmbh and co., neuwield, germany",1,0.00045599635202918376
+423,"uncle sam's umbrella shop, new york, ny",1,0.00045599635202918376
+424,"bamberg metallwerkstätten, berlin",1,0.00045599635202918376
+425,"vlsi technology, inc., san jose, ca",1,0.00045599635202918376
+426,"swatch ag, switzerland",1,0.00045599635202918376
+427,"lego group, billund, denmark",1,0.00045599635202918376
+428,"bauhaus ceramic workshops, weimar, germany",1,0.00045599635202918376
+429,"ekco housewares, franklin park, il",1,0.00045599635202918376
+430,"edison price, new york, ny",1,0.00045599635202918376
+431,"rosenthal, germany",1,0.00045599635202918376
+432,"club aluminum products co., chicago, il",1,0.00045599635202918376
+433,"markle featherlite products corp., rochester (later in oak park), mi",1,0.00045599635202918376
+434,"lecson audio limited, cambridge, england",1,0.00045599635202918376
+435,"flexform, italy",1,0.00045599635202918376
+436,"form gmbh, germany",1,0.00045599635202918376
+437,"rosenthal einrichtung, munich",1,0.00045599635202918376
+438,"viking glass co., new martinsville, wv",1,0.00045599635202918376
+439,"international mobile machines, usa",1,0.00045599635202918376
+440,"neuzeughammer ambosswerk, austria",1,0.00045599635202918376
+441,"küschall of america, camarillo, ca",1,0.00045599635202918376
+442,"paper welder, inc., medina, ny",1,0.00045599635202918376
+443,"peter danko design & woodwork, alexandria, va",1,0.00045599635202918376
+444,"the lancaster lens co., lancaster, oh",1,0.00045599635202918376
+445,"thonet, germany",1,0.00045599635202918376
+446,"tecta möbel, lauenförde, germany",1,0.00045599635202918376
+447,"angelo testa co., chicago",1,0.00045599635202918376
+448,"neal small designs inc., new york, ny",1,0.00045599635202918376
+449,"s. yoshimura co., ltd., fukui city, japan",1,0.00045599635202918376
+450,"osram gmbh, munich",1,0.00045599635202918376
+451,"mastermotive, inc., savage, mn",1,0.00045599635202918376
+452,"dictaphone ag, killwangen, switzerland",1,0.00045599635202918376
+453,"nuno corporation, tokyo, japan, with tsuguo co., ltd., yamanashi, japan",1,0.00045599635202918376
+454,kenner products co.,1,0.00045599635202918376
+455,lia cook,1,0.00045599635202918376
+456,"fratelli brambilla, milan",1,0.00045599635202918376
+457,"minolta camera co., ltd., osaka",1,0.00045599635202918376
+458,"a.l. hirsch & co., new york, ny",1,0.00045599635202918376
+459,"whitefriars glassworks, england",1,0.00045599635202918376
+460,"sandvikens jernverks a.b., sweden",1,0.00045599635202918376
+461,"jenaer glaswerk, schott & genossen, jena, germany",1,0.00045599635202918376
+462,"glasfabrik johann loetz witwe, klöstermühle, austria",1,0.00045599635202918376
+463,"eschenbach optik nürnberg, germany",1,0.00045599635202918376
+464,"manufactured by allan adler handwrought silver, hollywood, ca",1,0.00045599635202918376
+465,"guild of handicraft ltd., london",1,0.00045599635202918376
+466,"ehrhard & söhne, germany",1,0.00045599635202918376
+467,"kanematsu ind. co. ltd., gifu ken, japan, lakota corporation",1,0.00045599635202918376
+468,"interex inc., new york, ny",1,0.00045599635202918376
+469,"l. anton maix fabrics, new york, ny",1,0.00045599635202918376
+470,"hukin & heath, birmingham, england",1,0.00045599635202918376
+471,"fabry associates, inc., new york, ny",1,0.00045599635202918376
+472,"kodak a/g, stuttgart",1,0.00045599635202918376
+473,"baldioli eustasio & figli, omegna, italy",1,0.00045599635202918376
+474,"j.p. kayser-sohn krefeld-brockman, germany",1,0.00045599635202918376
+475,"richard perry, son & company, wolverhampton, england",1,0.00045599635202918376
+476,"minerva, milan, italy",1,0.00045599635202918376
+477,"g.p.m. company, germany",1,0.00045599635202918376
+478,kari virtanen,1,0.00045599635202918376
+479,"lamson & goodnow, shellberg falls, ma",1,0.00045599635202918376
+480,nec corporation,1,0.00045599635202918376
+481,"the hartford products corp., chicago, il",1,0.00045599635202918376
+482,"innovations in composites, inc., ca",1,0.00045599635202918376
+483,france fluocaril,1,0.00045599635202918376
+484,3m,1,0.00045599635202918376
+485,"bauhaus, dessau",1,0.00045599635202918376
+486,waltham screw co.,1,0.00045599635202918376
+487,"the l.s. starrett co., athol, ma",1,0.00045599635202918376
+488,"kenco products corp., new kensington, pa",1,0.00045599635202918376
+489,"alias s.r.l., italy",1,0.00045599635202918376
+490,"n.v. schlegel s.a., gistel, belgium",1,0.00045599635202918376
+491,"custom made by ernest c. higgins co. (allan follet), norwood, ma",1,0.00045599635202918376
+492,"howard miller clock co., zeeland, mi",1,0.00045599635202918376
+493,f. schumacher & co,1,0.00045599635202918376
+494,dr. adnan tarcici,1,0.00045599635202918376
+495,"platinum pen company, ltd., tokyo",1,0.00045599635202918376
+496,"longato arredamenti s.p.a., padua, italy",1,0.00045599635202918376
+497,"sanka oy loviisa, finland",1,0.00045599635202918376
+498,"owo, montfort-l'amaury, france, officina alessi, italy",1,0.00045599635202918376
+499,"satisfaction, new york, ny",1,0.00045599635202918376
+500,"flosusa, huntington station, ny",1,0.00045599635202918376
+501,"wenger, switzerland",1,0.00045599635202918376
+502,"ideal standard s.p.a., milan",1,0.00045599635202918376
+503,"ditta spoggi, milan",1,0.00045599635202918376
+504,"sakase adtech co., fukui, japan",1,0.00045599635202918376
+505,"joaquin pottery co., stockton, ca",1,0.00045599635202918376
+506,"akzo nobel geosynthetics company, asheville, nc",1,0.00045599635202918376
+507,fratelli chiminello,1,0.00045599635202918376
+508,"bell-toptex, inc., bell, ca",1,0.00045599635202918376
+509,"g. byrn company, copenhagen",1,0.00045599635202918376
+510,tejo remy,1,0.00045599635202918376
+511,"casio computer co., ltd., tokyo",1,0.00045599635202918376
+512,"h.e. lauffer co., inc., west germany (now germany)",1,0.00045599635202918376
+513,"federal tool co., inc., springfield, ma",1,0.00045599635202918376
+514,"authentics artipresent gmbh, germany",1,0.00045599635202918376
+515,"emor radio company, ltd., england",1,0.00045599635202918376
+516,moik schiele,1,0.00045599635202918376
+517,easy edges inc.,1,0.00045599635202918376
+518,"o'neill, inc.",1,0.00045599635202918376
+519,"strategi/holmback aps, copenhagen",1,0.00045599635202918376
+520,"bruno ninaber van eyben design & production, boxtel, holland",1,0.00045599635202918376
+521,"thomson consumer electronics, france for saba, france, alessi, crusinallo, italy",1,0.00045599635202918376
+522,"new city editions, venice, ca",1,0.00045599635202918376
+523,"stockmann-orno, finland",1,0.00045599635202918376
+524,"artifort, the netherlands",1,0.00045599635202918376
+525,peter voulkos,1,0.00045599635202918376
+526,"martin archery, usa",1,0.00045599635202918376
+527,"ciciban shoe & children's ware factory, yugoslavia",1,0.00045599635202918376
+528,"international resistance co., philadelphia, pa",1,0.00045599635202918376
+529,"swedese mobler ab, sweden",1,0.00045599635202918376
+530,"design house stockholm ab, stockholm",1,0.00045599635202918376
+531,flos usa,1,0.00045599635202918376
+532,"thomson consumer electronics, france for saba, france",1,0.00045599635202918376
+533,"zenith radio corporation, chicago, il",1,0.00045599635202918376
+534,ldesign sarl,1,0.00045599635202918376
+535,"tendo mokko, inc., yamagata-ken, japan",1,0.00045599635202918376
+536,"simon international, san lazzaro, italy",1,0.00045599635202918376
+537,"biomechanical composites, ca",1,0.00045599635202918376
+538,"karhula-iittala, iittala, finland",1,0.00045599635202918376
+539,"mallory industries, inc., farmington, ct",1,0.00045599635202918376
+540,"mitsuboshi company, seki-city, gifu, japan",1,0.00045599635202918376
+541,"ici design institute inc., osaka",1,0.00045599635202918376
+542,"s. yoshimura co., ltd., fukui city, japan, senken co. ltd., fukui, japan",1,0.00045599635202918376
+543,"ath design international, the netherlands",1,0.00045599635202918376
+544,"dansk forsolvnings anstalt, copenhagen",1,0.00045599635202918376
+545,"s.k.f. industries, inc., hartford, ct",1,0.00045599635202918376
+546,"the custanite corp., brooklyn, ny",1,0.00045599635202918376
+547,"chas. d. briddell, inc., crisfield, md",1,0.00045599635202918376
+548,"antiference ltd., aylesbury, england",1,0.00045599635202918376
+549,"george kovacs, lighting inc., new york, ny",1,0.00045599635202918376
+550,"bayerische massindustrie, hersbruck, west germany (now germany)",1,0.00045599635202918376
+551,"studio luce, italy",1,0.00045599635202918376
+552,"slazengers ltd., england",1,0.00045599635202918376
+553,"hudson studios, madison, nj",1,0.00045599635202918376
+554,"manufactured by sitterle ceramics, croton falls, ny",1,0.00045599635202918376
+555,robert j. king,1,0.00045599635202918376
+556,"manufactured by dansk international designs, ltd., denmark",1,0.00045599635202918376
+557,"ishimaru co., japan",1,0.00045599635202918376
+558,"fibre metal products company, concordville, pa",1,0.00045599635202918376
+559,"artek oy, helsinki",1,0.00045599635202918376
+560,"meisterschule für das kunsthandwerk, berlin",1,0.00045599635202918376
+561,"mary walker phillips, new york, ny",1,0.00045599635202918376
+562,"alcorn & co., boston, massachusetts",1,0.00045599635202918376
+563,jack lenor larsen,1,0.00045599635202918376
+564,"cutco division, the aluminum cooking utensil co., new kensington, pa",1,0.00045599635202918376
+565,"arflex, s.p.a., italy",1,0.00045599635202918376
+566,"urase co., ltd., fukui, japan, yamazaki vellodo co., ltd., nuno corporation, tokyo, japan",1,0.00045599635202918376
+567,"neils vodder, cabinetmaker, copenhagen",1,0.00045599635202918376
+568,dainese s.p.a.,1,0.00045599635202918376
+569,"societa franzi, italy",1,0.00045599635202918376
+570,"niels vodder, allerod, denmark (cabinetmaker)",1,0.00045599635202918376
+571,"gits molding corp., chicago, il",1,0.00045599635202918376
+572,"richard w. landis, globe, az",1,0.00045599635202918376
+573,"george h. hake corp., diamond plastic box, inc., roanoke, va",1,0.00045599635202918376
+574,"the gillette company, boston, ma",1,0.00045599635202918376
+575,"lucie rie pottery, london",1,0.00045599635202918376
+576,"inax corporation, tokoname, japan",1,0.00045599635202918376
+577,"o.c. sedie internazionale, inc., paramount, ca",1,0.00045599635202918376
+578,"raymar industries, inc., new york, ny",1,0.00045599635202918376
+579,"lightolier inc., jersey city, nj",1,0.00045599635202918376
+580,"glass com production, kimura glass co. ltd.,tokyo",1,0.00045599635202918376
+581,"tobe pascher workshop, the jewish museum, new york, ny",1,0.00045599635202918376
+582,"gro knives, inc., usa",1,0.00045599635202918376
+583,"hackman & co., helsinki",1,0.00045599635202918376
+584,"hammond research corp., gloucester, ma",1,0.00045599635202918376
+585,"toscano manetti, florence",1,0.00045599635202918376
+586,"tensor corporation, brookyln, ny",1,0.00045599635202918376
+587,"ermenegildo collini s.p.a., milan, italy",1,0.00045599635202918376
+588,"holt howard associates, stamford, ct",1,0.00045599635202918376
+589,"hewlett-packard company, santa clara, ca",1,0.00045599635202918376
+590,"b & b italia, s.p.a., como, italy",1,0.00045599635202918376
+591,"o. j. kuker, seattle, wa",1,0.00045599635202918376
+592,"r.e.m. di rossetti enrico, italy",1,0.00045599635202918376
+593,"theodore müller, belgium/germany",1,0.00045599635202918376
+594,"welch allyn inc., skaneateles falls, ny",1,0.00045599635202918376
+595,"mutual sunset lamp mfg. co., new york, ny",1,0.00045599635202918376
+596,leni matthaei (craftsman),1,0.00045599635202918376
+597,"asko, lahti, finland",1,0.00045599635202918376
+598,"bauhaus metal workshop, weimar, germany",1,0.00045599635202918376
+599,"manufactured by the ironrite ironer co., detroit, mi",1,0.00045599635202918376
+600,"nemo s.r.l., rovallesca, italy",1,0.00045599635202918376
+601,"continental can co., usa",1,0.00045599635202918376
+602,"avard inc., new york, ny",1,0.00045599635202918376
+603,"giovannetti, italy",1,0.00045599635202918376
+604,"skools, inc., usa",1,0.00045599635202918376
+605,mobles 114,1,0.00045599635202918376
+606,"swift & anderson, inc., boston, ma",1,0.00045599635202918376
+607,"pirelli s.p.a., milan",1,0.00045599635202918376
+608,"manufactured by p. e. camerer, st. paul, mn",1,0.00045599635202918376
+609,"s. a. weller pottery, zanesville, ohio",1,0.00045599635202918376
+610,"carl hansen and son, odense, denmark",1,0.00045599635202918376
+611,"fontana arte, italy",1,0.00045599635202918376
+612,"ficks reed co., cincinnati, oh",1,0.00045599635202918376
+613,"united states glass co., tiffin, oh",1,0.00045599635202918376
+614,"western electric, new york, ny, bell laboratories",1,0.00045599635202918376
+615,"vollrath co., sheboygan, wi",1,0.00045599635202918376
+616,"atelier vitreon, north haven, ct",1,0.00045599635202918376
+617,"j. merivaara oy, helsinki",1,0.00045599635202918376
+618,"alessi, crusinallo, italy",1,0.00045599635202918376
+619,"gufram s.r.l., italy",1,0.00045599635202918376
+620,"karlsson & nilsson, sweden",1,0.00045599635202918376
+621,"n.s. gustin co., new york",1,0.00045599635202918376
+622,"manufactured by evans products co., molded plywood div., venice, ca",1,0.00045599635202918376
+623,"körtig & matthiesen, leipzig, germany",1,0.00045599635202918376
+624,"krystallglasmanufaktur theresienthal gmbh, zweisel, germany",1,0.00045599635202918376
+625,"künstlerwerkstätten verein, vienna, karl krehan",1,0.00045599635202918376
+626,"metal office furniture co. (presently steelcase, inc.), new york, ny",1,0.00045599635202918376
+627,"gilardi & barzaghi, italy",1,0.00045599635202918376
+628,unknown russian manufacturer,1,0.00045599635202918376
+629,"johannes hansen, denmark",1,0.00045599635202918376
+630,davis j. pratt,1,0.00045599635202918376
+631,"umentani craft, kyoto, nuno corporation, tokyo, japan",1,0.00045599635202918376
+632,"best & lloyd, ltd., birmingham, uk",1,0.00045599635202918376
+633,baralan international s.p.a. containers for the cosmetic industry,1,0.00045599635202918376
+634,"wings over the world corporation, new york, ny",1,0.00045599635202918376
+635,"allgemeine elektricitäts gesellschaft (a.e.g.), germany",1,0.00045599635202918376
+636,laguiole,1,0.00045599635202918376
+637,"robert smith, kentfield, ca",1,0.00045599635202918376
+638,m. singer & sons,1,0.00045599635202918376
+639,"beamo corporation, cambridge, ma",1,0.00045599635202918376
+640,angelo patin,1,0.00045599635202918376
+641,"france and son a/s, denmark",1,0.00045599635202918376
+642,"jernbolaget, eskilstuna, sweden",1,0.00045599635202918376
+643,"two's company, mount vernon, ny",1,0.00045599635202918376
+644,"hall's wheels, cambridge, ma",1,0.00045599635202918376
+645,"valsts electro-techniska fabrika, riga, latvia",1,0.00045599635202918376
+646,"elco bellato, venice",1,0.00045599635202918376
+647,"national semiconductor corporation, usa",1,0.00045599635202918376
+648,"kimura senko co., ltd., shinga, japan",1,0.00045599635202918376
+649,"fuso gum industry co., ltd., japan",1,0.00045599635202918376
+650,"keramik manufaktur kupfermuehle, germany",1,0.00045599635202918376
+651,"toronto plastic co., toronto",1,0.00045599635202918376
+652,"robeson cutlery co., inc., perry, ny",1,0.00045599635202918376
+653,"rossi & arcandi, vicenza, italy",1,0.00045599635202918376
+654,"kundalini srl. - corpi di illuminazione, milan",1,0.00045599635202918376
+655,"sambonet s.p.a., vercelli, italy",1,0.00045599635202918376
+656,juris mednis,1,0.00045599635202918376
+657,"manufactured by herman miller furniture co., zeeland, mi",1,0.00045599635202918376
+658,helena hernmarck,1,0.00045599635202918376
+659,microsoft corporation,1,0.00045599635202918376
+660,"etac, sweden",1,0.00045599635202918376
+661,"manufactured by iroquois china co., syracuse, ny",1,0.00045599635202918376
+662,"john hull cutlers corporation, new york, ny",1,0.00045599635202918376
+663,"fratelli fantini, s.p.a., pella, italy",1,0.00045599635202918376
+664,"c. hugo pott, solingen, germany",1,0.00045599635202918376
+665,"hudson photographic industries, inc., new york",1,0.00045599635202918376
+666,"eileen gray workshop, paris, france",1,0.00045599635202918376
+667,"dansk aluminum industri n/s, copenhagen, denmark",1,0.00045599635202918376
+668,"mylec, inc., winchedon springs, ma",1,0.00045599635202918376
+669,"thomas der rosenthal a.g., selb, west germany (now germany)",1,0.00045599635202918376
+670,u.s. armor corporation,1,0.00045599635202918376
+671,"seiko epson corporation, japan",1,0.00045599635202918376
+672,bent nobert mdd industrial design aps,1,0.00045599635202918376
+673,"gerhardi & co., ludenscheid, germany",1,0.00045599635202918376
+674,"a. bianchi srl/bilumen, milan",1,0.00045599635202918376
+675,"oy airam ab, helsinki",1,0.00045599635202918376
+676,"bell helmets, inc., norwalk, ca",1,0.00045599635202918376
+677,"world pictures, copenhagen",1,0.00045599635202918376
+678,"motorola, inc.",1,0.00045599635202918376
+679,lemurian crafts,1,0.00045599635202918376
+680,"stilnovo, italy",1,0.00045599635202918376
+681,"manufactured by middletown mfg. co., middletown, ny",1,0.00045599635202918376
+682,"escofet y ca, barcelona",1,0.00045599635202918376
+683,"desta (deutsche stahlmöbel), berlin",1,0.00045599635202918376
+684,"kingsley electronics, taiwan",1,0.00045599635202918376
+685,"paulson manufacturing corp., fallbrook, ca",1,0.00045599635202918376
+686,henri tronquoy,1,0.00045599635202918376
+687,"unifor s.p.a., turate, italy",1,0.00045599635202918376
+688,"st. regis paper co., panelyte div., new york, ny",1,0.00045599635202918376
+689,"sig workshop co. ltd., ishikawa, japan",1,0.00045599635202918376
+690,"neselco, copenhagen",1,0.00045599635202918376
+691,"henry disston & sons, inc.",1,0.00045599635202918376
+692,"bp solar (british petroleum solar), aylesbury, england",1,0.00045599635202918376
+693,"mitasho co., ltd., gunma, japan",1,0.00045599635202918376
+694,"syn s.r.l., italy",1,0.00045599635202918376
+695,"kebe møbler aps, copenhagen",1,0.00045599635202918376
+696,"phonola, milan",1,0.00045599635202918376
+697,"josiah wedgwood & sons ltd., stoke-on-trent, england",1,0.00045599635202918376
+698,"boda nova, sweden",1,0.00045599635202918376
+699,"joseph franken decorative accessories, new york, ny",1,0.00045599635202918376
+700,"piquot-meridian (international) sa, switzerland",1,0.00045599635202918376
+701,"the gorham co., providence, ri",1,0.00045599635202918376
+702,"sointu incorporated, new york, ny",1,0.00045599635202918376
+703,"blyde & co. ltd., england",1,0.00045599635202918376

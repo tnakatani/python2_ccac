@@ -1,0 +1,817 @@
+,credit,count,frequency
+0,the louis e. stern collection,2177,0.17674758463911666
+1,gift of the designer,843,0.06844199074449947
+2,"jan tschichold collection, gift of philip johnson",810,0.06576276690752618
+3,gift of the manufacturer,784,0.06365186327839571
+4,purchase,515,0.04181212957700739
+5,gift of the artist,365,0.029633839408946983
+6,gift of the judith rothschild foundation,298,0.024194203133880002
+7,abby aldrich rockefeller fund,216,0.01753673784200698
+8,given anonymously,191,0.015507022813996916
+9,gift of the architect,180,0.014613948201672486
+10,gift of allen skolnick,135,0.010960461151254364
+11,phyllis b. lambert fund,135,0.010960461151254364
+12,gift of the howard gilman foundation,128,0.010392140943411544
+13,john b. turner fund,118,0.009580254932207518
+14,monroe wheeler fund,113,0.009174311926605505
+15,purchase fund,104,0.008443614516521881
+16,gift of mrs. bertha m. slattery,99,0.008037671510919867
+17,gift of the architect in honor of philip johnson,90,0.007306974100836243
+18,"gift of the lauder foundation, leonard and evelyn lauder fund",88,0.007144596898595437
+19,gift of abby aldrich rockefeller,88,0.007144596898595437
+20,"mies van der rohe archive, gift of the architect",82,0.006657465291873021
+21,gift of philip johnson,72,0.005845579280668994
+22,gift of lincoln kirstein,71,0.005764390679548591
+23,gift of the designers,64,0.005196070471705772
+24,acquired by exchange,63,0.00511488187058537
+25,gift of mrs. john carter,56,0.004546561662742551
+26,gift of curt valentin,55,0.004465373061622148
+27,gift of shell - mex b p,55,0.004465373061622148
+28,purchase and partial gift of the architect in honor of lily auchincloss,53,0.0043029958593813426
+29,estée and joseph lauder design fund,53,0.0043029958593813426
+30,gift of josef albers,52,0.004221807258260941
+31,philip johnson fund,50,0.004059430056020135
+32,gift of the judith rothschild foundation (boris kerdimun archive),50,0.004059430056020135
+33,anonymous gift,49,0.003978241454899732
+34,gift of eric estorick in memory of judge henry epstein,48,0.0038970528537793296
+35,peter stone collection of posters by artists,48,0.0038970528537793296
+36,"purchase fund, jan tschichold collection",46,0.003734675651538524
+37,transferred from the museum library,45,0.0036534870504181215
+38,gift of g. david thompson,45,0.0036534870504181215
+39,"david whitney collection, gift of david whitney",44,0.0035722984492977186
+40,blanchette hooker rockefeller fund,44,0.0035722984492977186
+41,gift of the london passenger transport board,43,0.0034911098481773158
+42,gift of ludwig charell,41,0.0033287326459365105
+43,"riva castleman endowment fund, lily auchincloss fund, and gift of parkett",39,0.003166355443695705
+44,given anonymously in memory of sidney feldman,38,0.0030851668425753024
+45,gift of joseph h. heil,37,0.0030039782414549
+46,"gift of edgar kaufmann, jr.",37,0.0030039782414549
+47,marshall cogan purchase fund,36,0.002922789640334497
+48,henry church fund,36,0.002922789640334497
+49,johanna and leslie j. garfield fund,35,0.0028416010392140942
+50,gift of the museum of modern art department of publications,35,0.0028416010392140942
+51,gift of mr. and mrs. peter a. rübel,35,0.0028416010392140942
+52,inter-american fund,34,0.002760412438093692
+53,gift of g. e. kidder smith,33,0.002679223836973289
+54,gift of jack lenor larsen,32,0.002598035235852886
+55,gift of peter deitsch gallery,32,0.002598035235852886
+56,"gift of r. kirk askew, jr.",31,0.0025168466347324837
+57,gift of celeste and armand bartos (in perpetuity),31,0.0025168466347324837
+58,gift of ivan chermayeff,30,0.002435658033612081
+59,"gift of the kunstgewerbe museum, zürich",30,0.002435658033612081
+60,joseph h. heil bequest,29,0.002354469432491678
+61,curt valentin bequest,28,0.0022732808313712756
+62,gift of the designers through the netherlands design institute,28,0.0022732808313712756
+63,"gift of bonniers, inc.",27,0.0021920922302508727
+64,"gift of the general post office, england",27,0.0021920922302508727
+65,greta daniel design fund,27,0.0021920922302508727
+66,gift of bernard davis,27,0.0021920922302508727
+67,donald h. karshan fund,26,0.0021109036291304703
+68,"gift of page, arbitrio and resen",26,0.0021109036291304703
+69,mrs. stanley resor fund (by exchange),25,0.0020297150280100674
+70,gift of the celeste and armand bartos foundation,25,0.0020297150280100674
+71,gift of leonard a. lauder,23,0.001867337825769262
+72,gift of the architect in honor of lily auchincloss,23,0.001867337825769262
+73,mary ellen meehan fund,22,0.0017861492246488593
+74,gift of lewis & conger,22,0.0017861492246488593
+75,"edgar kaufmann, jr. fund",21,0.0017049606235284567
+76,gift of eimer & amend,21,0.0017049606235284567
+77,gift of mr. and mrs. leo farland,19,0.0015425834212876512
+78,gift of peter müller-munk,19,0.0015425834212876512
+79,gift of leslie j. schreyer,18,0.0014613948201672485
+80,gift of lucien goldschmidt,18,0.0014613948201672485
+81,gift of mrs. jacquelynn shlaes,18,0.0014613948201672485
+82,"gift of the royal society for the prevention of accidents, england",18,0.0014613948201672485
+83,"gift of kleiner, bell & co.",18,0.0014613948201672485
+84,gift of manfred ludewig,18,0.0014613948201672485
+85,gift of emily fisher landau,18,0.0014613948201672485
+86,gift of walter bareiss,17,0.001380206219046846
+87,the associates fund,16,0.001299017617926443
+88,acquired with matching funds from james r. epstein and the national endowment for the arts,16,0.001299017617926443
+89,gift of jo carole and ronald s. lauder,16,0.001299017617926443
+90,john r. jakobson foundation fund,16,0.001299017617926443
+91,abby aldrich rockefeller fund (by exchange),16,0.001299017617926443
+92,the associates fund in honor of riva castleman,15,0.0012178290168060404
+93,gift of dorothy liebes,15,0.0012178290168060404
+94,gift of the judith rothschild foundation (anonymous donation),15,0.0012178290168060404
+95,the celeste and armand bartos foundation fund,15,0.0012178290168060404
+96,gift of madame hector guimard,15,0.0012178290168060404
+97,gift of miss jessie rosenfeld,15,0.0012178290168060404
+98,gift of james thrall soby (by exchange),15,0.0012178290168060404
+99,the joseph g. mayer foundation fund,15,0.0012178290168060404
+100,gift of milton scheingarten,15,0.0012178290168060404
+101,gift of the swiss government,14,0.0011366404156856378
+102,gift of the designer and emilio ambasz fund,14,0.0011366404156856378
+103,gift of george m. jaffin,14,0.0011366404156856378
+104,"gift of patricia phelps de cisneros, takeo ohbayashi purchase fund, and susan de menil purchase fund",14,0.0011366404156856378
+105,william k. simpson fund and purchase,14,0.0011366404156856378
+106,gift of ricardo bofill taller de arquitectura,13,0.0010554518145652351
+107,"gift of skidmore, owings and merrill",13,0.0010554518145652351
+108,"gift of blanchette hooker rockefeller, mrs. gifford phillips, celeste and armand p. bartos, mrs. s. i. newhouse, jr., and purchase",13,0.0010554518145652351
+109,a. conger goodyear fund,13,0.0010554518145652351
+110,gift of the japan society,13,0.0010554518145652351
+111,"edgar kaufmann, jr. purchase fund",13,0.0010554518145652351
+112,gift of mr. and mrs. burton tremaine,13,0.0010554518145652351
+113,celeste and armand bartos foundation,12,0.0009742632134448324
+114,"gift of cordier & ekstrom, inc.",12,0.0009742632134448324
+115,gift of mrs. constantine sidamon-eristoff,12,0.0009742632134448324
+116,gift of william p. mangold,12,0.0009742632134448324
+117,"gift of mr. and mrs. alfred h. barr, jr.",12,0.0009742632134448324
+118,gift of mr. and mrs. stanley resor,12,0.0009742632134448324
+119,friends of the department fund,12,0.0009742632134448324
+120,peter stone poster fund,12,0.0009742632134448324
+121,gift of richard miller,11,0.0008930746123244297
+122,gift of mr. and mrs. e. powis jones,11,0.0008930746123244297
+123,the philip and lynn straus foundation fund,11,0.0008930746123244297
+124,"gift of a. j. van dugteren & sons, inc.",11,0.0008930746123244297
+125,"mr. and mrs. ralph f. colin, leon a. mnuchin, and joanne m. stern fund",11,0.0008930746123244297
+126,gift of james thrall soby,11,0.0008930746123244297
+127,gift of echo engelmann,11,0.0008930746123244297
+128,carol o. selle fund,11,0.0008930746123244297
+129,gift of robert wolf,11,0.0008930746123244297
+130,donald karshan fund,10,0.0008118860112040269
+131,"gift of venturi, rauch and scott brown, inc.",10,0.0008118860112040269
+132,gift of the joseph h. hazen foundation in honor of william s. lieberman,10,0.0008118860112040269
+133,leonard and evelyn lauder fund,10,0.0008118860112040269
+134,gift of morisawa & co. ltd.,10,0.0008118860112040269
+135,"gift of mr. and mrs. edward larrabee barnes, roblee mccarthy, jr., jeffrey p. klein purchase fund, and purchase",10,0.0008118860112040269
+136,"gift of lily auchincloss, barbara jakobson, and walter randel",10,0.0008118860112040269
+137,gift of frank perls (by exchange),10,0.0008118860112040269
+138,arthur drexler fund,10,0.0008118860112040269
+139,gift of mrs. henry i. cobb and joanne m. stern fund,10,0.0008118860112040269
+140,gift of edmund b. thorton,10,0.0008118860112040269
+141,gift of greta daniel,10,0.0008118860112040269
+142,best products company inc. architecture fund,10,0.0008118860112040269
+143,gift of john c. waddell,9,0.0007306974100836243
+144,gift of mrs. ruth vollmer,9,0.0007306974100836243
+145,gift of the limited editions club,9,0.0007306974100836243
+146,"gift of alfred h. barr, jr.",9,0.0007306974100836243
+147,exchange,9,0.0007306974100836243
+148,gift of the chase manhattan bank,9,0.0007306974100836243
+149,gift of banca del gottardo,9,0.0007306974100836243
+150,poster fund,9,0.0007306974100836243
+151,gift of parkett,9,0.0007306974100836243
+152,"gift of time, inc.",9,0.0007306974100836243
+153,"gift of john d. rockefeller, 3rd",9,0.0007306974100836243
+154,given anonymously in memory of mrs. alice lillia newhall,9,0.0007306974100836243
+155,barbara jakobson purchase fund,9,0.0007306974100836243
+156,mary ellen meehan fund and purchase,8,0.0006495088089632215
+157,gift of the new york times,8,0.0006495088089632215
+158,emilio ambasz fund,8,0.0006495088089632215
+159,latin american fund,8,0.0006495088089632215
+160,gift of mr. and mrs. armand p. bartos,8,0.0006495088089632215
+161,gift of fraser's,8,0.0006495088089632215
+162,joanne m. stern fund,8,0.0006495088089632215
+163,gift of mrs. lawrence mead,8,0.0006495088089632215
+164,greta daniel fund,8,0.0006495088089632215
+165,zaidee dufallo fund,8,0.0006495088089632215
+166,gift of susan hornik,8,0.0006495088089632215
+167,"the riva castleman endowment fund, abby aldrich rockefeller fund (by exchange), mary ellen meehan fund, riva castleman fund, purchase, and purchase (by exchange)",8,0.0006495088089632215
+168,gift of the ian woodner family collection,8,0.0006495088089632215
+169,"gift of the college of fine arts, ucla",8,0.0006495088089632215
+170,gift of tyler graphics in memory of joan mitchell,8,0.0006495088089632215
+171,"gift of georg jensen, inc.",8,0.0006495088089632215
+172,mrs. john d. rockefeller 3rd purchase fund,7,0.0005683202078428189
+173,gift of s. s. spivack,7,0.0005683202078428189
+174,gift of kynaston mcshine,7,0.0005683202078428189
+175,given anonymously in memory of arnold and miriam elkind,7,0.0005683202078428189
+176,lily auchincloss fund,7,0.0005683202078428189
+177,frederieke taylor purchase fund,7,0.0005683202078428189
+178,gift of mr. and mrs. ralph f. colin,7,0.0005683202078428189
+179,gift of e. mcknight kauffer,7,0.0005683202078428189
+180,seiden and de cuevas foundation fund,7,0.0005683202078428189
+181,gift of the author,7,0.0005683202078428189
+182,gift of gary essert,7,0.0005683202078428189
+183,gift of harvey s. shipley miller,7,0.0005683202078428189
+184,"gift of the stedelijk museum, amsterdam",7,0.0005683202078428189
+185,"gift of d. stanley corcoran, inc.",7,0.0005683202078428189
+186,"gift of david rockefeller, jr. fund, ira howard levy fund, and jeffrey p. klein purchase fund",7,0.0005683202078428189
+187,don page fund,7,0.0005683202078428189
+188,gift of della rothermel in honor of john petrik rothermel,6,0.0004871316067224162
+189,gift of r.h. macy & co.,6,0.0004871316067224162
+190,gift of push pin studios,6,0.0004871316067224162
+191,gift of atelier international ltd.,6,0.0004871316067224162
+192,mrs. gianluigi gabetti purchase fund,6,0.0004871316067224162
+193,gift of victor s. riesenfeld,6,0.0004871316067224162
+194,gift of mrs. stanley resor,6,0.0004871316067224162
+195,gift of pan american world airways,6,0.0004871316067224162
+196,gift of bonniers,6,0.0004871316067224162
+197,gift of max palevsky,6,0.0004871316067224162
+198,gift of the architects in honor of philip johnson,6,0.0004871316067224162
+199,gift of nina and gordon bunshaft,6,0.0004871316067224162
+200,gift of walter a. allner,6,0.0004871316067224162
+201,kenneth walker fund,6,0.0004871316067224162
+202,gift of the judith rothschild foundation (donation of tamar cohen and david slatoff),6,0.0004871316067224162
+203,nea architecture and design fund and purchase,6,0.0004871316067224162
+204,gift of bell laboratories,6,0.0004871316067224162
+205,gift of alice and leslie j. schreyer,6,0.0004871316067224162
+206,gift of mrs. donald b. straus,6,0.0004871316067224162
+207,gift of celeste bartos,6,0.0004871316067224162
+208,gift of panasonic company,6,0.0004871316067224162
+209,"gift of the designer through the u.s. art directors club, inc., new york",6,0.0004871316067224162
+210,architecture & design purchase fund,5,0.00040594300560201345
+211,"gift of graphisches kabinett, saarbrucken",5,0.00040594300560201345
+212,gift of the glasgow school of art,5,0.00040594300560201345
+213,gift of the designer in memory of greta daniel,5,0.00040594300560201345
+214,gift of peter stone,5,0.00040594300560201345
+215,gift of the olivetti corporation,5,0.00040594300560201345
+216,edward larrabee barnes purchase fund,5,0.00040594300560201345
+217,gift of mr. joseph h. heil,5,0.00040594300560201345
+218,gift of the family service association of america,5,0.00040594300560201345
+219,gift of the education department,5,0.00040594300560201345
+220,"gift of ira levy, mrs. donald b. marron, and purchase",5,0.00040594300560201345
+221,gift of paul f. walter,5,0.00040594300560201345
+222,gift of richards morgenthau co.,5,0.00040594300560201345
+223,gift of milton sheingarten,5,0.00040594300560201345
+224,"riva castleman endowment fund, lily auchincloss fund",5,0.00040594300560201345
+225,"gift of the swiss commercial extension office, lausanne",5,0.00040594300560201345
+226,the ralph e. shikes fund,5,0.00040594300560201345
+227,lillie p. bliss collection,5,0.00040594300560201345
+228,mr. and mrs. walter hochschild purchase fund,5,0.00040594300560201345
+229,department purchase,5,0.00040594300560201345
+230,walter bareiss fund,5,0.00040594300560201345
+231,pritzker foundation fund and architecture & design purchase fund,5,0.00040594300560201345
+232,gift of the designer through the netherlands design institute,5,0.00040594300560201345
+233,"gift of the four seasons, inc.",5,0.00040594300560201345
+234,"gift of icf, inc.",5,0.00040594300560201345
+235,"gift of mrs. alfred h. barr, jr.",5,0.00040594300560201345
+236,"gift of baccarat & porthault, inc.",5,0.00040594300560201345
+237,gift of monroe wheeler,5,0.00040594300560201345
+238,"gift of venturi, rauch, and scott brown, inc.",5,0.00040594300560201345
+239,gift of patricia phelps de cisneros,5,0.00040594300560201345
+240,gift of philip johnson fund,5,0.00040594300560201345
+241,gift of conran's,5,0.00040594300560201345
+242,gift of the architects,5,0.00040594300560201345
+243,exhibition fund,5,0.00040594300560201345
+244,gift of the general dynamics corporation,5,0.00040594300560201345
+245,gift of david whitney,5,0.00040594300560201345
+246,gift of galerie maeght,5,0.00040594300560201345
+247,gift of rob beyer,4,0.00032475440448161076
+248,gift of mildred constantine,4,0.00032475440448161076
+249,gift of mrs. mildred singer hirschkorn,4,0.00032475440448161076
+250,"gift of the william wrigley, jr. company",4,0.00032475440448161076
+251,"gift of h. e. lauffer co., inc.",4,0.00032475440448161076
+252,gift of wilder green,4,0.00032475440448161076
+253,leo castelli fund (by exchange),4,0.00032475440448161076
+254,gift of the designer and the manufacturer,4,0.00032475440448161076
+255,gift of jack banning,4,0.00032475440448161076
+256,"gift of verlag m. dumont schauberg, cologne",4,0.00032475440448161076
+257,"gift of roblee mccarthy, jr. fund and lily auchincloss fund",4,0.00032475440448161076
+258,gift of foreign advisory service corp.,4,0.00032475440448161076
+259,gift of william s. lieberman,4,0.00032475440448161076
+260,marcel breuer design fund,4,0.00032475440448161076
+261,"given in honor of arthur drexler by lily auchincloss, celeste & armand p. bartos, edward & mary barnes, samuel i. newhouse foundation, the joseph h. & florence a. roblee foundation, skidmore, owings & merrill/new york partners, geddes brecher qualls cunningham",4,0.00032475440448161076
+262,"gift of bloomingdale bros., inc.",4,0.00032475440448161076
+263,gift of michael sheehe,4,0.00032475440448161076
+264,gift of leo w. and evelyn d. farland foundation,4,0.00032475440448161076
+265,gift of judith price,4,0.00032475440448161076
+266,gift of walter gropius,4,0.00032475440448161076
+267,gift of knoll associates,4,0.00032475440448161076
+268,gift of helen and paul anbinder,4,0.00032475440448161076
+269,gift of universal limited art editions,4,0.00032475440448161076
+270,joseph h. heil fund,4,0.00032475440448161076
+271,gift of chemex corp.,4,0.00032475440448161076
+272,gift of mr. and mrs. jerzy michalowski,4,0.00032475440448161076
+273,arthur a. cohen purchase fund,4,0.00032475440448161076
+274,gift of columbia pictures,4,0.00032475440448161076
+275,nea architecture and design purchase fund and mrs. armand p. bartos,4,0.00032475440448161076
+276,gift of swissair,4,0.00032475440448161076
+277,gift of lillian nassau,4,0.00032475440448161076
+278,the ralph e. shikes fund and the friends of education of the museum of modern art,4,0.00032475440448161076
+279,gift of the office for emergency management,4,0.00032475440448161076
+280,jeanne c. thayer fund,4,0.00032475440448161076
+281,richard a. epstein fund,4,0.00032475440448161076
+282,"gift of morisawa & co., ltd.",4,0.00032475440448161076
+283,larry aldrich fund,4,0.00032475440448161076
+284,gift of john mcandrew,4,0.00032475440448161076
+285,gift of wilhelm wagenfeld,4,0.00032475440448161076
+286,"gift of knoll international, inc.",4,0.00032475440448161076
+287,gift of mr. and mrs. walter hochschild,4,0.00032475440448161076
+288,gift of murray moss,4,0.00032475440448161076
+289,gift of the american cancer society,4,0.00032475440448161076
+290,"gift of dubin & dubin, architects, chicago",4,0.00032475440448161076
+291,gift of ufa (universum-film-aktiengesellschaft),4,0.00032475440448161076
+292,gift of the new york racing association,4,0.00032475440448161076
+293,"gift of implement, ltd.",4,0.00032475440448161076
+294,gift of frederic tuten,4,0.00032475440448161076
+295,gift of the galerie denise rené,3,0.0002435658033612081
+296,gift of g. h. bass & co.,3,0.0002435658033612081
+297,gift of grapus,3,0.0002435658033612081
+298,"gift of the weyhe gallery, n.y",3,0.0002435658033612081
+299,"gift of patricia phelps de cisneros, the lauder foundation, leonard and evelyn lauder fund, and victoria newhouse purchase fund",3,0.0002435658033612081
+300,gift of the municipal arts society,3,0.0002435658033612081
+301,gift of the judith rothschild foundation (donation of galerie gmurzynska),3,0.0002435658033612081
+302,purchased in part with funds from mrs. donald b. straus,3,0.0002435658033612081
+303,gift of house of italian handicrafts,3,0.0002435658033612081
+304,gift of christian zervos,3,0.0002435658033612081
+305,"gift of rena rosenthal, inc.",3,0.0002435658033612081
+306,gift of the royal society for the prevention of accidents,3,0.0002435658033612081
+307,gift of mr. and mrs. alan kern,3,0.0002435658033612081
+308,ralph fehlbaum purchase fund,3,0.0002435658033612081
+309,gift of jacques putman,3,0.0002435658033612081
+310,"gift of the kunstmuseum, silkborg, denmark",3,0.0002435658033612081
+311,gift of paola antonelli,3,0.0002435658033612081
+312,gift of sinclair radionics,3,0.0002435658033612081
+313,"gift of design research, new york",3,0.0002435658033612081
+314,gift of lily auchincloss,3,0.0002435658033612081
+315,"the museum of modern art, new york",3,0.0002435658033612081
+316,"gift of walter p. chrysler, jr.",3,0.0002435658033612081
+317,dorothy b. and joseph m. edinburg fund,3,0.0002435658033612081
+318,gift of the swiss office for the development of trade,3,0.0002435658033612081
+319,riva castleman fund,3,0.0002435658033612081
+320,gift of galerie jakobsbrunnen,3,0.0002435658033612081
+321,gift of martin freeman co.,3,0.0002435658033612081
+322,"gift of baker furniture, inc.",3,0.0002435658033612081
+323,kay sage tanguy bequest,3,0.0002435658033612081
+324,gift of the office of war information,3,0.0002435658033612081
+325,gift of barbara pine,3,0.0002435658033612081
+326,"gift of artek-pascoe, inc.",3,0.0002435658033612081
+327,"gift of olivetti underwood, corp., new york, ny",3,0.0002435658033612081
+328,gift of the peter norton family foundation,3,0.0002435658033612081
+329,gift of eric brill in memory of abbie hoffman,3,0.0002435658033612081
+330,gift of bernard vidal and yolande flesch,3,0.0002435658033612081
+331,gift of the lauder foundation,3,0.0002435658033612081
+332,gift of ruth garvey fink and h. bernerd fink in honor of bradbury thompson,3,0.0002435658033612081
+333,linda barth goldstein fund,3,0.0002435658033612081
+334,gift of benjamin weiss,3,0.0002435658033612081
+335,gift of idg marketing ltd.,3,0.0002435658033612081
+336,marshall cogan purchase fund and jeffrey p. klein purchase fund,3,0.0002435658033612081
+337,gift of the howard wise gallery,3,0.0002435658033612081
+338,gift of office for emergency management,3,0.0002435658033612081
+339,"gift of the artist through the u.s. art directors club, inc., new york",3,0.0002435658033612081
+340,gift of the benefit for attica defense fund,3,0.0002435658033612081
+341,gift of barbro kulvik and antti siltavuori,3,0.0002435658033612081
+342,gift of mira jacob,3,0.0002435658033612081
+343,gift of w. t. reed,3,0.0002435658033612081
+344,"gift of galerie buchholz, munich",3,0.0002435658033612081
+345,j. henry schroder bank and trust company fund,3,0.0002435658033612081
+346,gift of charlotte berend-corinth,3,0.0002435658033612081
+347,estate of patricia bonfield,3,0.0002435658033612081
+348,"gift of the manufacturer and kikkerland design, inc.",3,0.0002435658033612081
+349,"philip johnson fund and aram designs ltd., london",3,0.0002435658033612081
+350,gift of sheila hicks,3,0.0002435658033612081
+351,gift of the national foundation for infantile paralysis,3,0.0002435658033612081
+352,gift of mario botta,3,0.0002435658033612081
+353,gift of the finnish ministry of commerce and industry,3,0.0002435658033612081
+354,"gift of posters original, limited",3,0.0002435658033612081
+355,"gift of polder, inc.",3,0.0002435658033612081
+356,"gift of rathcon inc., usa",3,0.0002435658033612081
+357,gift of life magazine,3,0.0002435658033612081
+358,gift of the congress of industrial organizations,3,0.0002435658033612081
+359,gift of at&t bell laboratories,3,0.0002435658033612081
+360,gift of miriam m. steinert,3,0.0002435658033612081
+361,"mr. and mrs. ralph f. colin fund, leon a. mnuchin fund, and joanne m. stern fund",3,0.0002435658033612081
+362,acquired through the helen acheson bequest,3,0.0002435658033612081
+363,gift of eliot noyes,3,0.0002435658033612081
+364,gift of peter s. scholl,3,0.0002435658033612081
+365,gift of  h. h. hecht in honor of george b. hess and alice hess lowenthal,3,0.0002435658033612081
+366,gift of the triton gallery,3,0.0002435658033612081
+367,gift of edition olympia,3,0.0002435658033612081
+368,special purchase fund (exh. 65),3,0.0002435658033612081
+369,"gift of atelier international, new york, usa",3,0.0002435658033612081
+370,gift of kunsthaus zürich,3,0.0002435658033612081
+371,gift of printex corporation,3,0.0002435658033612081
+372,blanchette hooker rockefeller purchase fund,2,0.00016237720224080538
+373,"gift of thonet brothers, inc.",2,0.00016237720224080538
+374,gift of the artist and the publisher,2,0.00016237720224080538
+375,friends of roberto burle marx fund and department purchase,2,0.00016237720224080538
+376,gift of mrs. jacquelynn schlaes,2,0.00016237720224080538
+377,gift of michael benisovich,2,0.00016237720224080538
+378,gift of patricia phelps de cisneros in honor of aaron edgar bronfman,2,0.00016237720224080538
+379,purchase and gift of mrs. manzu,2,0.00016237720224080538
+380,"gift of george kovacs, inc.",2,0.00016237720224080538
+381,department purchase fund,2,0.00016237720224080538
+382,gift of the london transport co,2,0.00016237720224080538
+383,gift of the department of agriculture,2,0.00016237720224080538
+384,gift or william p. mangold,2,0.00016237720224080538
+385,gift of robert t. buck,2,0.00016237720224080538
+386,purchased with funds given by mrs. henry i. cobb and mrs. melville wakeman hall,2,0.00016237720224080538
+387,"gift of ameico, inc.",2,0.00016237720224080538
+388,gift of claus g. manassa and renata m. schwebel in memory of george and anne-marie manassa,2,0.00016237720224080538
+389,gift of international silk association,2,0.00016237720224080538
+390,"gift of laurent oppenheim, jr.",2,0.00016237720224080538
+391,celeste bartos purchase fund,2,0.00016237720224080538
+392,gift of the coordinator of inter-american affairs,2,0.00016237720224080538
+393,gift of henry g. proskauer,2,0.00016237720224080538
+394,gift of marshall cogan and purchase,2,0.00016237720224080538
+395,gift of paul standard,2,0.00016237720224080538
+396,gift of galerie der spiegel,2,0.00016237720224080538
+397,gift of kenneth walker,2,0.00016237720224080538
+398,gift of the employees of herman miller,2,0.00016237720224080538
+399,gift of waertsila corp.,2,0.00016237720224080538
+400,gift of celeste and armand p. bartos,2,0.00016237720224080538
+401,gift of mr. and mrs. philip a. straus,2,0.00016237720224080538
+402,purchased with funds given by mrs. melville wakeman hall,2,0.00016237720224080538
+403,"david rockefeller jr. fund, gift of alvar aalto architects ltd. and department purchase fund",2,0.00016237720224080538
+404,gift of list art posters,2,0.00016237720224080538
+405,marcel breuer purchase fund,2,0.00016237720224080538
+406,gift of the xix olympics committee,2,0.00016237720224080538
+407,john d. rockefeller 3rd purchase fund,2,0.00016237720224080538
+408,gift of richard grant,2,0.00016237720224080538
+409,gift of barry friedman,2,0.00016237720224080538
+410,the elinor grasheim memorial fund,2,0.00016237720224080538
+411,gift of george e. weigl co.,2,0.00016237720224080538
+412,gift of seattle university,2,0.00016237720224080538
+413,gift of trailwise company,2,0.00016237720224080538
+414,"gift of swedlow lehman, inc.",2,0.00016237720224080538
+415,gift of james l. melcher,2,0.00016237720224080538
+416,gift of robley gallery,2,0.00016237720224080538
+417,"gift of steendrukkerij de jong & co., hilversum",2,0.00016237720224080538
+418,bequest of ludwig mies van der rohe,2,0.00016237720224080538
+419,mr. and mrs. constantine sidamon-eristoff fund,2,0.00016237720224080538
+420,gift of rfsu rehab,2,0.00016237720224080538
+421,gift of bates lowry,2,0.00016237720224080538
+422,gift of george and janet jaffin foundation,2,0.00016237720224080538
+423,gift of lars bjorkholm,2,0.00016237720224080538
+424,gift of the restaurant associates,2,0.00016237720224080538
+425,"gift of the israel museum, jerusalem",2,0.00016237720224080538
+426,gift of john goodwin,2,0.00016237720224080538
+427,gift of the pace gallery,2,0.00016237720224080538
+428,gift of station wor-fm,2,0.00016237720224080538
+429,walter bareiss fund and gift of leo auerbach (by exchange),2,0.00016237720224080538
+430,gift of olivetti corp.,2,0.00016237720224080538
+431,emery fund,2,0.00016237720224080538
+432,"gift of museum of contemporary art, chicago",2,0.00016237720224080538
+433,"given anonymously and david rockefeller, jr. purchase fund",2,0.00016237720224080538
+434,gift of steendrukkerij de jong & co,2,0.00016237720224080538
+435,gift of the josef albers foundation,2,0.00016237720224080538
+436,gift of overseas liason services,2,0.00016237720224080538
+437,gift of anna moellenhoff,2,0.00016237720224080538
+438,gift of the office of emergency management,2,0.00016237720224080538
+439,"gift of olivetti underwood corp., n. y. c.",2,0.00016237720224080538
+440,gift of saks fifth avenue,2,0.00016237720224080538
+441,"gift of fujikawa, conterato, lohan and associates",2,0.00016237720224080538
+442,"gift of moderna museet, stockholm",2,0.00016237720224080538
+443,gift of the contemporaries gallery,2,0.00016237720224080538
+444,gift of bloomingdale bros. inc.,2,0.00016237720224080538
+445,gift of susan merians,2,0.00016237720224080538
+446,"gift of roberts and regn, inc.",2,0.00016237720224080538
+447,gift of necchi sewing machine sales corp.,2,0.00016237720224080538
+448,gift of heinz berggruen,2,0.00016237720224080538
+449,andrew cogan purchase fund,2,0.00016237720224080538
+450,"gift of the graduate school of architecture, planning and preservation, columbia university",2,0.00016237720224080538
+451,gift of mrs. gilbert w. chapman,2,0.00016237720224080538
+452,gift of carl van vechten,2,0.00016237720224080538
+453,gift of mr. and mrs. gifford phillips,2,0.00016237720224080538
+454,gift of the artists,2,0.00016237720224080538
+455,gift of the cosmopolitan arts foundation,2,0.00016237720224080538
+456,gift of alicia legg,2,0.00016237720224080538
+457,"gift of time-life, inc.",2,0.00016237720224080538
+458,"gift of rca records, inc.",2,0.00016237720224080538
+459,gift of french national railways,2,0.00016237720224080538
+460,gift of sweden house,2,0.00016237720224080538
+461,"gift of the moderna museet, stockholm",2,0.00016237720224080538
+462,gertrud a. mellon fund,2,0.00016237720224080538
+463,gift of dain gallery,2,0.00016237720224080538
+464,"gift of domus academy, milan, italy",2,0.00016237720224080538
+465,"gift of ibm, new york",2,0.00016237720224080538
+466,national endowment for the arts project funds,2,0.00016237720224080538
+467,gift of g.e. kidder smith,2,0.00016237720224080538
+468,"gift of daniel morris and denis gallion, historical design collection, inc.",2,0.00016237720224080538
+469,gift of max underwood,2,0.00016237720224080538
+470,ira howard levy fund and kenneth walker fund,2,0.00016237720224080538
+471,gift of donald h. karshan,2,0.00016237720224080538
+472,gift of the netherlands information bureau,2,0.00016237720224080538
+473,gift of franklin field,2,0.00016237720224080538
+474,gift of the container corporation of america,2,0.00016237720224080538
+475,gift of the contemporary arts council of the museum of modern art in memory of hedi kravis ruger,2,0.00016237720224080538
+476,barbara jakobson fund,2,0.00016237720224080538
+477,gift of monroe wheeler in memory of philip hofer,2,0.00016237720224080538
+478,gift of jaguar cars,2,0.00016237720224080538
+479,"gift of herman miller ag, basel, switzerland",2,0.00016237720224080538
+480,"gift of h. morris & co., ltd.",2,0.00016237720224080538
+481,abby aldrich rockefeller purchase fund,2,0.00016237720224080538
+482,gift of mr. paul standard,2,0.00016237720224080538
+483,"skidmore, owings & merrill design collection purchase fund",2,0.00016237720224080538
+484,"gift of takenaka komuten co., ltd., osaka, japan",2,0.00016237720224080538
+485,gift of linda barth goldstein and julie b. janovic in honor of riva castleman,2,0.00016237720224080538
+486,gift of the judith rothschild foundation (donation of varvara rodchenko),2,0.00016237720224080538
+487,gift of the industrial design society of america,2,0.00016237720224080538
+488,gift of ambroise vollard,2,0.00016237720224080538
+489,"gift of the ministry of information, london",2,0.00016237720224080538
+490,jeffrey p. klein purchase fund,2,0.00016237720224080538
+491,"gift of daniel morris and denis gallion, historical design collection inc.",2,0.00016237720224080538
+492,gift of marshall field & co.,2,0.00016237720224080538
+493,gift of don page,2,0.00016237720224080538
+494,gift of singer sewing machine co.,2,0.00016237720224080538
+495,ngift of the manufacturer,2,0.00016237720224080538
+496,gift of galerie denise rené,2,0.00016237720224080538
+497,d. s. and r. h. gottesman foundation,2,0.00016237720224080538
+498,gift of gertrud a. mellon,2,0.00016237720224080538
+499,"gift of golden west merchandisers, usa",2,0.00016237720224080538
+500,department purchase funds,2,0.00016237720224080538
+501,transferred from museum library,2,0.00016237720224080538
+502,gift of museu de arte moderna de são paulo,2,0.00016237720224080538
+503,gift of karl gerstner,2,0.00016237720224080538
+504,gift of the edgar & theresa hyman foundation fund,2,0.00016237720224080538
+505,acquired by exchange from the university of glasgow,2,0.00016237720224080538
+506,"given in honor of arthur drexler by sydney and frances lewis, richmond, virginia",2,0.00016237720224080538
+507,acquired through the generosity of howard b. johnson in honor of riva castleman,2,0.00016237720224080538
+508,"gift of berggruen and co., paris",2,0.00016237720224080538
+509,gift of habitat associates,2,0.00016237720224080538
+510,"gift of the designer and thackrey & robertson, san francisco",2,0.00016237720224080538
+511,gift from the collection of mr. and mrs. albert greene,2,0.00016237720224080538
+512,gift of mrs. j. frederic byers,2,0.00016237720224080538
+513,gift of abercrombie & fitch,2,0.00016237720224080538
+514,gift of the judith rothschild foundation (donation of michael sheehe),2,0.00016237720224080538
+515,gift of the international council and library - latin american archive of the museum of modern art,2,0.00016237720224080538
+516,"gift of thackrey & robertson, san francisco, and the designer",2,0.00016237720224080538
+517,gift of louise chinn,2,0.00016237720224080538
+518,gift of lord & taylor,2,0.00016237720224080538
+519,"gift of waertsila corporation, new york",2,0.00016237720224080538
+520,gift of café nicholson,2,0.00016237720224080538
+521,mrs. stanley resor fund,2,0.00016237720224080538
+522,gift of jane s. and leland s. englebardt ii,2,0.00016237720224080538
+523,gift of chermayeff & geismar associates,2,0.00016237720224080538
+524,gift of owens-illinois glass co.,2,0.00016237720224080538
+525,gift of pierre apraxine,2,0.00016237720224080538
+526,"gift of thonet industries, inc.",2,0.00016237720224080538
+527,gift of patricia phelps de cisneros and the manufacturer,2,0.00016237720224080538
+528,gift of carol o. selle,2,0.00016237720224080538
+529,gift of fred leighton,2,0.00016237720224080538
+530,gift of atelier international,2,0.00016237720224080538
+531,gift of h. a. mack & co. inc.,2,0.00016237720224080538
+532,gift of orrefors galleries,2,0.00016237720224080538
+533,gift of faber donoughe,2,0.00016237720224080538
+534,gift of gérald cramer,2,0.00016237720224080538
+535,gift of agnes gund,2,0.00016237720224080538
+536,"gift of the new york public library, donnell library center",2,0.00016237720224080538
+537,"gift of the judith rothschild foundation (donation, in part, of elaine lustig cohen in memory of arthur a. cohen)",2,0.00016237720224080538
+538,"gift of mayhew-copley, ltd.",2,0.00016237720224080538
+539,gift of john b. rodgers,2,0.00016237720224080538
+540,gift of ralph o. smith co.,2,0.00016237720224080538
+541,"gift of celeste and armand p. bartos, mrs. s. i. newhouse, jr., and purchase",2,0.00016237720224080538
+542,gift of the louis comfort tiffany foundation,2,0.00016237720224080538
+543,special purchasefund (exh. 65),2,0.00016237720224080538
+544,william k. simpson fund,2,0.00016237720224080538
+545,robert k. and barbara j. straus family foundation,2,0.00016237720224080538
+546,"the philip l. goodwin collection (gift of james l. goodwin, henry sage goodwin, and richmond l. brown)",2,0.00016237720224080538
+547,gift of john bedenkapp,2,0.00016237720224080538
+548,gift of frederieke taylor and purchase,2,0.00016237720224080538
+549,gift of the stedelijk museum amsterdam,2,0.00016237720224080538
+550,"gift of lily auchincloss, celeste bartos, and marshall cogan",2,0.00016237720224080538
+551,gift of h.h. corning,2,0.00016237720224080538
+552,"gift of the east hampton gallery, new york",1,8.118860112040269e-05
+553,gift of olivetti underwood,1,8.118860112040269e-05
+554,gift of the rural electrification administration,1,8.118860112040269e-05
+555,gift of giorgio upiglio,1,8.118860112040269e-05
+556,"gift of fraser's, inc.",1,8.118860112040269e-05
+557,gift of gifford phillips and purchase,1,8.118860112040269e-05
+558,gift of fred leighton inc.,1,8.118860112040269e-05
+559,marshall cogan purchase fund and exchange,1,8.118860112040269e-05
+560,gift of robert and joyce menschel,1,8.118860112040269e-05
+561,gift of dorothy miller (by exchange),1,8.118860112040269e-05
+562,gift of inter/graph,1,8.118860112040269e-05
+563,gift of garrison products,1,8.118860112040269e-05
+564,gift of mrs. ruth abrams,1,8.118860112040269e-05
+565,gift of the rosengarten foundation,1,8.118860112040269e-05
+566,gift of braun north america,1,8.118860112040269e-05
+567,gift of laurent oppenheim,1,8.118860112040269e-05
+568,gift of finland ceramics and glass corp.,1,8.118860112040269e-05
+569,abby aldrich rockefeller fund and blanchette hooker rockefeller fund,1,8.118860112040269e-05
+570,architecture and design interest fund,1,8.118860112040269e-05
+571,gift of dan redmon,1,8.118860112040269e-05
+572,gift of marshall s. cogan in honor of barbara jakobson,1,8.118860112040269e-05
+573,gift of arthur a. goldberg,1,8.118860112040269e-05
+574,leslie j. garfield fund,1,8.118860112040269e-05
+575,joy e. feinberg fund and friends of the department fund,1,8.118860112040269e-05
+576,gift of loriano bertini,1,8.118860112040269e-05
+577,gift of barbara pine in memory of morris goldman,1,8.118860112040269e-05
+578,"gift of lenart import, ltd.",1,8.118860112040269e-05
+579,peter stone fund,1,8.118860112040269e-05
+580,gift of mrs. gifford phillips,1,8.118860112040269e-05
+581,gift of the publications department,1,8.118860112040269e-05
+582,zaidee dufallo fund and greta daniel fund,1,8.118860112040269e-05
+583,gift of the swiss national tourist office,1,8.118860112040269e-05
+584,"gift of the vitra design foundation, switzerland",1,8.118860112040269e-05
+585,gift of dr. w.j.h.b. sandberg,1,8.118860112040269e-05
+586,gift of the formica corporation,1,8.118860112040269e-05
+587,gift of charles cowles,1,8.118860112040269e-05
+588,gift of mrs. henry i. cobb,1,8.118860112040269e-05
+589,gift of the cio political action committee,1,8.118860112040269e-05
+590,don page fund and purchase,1,8.118860112040269e-05
+591,gift of pennsylvania drug co.,1,8.118860112040269e-05
+592,rob beyer purchase fund,1,8.118860112040269e-05
+593,"gift of john stuart, inc.",1,8.118860112040269e-05
+594,gift of the artist and brooke alexander,1,8.118860112040269e-05
+595,gift of aline saarinen,1,8.118860112040269e-05
+596,purchase and partial gift of leslie j. schreyer,1,8.118860112040269e-05
+597,gift of anatole pohorilenko in memory of monroe wheeler,1,8.118860112040269e-05
+598,"chermayeff and geisman associates fund, department purchase",1,8.118860112040269e-05
+599,"gift of knoll international inc., usa",1,8.118860112040269e-05
+600,gift of waertsila corporation,1,8.118860112040269e-05
+601,gift of john massey,1,8.118860112040269e-05
+602,gift of dorothy miller,1,8.118860112040269e-05
+603,gift of andrew raeburn,1,8.118860112040269e-05
+604,gift of louise l. chinn,1,8.118860112040269e-05
+605,gift of peter katz,1,8.118860112040269e-05
+606,purchase (transferred from museum library),1,8.118860112040269e-05
+607,gift of stelton usa,1,8.118860112040269e-05
+608,gift of lucia eames demetrios,1,8.118860112040269e-05
+609,gift of the philadelphia college of art,1,8.118860112040269e-05
+610,gift of herman miller furniture co.,1,8.118860112040269e-05
+611,mrs. armand p. bartos purchase fund,1,8.118860112040269e-05
+612,gift of lincoln center,1,8.118860112040269e-05
+613,gift of the war production board,1,8.118860112040269e-05
+614,gift of the manufacturer and icf inc.,1,8.118860112040269e-05
+615,"gift of yamaha electronics corporation, usa",1,8.118860112040269e-05
+616,"gift of brandeis university national women's committee, greater new york, new jersey region, in memory of lester f. avnet",1,8.118860112040269e-05
+617,gift of evelyn and robert frank,1,8.118860112040269e-05
+618,gift of the london transport enquiry office,1,8.118860112040269e-05
+619,gift of rita mcnamara pleet,1,8.118860112040269e-05
+620,gift of the associates of the department of prints and illustrated books and of elaine lustig cohen in memory of arthur a. cohen,1,8.118860112040269e-05
+621,gift of hessischer rundfunk,1,8.118860112040269e-05
+622,gift of danish information office,1,8.118860112040269e-05
+623,"gift of galerie friederich & dahlem, munich",1,8.118860112040269e-05
+624,gift of michael whiteway,1,8.118860112040269e-05
+625,gift of the olivetti company,1,8.118860112040269e-05
+626,gift of eva zeisel,1,8.118860112040269e-05
+627,gift of the estate of c.m. price,1,8.118860112040269e-05
+628,"gift of stelton, usa",1,8.118860112040269e-05
+629,joseph h. heil bequest and exchange,1,8.118860112040269e-05
+630,gift of mr. jacques and mrs. anna b. dutka,1,8.118860112040269e-05
+631,gift of peter s. reed,1,8.118860112040269e-05
+632,gift of mourlot,1,8.118860112040269e-05
+633,gift of steendrukkerij de jong and company,1,8.118860112040269e-05
+634,"gift of the museum of applied arts, england",1,8.118860112040269e-05
+635,gift of linda and julie janovic,1,8.118860112040269e-05
+636,gift of the manufacturer and aram designs ltd.,1,8.118860112040269e-05
+637,gift of leonard and evelyn lauder,1,8.118860112040269e-05
+638,purchased with funds given by mrs. akio morita,1,8.118860112040269e-05
+639,gift of japan,1,8.118860112040269e-05
+640,gift of carolyn alexander and ted bonin,1,8.118860112040269e-05
+641,gift of luiz buarque de hollanda,1,8.118860112040269e-05
+642,gift of alfred roth and anonymous donor,1,8.118860112040269e-05
+643,"abby aldrich rockefeller fund, jan tschichold collection",1,8.118860112040269e-05
+644,gift of lunds konsthall,1,8.118860112040269e-05
+645,joseph g. mayer foundation fund,1,8.118860112040269e-05
+646,gift of mary ellen meehan,1,8.118860112040269e-05
+647,given in memory of robert p. gersin,1,8.118860112040269e-05
+648,gift of sitterle ceramics,1,8.118860112040269e-05
+649,gift of lakota corporation,1,8.118860112040269e-05
+650,"gift of the finnish commission, new york world's fair, 1939-40",1,8.118860112040269e-05
+651,gift of louise bourgeois,1,8.118860112040269e-05
+652,gift of mrs. schawinsky and purchase,1,8.118860112040269e-05
+653,guimard fund,1,8.118860112040269e-05
+654,"gift of terry dintenfass, inc.",1,8.118860112040269e-05
+655,gift of the kunsthalle baden,1,8.118860112040269e-05
+656,gift of miss mildred constantine,1,8.118860112040269e-05
+657,gift of jacqueline brody,1,8.118860112040269e-05
+658,gift of the curt valentin estate (by exchange),1,8.118860112040269e-05
+659,gift of architectural supplements inc.,1,8.118860112040269e-05
+660,gift of the war department,1,8.118860112040269e-05
+661,joseph heil fund,1,8.118860112040269e-05
+662,"gift of josiah wedgwood & sons, inc. of america",1,8.118860112040269e-05
+663,"gift of stendig inc., n.y.c.",1,8.118860112040269e-05
+664,"gift of richard s. zeisler, richard kahan, and purchase",1,8.118860112040269e-05
+665,gift of galerie jeanne bucher,1,8.118860112040269e-05
+666,barcelona pavilion replacement fund,1,8.118860112040269e-05
+667,gift of jay leyda,1,8.118860112040269e-05
+668,gift of macy's,1,8.118860112040269e-05
+669,gift of ward and saks co.,1,8.118860112040269e-05
+670,"gift of herbert tugendhat, knoll international, inc. and jack lenor larsen",1,8.118860112040269e-05
+671,gift of the sidney janis gallery,1,8.118860112040269e-05
+672,gift of the judith rothschild foundation (donation of gerald janecek),1,8.118860112040269e-05
+673,gift of the university of glasgow,1,8.118860112040269e-05
+674,gift of prunella clough,1,8.118860112040269e-05
+675,museum purchase,1,8.118860112040269e-05
+676,gift of pushpin lubalin & peckolick inc.,1,8.118860112040269e-05
+677,gift of judith and riaz jurney,1,8.118860112040269e-05
+678,gift of the berggruen gallery,1,8.118860112040269e-05
+679,gift of the italian tourist bureau,1,8.118860112040269e-05
+680,gift of mrs. susanne wasson-tucker,1,8.118860112040269e-05
+681,gift of u.s.s.r. society for cultural relation with foreign countries,1,8.118860112040269e-05
+682,gift of carlo m. grossman and josie g. lindau in memory of their parents isobel and isidore grossman,1,8.118860112040269e-05
+683,"gift of alitalia, italy",1,8.118860112040269e-05
+684,gift of susan pack,1,8.118860112040269e-05
+685,"mies van der rohe archive, gift of mrs. mary callery",1,8.118860112040269e-05
+686,gift of joseph binder,1,8.118860112040269e-05
+687,gift of the manufacturer and turner-t ltd.,1,8.118860112040269e-05
+688,curt valentin bequest (by exchange),1,8.118860112040269e-05
+689,gottesman fund,1,8.118860112040269e-05
+690,gift of the crow's nest,1,8.118860112040269e-05
+691,patricia bonfield fund,1,8.118860112040269e-05
+692,gift of the czechoslovak information office,1,8.118860112040269e-05
+693,gift of mr. and mrs. wolfgang schoenborn,1,8.118860112040269e-05
+694,gift of the leo castelli gallery,1,8.118860112040269e-05
+695,transferred from department of architecture,1,8.118860112040269e-05
+696,"gift of knoll international, inc., usa",1,8.118860112040269e-05
+697,mr. and mrs. hochschild purchase fund,1,8.118860112040269e-05
+698,the print associates fund,1,8.118860112040269e-05
+699,art dealers association fund in memory of peter h. deitsch,1,8.118860112040269e-05
+700,gift of château de la sarraz,1,8.118860112040269e-05
+701,gift of the amarillo art center,1,8.118860112040269e-05
+702,gift of p. reyner banham,1,8.118860112040269e-05
+703,gift of mourlot freres,1,8.118860112040269e-05
+704,gift of carol lynn crocker,1,8.118860112040269e-05
+705,gift of the allrich gallery,1,8.118860112040269e-05
+706,gift of da burde,1,8.118860112040269e-05
+707,mary ellen meehan fund and the monroe wheeler fund,1,8.118860112040269e-05
+708,gift of the u.s. housing authority,1,8.118860112040269e-05
+709,gift of gabriel austin,1,8.118860112040269e-05
+710,"gift of herbert tugendhat, knoll international, inc., and jack lenor larsen",1,8.118860112040269e-05
+711,gift of leni matthaei,1,8.118860112040269e-05
+712,"gift of the gilman foundation, inc.",1,8.118860112040269e-05
+713,"gift of the lauder foundation, leonard and evelyn lauder fund, jack banning, and by exchange",1,8.118860112040269e-05
+714,gift of ward jackson,1,8.118860112040269e-05
+715,gift of lilian tone,1,8.118860112040269e-05
+716,gift of the publisher,1,8.118860112040269e-05
+717,"skidmore, owings & merrill design fund",1,8.118860112040269e-05
+718,by exchange,1,8.118860112040269e-05
+719,special purchase fund,1,8.118860112040269e-05
+720,gift of gump's,1,8.118860112040269e-05
+721,william k. simpson fund (in memory of abby aldrich rockefeller),1,8.118860112040269e-05
+722,vincent d'aquila and harry soviak bequest,1,8.118860112040269e-05
+723,"joy e. feinberg purchase fund. ""given with the deepest thanks by joy e. feinberg of berkeley, california""",1,8.118860112040269e-05
+724,"jeffrey p. klein purchase fund, barbara pine purchase fund, and frederieke taylor purchase fund",1,8.118860112040269e-05
+725,gift of mrs. phyllis b. lambert,1,8.118860112040269e-05
+726,david whitney collection and gift of the manufacturer,1,8.118860112040269e-05
+727,"gift of platinum pen company of america, inc.",1,8.118860112040269e-05
+728,"gift of theodore r. gamble, jr.",1,8.118860112040269e-05
+729,kenneth walker fund and gift of alvar aalto & co. architectural office,1,8.118860112040269e-05
+730,gift of j. b. neumann,1,8.118860112040269e-05
+731,gift of walter schnepel,1,8.118860112040269e-05
+732,given in honor of lily auchincloss by the international council of the museum of modern art and department purchase funds,1,8.118860112040269e-05
+733,gift of john benjamins antiquariat,1,8.118860112040269e-05
+734,gift of jan de graaff,1,8.118860112040269e-05
+735,gift of varvara rodchenko and aleksandr laverent'ev,1,8.118860112040269e-05
+736,gift of the architects in honor of lily auchincloss,1,8.118860112040269e-05
+737,"gift of luciano anselmo, torino, italy",1,8.118860112040269e-05
+738,"gift of stendig, inc.",1,8.118860112040269e-05
+739,gift of michael frei and joy atelier,1,8.118860112040269e-05
+740,gift of emilio sanchez,1,8.118860112040269e-05
+741,purchase. lily auchincloss fund,1,8.118860112040269e-05
+742,gift of w.j.h.b. sandberg,1,8.118860112040269e-05
+743,nina and gordon bunshaft bequest,1,8.118860112040269e-05
+744,gift of robert fraser gallery,1,8.118860112040269e-05
+745,gift of professor hugo munsterberg,1,8.118860112040269e-05
+746,dorothy braude edinburg fund,1,8.118860112040269e-05
+747,gift of manuel gonzalez flores,1,8.118860112040269e-05
+748,takeo ohbayashi purchase fund,1,8.118860112040269e-05
+749,"gift of gemeente-museum, the hague",1,8.118860112040269e-05
+750,gift of the artist and japan graphic idea exhibition,1,8.118860112040269e-05
+751,gift of cousins design,1,8.118860112040269e-05
+752,"national endowment for the arts purchase fund and cook and shanosky associates, inc.",1,8.118860112040269e-05
+753,gift of pirelli,1,8.118860112040269e-05
+754,gift of the u.s. office of emergency management,1,8.118860112040269e-05
+755,melva bucksbaum purchase fund,1,8.118860112040269e-05
+756,gift of richard h. waddell,1,8.118860112040269e-05
+757,gift of ludwig ries,1,8.118860112040269e-05
+758,gift of elaine lustig,1,8.118860112040269e-05
+759,"gift of pulos design associates, inc.",1,8.118860112040269e-05
+760,gift of charles cowles and mary and david robinson,1,8.118860112040269e-05
+761,"gift of architectural supplements, inc.",1,8.118860112040269e-05
+762,"robert k. and barbara j. straus family foundation, inc.",1,8.118860112040269e-05
+763,gift of elise jaffe + jeffrey brown,1,8.118860112040269e-05
+764,the dorothy braude edinburg fund and john r. jakobson foundation fund,1,8.118860112040269e-05
+765,richard s. zeisler purchase fund,1,8.118860112040269e-05
+766,"david whitney collection, gift of the manufacturer",1,8.118860112040269e-05
+767,gift of scarabaeus ltd.,1,8.118860112040269e-05
+768,chermayeff and geismar fund,1,8.118860112040269e-05
+769,gift of dr. and mrs. abram kanof,1,8.118860112040269e-05
+770,gift of le petit mouchoir,1,8.118860112040269e-05
+771,gift of internacional de ediciones s.a,1,8.118860112040269e-05
+772,gift of etac usa,1,8.118860112040269e-05
+773,gift of knoll international,1,8.118860112040269e-05
+774,gift of donn golden,1,8.118860112040269e-05
+775,"gift of the national commercial bank, jeddah, saudi arabia",1,8.118860112040269e-05
+776,gift of elizabeth sarnoff,1,8.118860112040269e-05
+777,gift of mourlot frères,1,8.118860112040269e-05
+778,"gift of the designer, works inc., and rockwell art center",1,8.118860112040269e-05
+779,gift of agnes gund in honor of patricia phelps de cisneros,1,8.118860112040269e-05
+780,gift of the artist and aldo crommelynck,1,8.118860112040269e-05
+781,gift of cleto munari,1,8.118860112040269e-05
+782,gift of mrs. m. e. wormser,1,8.118860112040269e-05
+783,"gift of rosenthal china, inc.",1,8.118860112040269e-05
+784,gift of the junior council,1,8.118860112040269e-05
+785,greta daniel fund and yale university fund,1,8.118860112040269e-05
+786,gift of chase manhattan bank,1,8.118860112040269e-05
+787,gift of john a. torson,1,8.118860112040269e-05
+788,"gift of the kunsthalle, basel",1,8.118860112040269e-05
+789,"gift of wartsila, inc.",1,8.118860112040269e-05
+790,gift of elaine lustig cohen,1,8.118860112040269e-05
+791,"gift of the manufacturer, gift of david whitney",1,8.118860112040269e-05
+792,gift of maximilian a. sepp ltd.,1,8.118860112040269e-05
+793,lily auchincloss fund in honor of joanne stern,1,8.118860112040269e-05
+794,gift of steendruckkerij de jong and company,1,8.118860112040269e-05
+795,"gift of arthur brown, inc.",1,8.118860112040269e-05
+796,gift of finland ceramics and glass,1,8.118860112040269e-05
+797,"gift of the manufacturer, heller designs, inc.",1,8.118860112040269e-05
+798,gift of mr. david prager,1,8.118860112040269e-05
+799,gift of the associates in memory of burt i. sherman,1,8.118860112040269e-05
+800,gift of mr. and mrs. arthur a. cohen,1,8.118860112040269e-05
+801,mrs. joanne m. stern fund,1,8.118860112040269e-05
+802,gift of the international council in honor of jeanne c. thayer,1,8.118860112040269e-05
+803,"gift of willoughby camera stores, inc.",1,8.118860112040269e-05
+804,gift of phyllis b. lambert,1,8.118860112040269e-05
+805,gift of raab galerie,1,8.118860112040269e-05
+806,hector guimard fund,1,8.118860112040269e-05
+807,"rob beyer purchase fund, edward larrabee barnes purchase fund, marcel breuer purchase fund, and philip johnson purchase fund",1,8.118860112040269e-05
+808,gift of lucia eames demetrios and purchase,1,8.118860112040269e-05
+809,gift of the judith rothschild foundation (donation of svetlana aronov),1,8.118860112040269e-05
+810,gift of the riklis collection of mccrory corporation,1,8.118860112040269e-05
+811,gift of landfall press,1,8.118860112040269e-05
+812,gift of the u. s. government printing office,1,8.118860112040269e-05
+813,gift of blanchette hooker rockefeller,1,8.118860112040269e-05
+814,purchase and partial gift of leslie j. schrayer,1,8.118860112040269e-05
+815,"gift of the rheinisches landesmuseum, bonn",1,8.118860112040269e-05
