@@ -23,7 +23,7 @@
 | 11 | OS Interaction using ```os``` | [OS Tree Traversal assignment](https://github.com/tnakatani/python2_ccac/tree/master/wk_11) |
 | 12 | Regex & Matplotlib workshop<br>Final Project Specification | |
 | 13 | Database Interaction (PostgreSQL, SQLite) | |
-| 14 | Final Project Presentation | |
+| 14 | Final Project Presentation | [More Exploration with MoMA Scrape](https://github.com/tnakatani/python2_ccac/tree/master/final_project) |
 
 ## Appendix
 
