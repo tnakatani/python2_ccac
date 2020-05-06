@@ -16,7 +16,7 @@ The [moma_scrape.py](moma_scrape.py) script created an artwork dataset with the 
 
 ## Step 2: Data Analysis
 
-This [Jupyter notebook](notebooks/moma_scrape_exploration.ipynb) follows the general extract, transform and load (ETL) functions using the Pandas framework.  Some findings of the analysis is then visualized using Matplotlib.
+This [Jupyter notebook](moma_scrape_exploration.ipynb) follows the general extract, transform and load (ETL) functions using the Pandas framework.  Some findings of the analysis is then visualized using Matplotlib.
 
 ## Notes About the Project
 
