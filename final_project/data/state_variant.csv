@@ -1,0 +1,10 @@
+,state_variant,count,frequency
+0,only state,21,0.44680851063829785
+1,state ii of ii,10,0.2127659574468085
+2,state iii of iii,9,0.19148936170212766
+3,state iv of iv,2,0.0425531914893617
+4,"version 2 of 2, only state",1,0.02127659574468085
+5,"version 1 of 3, state x of x",1,0.02127659574468085
+6,"version 3 of 5, state iii of iv",1,0.02127659574468085
+7,"version 3 of 5, state xii of xii",1,0.02127659574468085
+8,"version 1 of 3, state vi of vii",1,0.02127659574468085
